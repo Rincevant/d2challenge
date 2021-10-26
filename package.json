@@ -1,0 +1,20 @@
+{
+  "name": "d2challenge",
+  "version": "1.0.0",
+  "description": "diablo 2 challenge",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon -e js,ejs,html src/server.js"
+  },
+  "author": "Rincevant",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.14"
+  }
+}
