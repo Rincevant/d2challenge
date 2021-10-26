@@ -79,8 +79,9 @@ scrapper()
 function scrapper() {
     
     
-    scraper.get(urlOther[index]).then(function(tableData) {    
+    scraper.get('http://classic.battle.net/diablo2exp/items/sets/sets1.shtml').then(function(tableData) {    
 
+        console.log(tableData[19])
         var objects = tableData[11]
     
         var listObjects = []
@@ -107,7 +108,7 @@ function scrapper() {
             listObjects.push(objet)
         });          
     
-        writeFrile(listObjects)
+        //writeFrile(listObjects)
         
     });   
    

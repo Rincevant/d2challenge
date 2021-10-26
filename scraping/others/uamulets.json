@@ -1,1 +1,86 @@
-[{"value":"Normal Unique Weapon","name":"Nokozan Relic","type":"Amulet","properties":"Required Level: 10\n+20% Faster Hit Recovery\nFire Resist +50%\n+10% To Maximum Fire Resist\nAdds 3-6 Fire Damage\n+3 To Light Radius\n(Only Spawns In Patch 1.09 or later)","item":"Unique"},{"value":"Normal Unique Weapon","name":"The Eye of Etlich","type":"Amulet","properties":"Required Level: 15\n+1-5 To Light Radius (varies)\n+1 To All Skills\n3-7% Life Stolen Per Hit (varies)\nAdds (1-2) to (3-5) Cold Damage (varies)\nCold Duration: 2-10 Seconds (varies)*\n+10-40 Defense vs. Missile (varies)*\n(Spawns In Any Patch)","item":"Unique"},{"value":"Normal Unique Weapon","name":"The Mahim-Oak Curio","type":"Amulet","properties":"Required Level: 25\n+10 Defense\n+10% Enhanced Defense\n+10% Bonus To Attack Rating\nAll Resistances +10\n+10 To All Attributes\n(Only Spawns In Patch 1.09 or later)","item":"Unique"},{"value":"Normal Unique Weapon","name":"Saracen's Chance","type":"Amulet","properties":"Required Level: 47\n10% Chance To Cast Level 2 Iron Maiden When Struck\nAll Resistances +15-25 (varies)\n+12 To All Attributes\n(Only Spawns In Patch 1.09 or later)","item":"Unique"},{"value":"Normal Unique Weapon","name":"The Cat's Eye","type":"Amulet","properties":"Required Level: 50\n+30% Faster Run/Walk\n+20% Increased Attack Speed\n+100 Defense Vs. Missile\n+100 Defense\n+25 To Dexterity\n(Only Spawns In Patch 1.09 or later)","item":"Unique"},{"value":"Normal Unique Weapon","name":"Crescent Moon","type":"Amulet","properties":"Required Level: 50\n10% Damage Taken Goes To Mana\n+45 To Mana\n3-6% Life Stolen Per Hit (varies)\n11-15% Mana Stolen Per Hit (varies)\nMagic Damage Reduced By 10\n-2 To Light Radius\n(Only Spawns In Patch 1.09 or later)","item":"Unique"},{"value":"Normal Unique Weapon","name":"Atma's Scarab","type":"Amulet","properties":"Required Level: 60\n5% Chance To Cast Level 2 Amplify Damage On Striking\n20% Bonus To Attack Rating\n+40 Poison Damage over 4 seconds\nPoison Resist +75%\n+3 To Light Radius\nAttacker Takes Damage of 5\n(Only Spawns In Patch 1.09 or later)","item":"Unique"},{"value":"Normal Unique Weapon","name":"The Rising Sun","type":"Amulet","properties":"Required Level: 65\n+2 To Fire Skills\n2% Chance To Cast Level 13-19 Meteor When Struck (varies)\n+ (0.75 Per Character Level) 0-74 Fire Absorb (Based On Character Level)\nAdds 24-48 Fire Damage\nReplenish Life +10\n+4 To Light Radius\n(Only Spawns In Patch 1.10 or later)","item":"Unique"},{"value":"Normal Unique Weapon","name":"Highlord's Wrath","type":"Amulet","properties":"Required Level: 65\n+1 To All Skills\n+20% Increased Attack Speed\n+ (0.375 Per Character Level) 0-37 % Deadly Strike (Based On Character Level)\nLightning Resist +35%\nAdds 1-30 Lightning Damage\nAttacker Takes Lightning Damage Of 15\n(Only Spawns In Patch 1.09 or later)","item":"Unique"},{"value":"Normal Unique Weapon","name":"Mara's Kaleidoscope","type":"Amulet","properties":"Required Level: 67\n+2 To All Skills\nAll Resistances +20-30 (varies)\n+5 To All Attributes\n(Only Spawns In Patch 1.09 or later)","item":"Unique"},{"value":"Normal Unique Weapon","name":"Seraph's Hymn*","type":"Amulet","properties":"Required Level: 65\n+2 To All Skills\n+1-2 To Defensive Auras (Paladin Only) (varies)\n+25-50% Damage To Demons (varies)\n+150-250 To Attack Rating Against Demons (varies)\n+25-50% Damage To Undead (varies)\n+150-250 To Attack Rating Against Undead (varies)\n+2 To Light Radius\n(Ladder Only)\n(Only Spawns In Patch 1.10 or later)","item":"Unique"},{"value":"Normal Unique Weapon","name":"Metalgrid","type":"Amulet","properties":"Required Level: 81\n+400-450 To Attack Rating (varies)\nLevel 22 Iron Golem (11 Charges)\nLevel 12 Iron Maiden (20 Charges)\nAll Resistances +25-35 (varies)\n+300-350 Defense (varies)\n(Ladder Only)\n(Only Spawns In Patch 1.10 or later)","item":"Unique"}]
+[
+    {
+        "value": "Normal Unique Weapon",
+        "name": "Nokozan Relic",
+        "type": "Amulet",
+        "properties": "Required Level: 10\n+20% Faster Hit Recovery\nFire Resist +50%\n+10% To Maximum Fire Resist\nAdds 3-6 Fire Damage\n+3 To Light Radius\n(Only Spawns In Patch 1.09 or later)",
+        "item": "Unique"
+    },
+    {
+        "value": "Normal Unique Weapon",
+        "name": "The Eye of Etlich",
+        "type": "Amulet",
+        "properties": "Required Level: 15\n+1-5 To Light Radius (varies)\n+1 To All Skills\n3-7% Life Stolen Per Hit (varies)\nAdds (1-2) to (3-5) Cold Damage (varies)\nCold Duration: 2-10 Seconds (varies)*\n+10-40 Defense vs. Missile (varies)*\n(Spawns In Any Patch)",
+        "item": "Unique"
+    },
+    {
+        "value": "Normal Unique Weapon",
+        "name": "The Mahim-Oak Curio",
+        "type": "Amulet",
+        "properties": "Required Level: 25\n+10 Defense\n+10% Enhanced Defense\n+10% Bonus To Attack Rating\nAll Resistances +10\n+10 To All Attributes\n(Only Spawns In Patch 1.09 or later)",
+        "item": "Unique"
+    },
+    {
+        "value": "Normal Unique Weapon",
+        "name": "Saracen's Chance",
+        "type": "Amulet",
+        "properties": "Required Level: 47\n10% Chance To Cast Level 2 Iron Maiden When Struck\nAll Resistances +15-25 (varies)\n+12 To All Attributes\n(Only Spawns In Patch 1.09 or later)",
+        "item": "Unique"
+    },
+    {
+        "value": "Normal Unique Weapon",
+        "name": "The Cat's Eye",
+        "type": "Amulet",
+        "properties": "Required Level: 50\n+30% Faster Run/Walk\n+20% Increased Attack Speed\n+100 Defense Vs. Missile\n+100 Defense\n+25 To Dexterity\n(Only Spawns In Patch 1.09 or later)",
+        "item": "Unique"
+    },
+    {
+        "value": "Normal Unique Weapon",
+        "name": "Crescent Moon",
+        "type": "Amulet",
+        "properties": "Required Level: 50\n10% Damage Taken Goes To Mana\n+45 To Mana\n3-6% Life Stolen Per Hit (varies)\n11-15% Mana Stolen Per Hit (varies)\nMagic Damage Reduced By 10\n-2 To Light Radius\n(Only Spawns In Patch 1.09 or later)",
+        "item": "Unique"
+    },
+    {
+        "value": "Normal Unique Weapon",
+        "name": "Atma's Scarab",
+        "type": "Amulet",
+        "properties": "Required Level: 60\n5% Chance To Cast Level 2 Amplify Damage On Striking\n20% Bonus To Attack Rating\n+40 Poison Damage over 4 seconds\nPoison Resist +75%\n+3 To Light Radius\nAttacker Takes Damage of 5\n(Only Spawns In Patch 1.09 or later)",
+        "item": "Unique"
+    },
+    {
+        "value": "Normal Unique Weapon",
+        "name": "The Rising Sun",
+        "type": "Amulet",
+        "properties": "Required Level: 65\n+2 To Fire Skills\n2% Chance To Cast Level 13-19 Meteor When Struck (varies)\n+ (0.75 Per Character Level) 0-74 Fire Absorb (Based On Character Level)\nAdds 24-48 Fire Damage\nReplenish Life +10\n+4 To Light Radius\n(Only Spawns In Patch 1.10 or later)",
+        "item": "Unique"
+    },
+    {
+        "value": "Normal Unique Weapon",
+        "name": "Highlord's Wrath",
+        "type": "Amulet",
+        "properties": "Required Level: 65\n+1 To All Skills\n+20% Increased Attack Speed\n+ (0.375 Per Character Level) 0-37 % Deadly Strike (Based On Character Level)\nLightning Resist +35%\nAdds 1-30 Lightning Damage\nAttacker Takes Lightning Damage Of 15\n(Only Spawns In Patch 1.09 or later)",
+        "item": "Unique"
+    },
+    {
+        "value": "Normal Unique Weapon",
+        "name": "Mara's Kaleidoscope",
+        "type": "Amulet",
+        "properties": "Required Level: 67\n+2 To All Skills\nAll Resistances +20-30 (varies)\n+5 To All Attributes\n(Only Spawns In Patch 1.09 or later)",
+        "item": "Unique"
+    },
+    {
+        "value": "Normal Unique Weapon",
+        "name": "Seraph's Hymn*",
+        "type": "Amulet",
+        "properties": "Required Level: 65\n+2 To All Skills\n+1-2 To Defensive Auras (Paladin Only) (varies)\n+25-50% Damage To Demons (varies)\n+150-250 To Attack Rating Against Demons (varies)\n+25-50% Damage To Undead (varies)\n+150-250 To Attack Rating Against Undead (varies)\n+2 To Light Radius\n(Ladder Only)\n(Only Spawns In Patch 1.10 or later)",
+        "item": "Unique"
+    },
+    {
+        "value": "Normal Unique Weapon",
+        "name": "Metalgrid",
+        "type": "Amulet",
+        "properties": "Required Level: 81\n+400-450 To Attack Rating (varies)\nLevel 22 Iron Golem (11 Charges)\nLevel 12 Iron Maiden (20 Charges)\nAll Resistances +25-35 (varies)\n+300-350 Defense (varies)\n(Ladder Only)\n(Only Spawns In Patch 1.10 or later)",
+        "item": "Unique"
+    }
+]
