@@ -2,11 +2,11 @@ var scraper = require('table-scraper');
 // file system module to perform file operations
 const fs = require('fs');
 
-var index = 1
+var index = 4
 
 var indexValueItem = 0
 var valueItem = [ 'normal' , 'exceptional', 'elite' ]
-var itemValue = [    'Normal Unique Armor',    'Exceptionnal Unique Armor',    'Elite Unique Armor' ]
+var itemValue = [    'Normal Unique Weapon',    'Exceptionnal Unique Weapon',    'Elite Unique Weapon' ]
 
 var urlsArmor = [
     'http://classic.battle.net/diablo2exp/items/'+valueItem[indexValueItem]+'/uhelms.shtml',
@@ -22,6 +22,7 @@ var urlWeapon = [
     'http://classic.battle.net/diablo2exp/items/'+valueItem[indexValueItem]+'/ubows.shtml',
     'http://classic.battle.net/diablo2exp/items/'+valueItem[indexValueItem]+'/ucrossbows.shtml',
     'http://classic.battle.net/diablo2exp/items/'+valueItem[indexValueItem]+'/udaggers.shtml',
+    'http://classic.battle.net/diablo2exp/items/'+valueItem[indexValueItem]+'/ujavelins.shtml',
     'http://classic.battle.net/diablo2exp/items/'+valueItem[indexValueItem]+'/umaces.shtml',
     'http://classic.battle.net/diablo2exp/items/'+valueItem[indexValueItem]+'/upolearms.shtml',
     'http://classic.battle.net/diablo2exp/items/'+valueItem[indexValueItem]+'/uscepters.shtml',
@@ -29,7 +30,7 @@ var urlWeapon = [
     'http://classic.battle.net/diablo2exp/items/'+valueItem[indexValueItem]+'/ustaves.shtml',
     'http://classic.battle.net/diablo2exp/items/'+valueItem[indexValueItem]+'/uswords.shtml',
     'http://classic.battle.net/diablo2exp/items/'+valueItem[indexValueItem]+'/uthrowing.shtml',
-    'http://classic.battle.net/diablo2exp/items/'+valueItem[indexValueItem]+'/uwands.shtml'
+    'http://classic.battle.net/diablo2exp/items/'+valueItem[indexValueItem]+'/uwands.shtml' //11
 ]
 
 var urlUniqueClass = [
@@ -50,18 +51,36 @@ var urlOther = [
     'http://classic.battle.net/diablo2exp/items/normal/ucirclets.shtml'
 ]
 
-var nameFile = [    'uhelms_'+valueItem[indexValueItem]+'.json',    'uarmor_'+valueItem[indexValueItem]+'.json',    'ushields_'+valueItem[indexValueItem]+'.json',    'ugloves_'+valueItem[indexValueItem]+'.json',    'uboots_'+valueItem[indexValueItem]+'.json',    'ubelts_'+valueItem[indexValueItem]+'.json'  ]
+var nameFile = [    
+    'uaxes_'+valueItem[indexValueItem]+'.json',    
+    'ubows_'+valueItem[indexValueItem]+'.json',    
+    'ucrossbows_'+valueItem[indexValueItem]+'.json',    
+    'udaggers_'+valueItem[indexValueItem]+'.json',
+    'ujavelins_'+valueItem[indexValueItem]+'.json',    
+    'umaces_'+valueItem[indexValueItem]+'.json',    
+    'upolearms_'+valueItem[indexValueItem]+'.json',
+    'uscepters_'+valueItem[indexValueItem]+'.json',
+    'uspears_'+valueItem[indexValueItem]+'.json',
+    'ustaves_'+valueItem[indexValueItem]+'.json',
+    'uswords_'+valueItem[indexValueItem]+'.json',
+    'uthrowing_'+valueItem[indexValueItem]+'.json',
+    'uwands_'+valueItem[indexValueItem]+'.json'
+]
 
-var kind = [    'Armor',    'Weapon',    'Ring',    'Amulet',    'Charm',    'Jewel',    'Circlet' ]
-var part = [    'Helms',    'Armor',    'Shields',    'Gloves',    'Boots',    'Belts' ]
+var classNameFile = [ 'uamazon.json', 'uassassin.json', 'unecromancer.json', 'ubarbarian.json', 'usorceress.json', 'udruid.json', 'upaladin.json']
+
+var otherNameFile = [ 'urings.json', 'uamulets.json', 'ucharms.json', 'ujewels.json', 'ucirclets.json']
+
+var kind = [    /*'Armor',    'Weapon',*/    'Ring',    'Amulet',    'Charm',    'Jewel',    'Circlet' ]
+var part = [    'Axes',    'Bows',    'Crossbows',    'Daggers', 'Javelins',    'Maces',    'Polearms', 'Scepters', 'Pears', 'Staves', 'Swords', 'Throwing', 'Wands' ]
+var classes = [ 'Amazon', 'Assassin', 'Necromancer', 'Barbarian', 'Sorceress', 'Druid', 'Paladin' ]
 
 scrapper()
 function scrapper() {
     
     
-    scraper.get(urlsArmor[index]).then(function(tableData) {    
+    scraper.get(urlOther[index]).then(function(tableData) {    
 
-        console.log(tableData)
         var objects = tableData[11]
     
         var listObjects = []
@@ -71,9 +90,9 @@ function scrapper() {
             
             var objet = {} 
             
-            objet.kind = kind[0]
+            //objet.kind = kind[index]
     
-            objet.part = part[index]
+            //objet.part = part['Amazon Only']
         
             objet.value = itemValue[indexValueItem]
             
@@ -97,7 +116,7 @@ function scrapper() {
 function writeFrile(listObjects) {
     // stringify JSON Object
     var jsonContent = JSON.stringify(listObjects);
-    fs.writeFile(nameFile[index], jsonContent, 'utf8', function (err) {
+    fs.writeFile(otherNameFile[index], jsonContent, 'utf8', function (err) {
         if (err) {
             console.log("An error occured while writing JSON Object to File.");
             return console.log(err);
