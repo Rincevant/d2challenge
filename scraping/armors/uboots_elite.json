@@ -1,1 +1,26 @@
-[{"kind":"Armor","part":"Boots","value":"Elite Unique Armor","name":"","properties":"Sandstorm Trek\nScarabshell Boots","item":"Unique"},{"kind":"Armor","part":"Boots","value":"Elite Unique Armor","name":"","properties":"Marrowwalk\nBoneweave Boots","item":"Unique"},{"kind":"Armor","part":"Boots","value":"Elite Unique Armor","name":"","properties":"Shadow Dancer\nMyrmidon Greaves","item":"Unique"}]
+[
+    {
+        "kind": "Armor",
+        "part": "Boots",
+        "value": "Elite Unique Armor",
+        "name": "",
+        "properties": "Sandstorm Trek\nScarabshell Boots",
+        "item": "Unique"
+    },
+    {
+        "kind": "Armor",
+        "part": "Boots",
+        "value": "Elite Unique Armor",
+        "name": "",
+        "properties": "Marrowwalk\nBoneweave Boots",
+        "item": "Unique"
+    },
+    {
+        "kind": "Armor",
+        "part": "Boots",
+        "value": "Elite Unique Armor",
+        "name": "",
+        "properties": "Shadow Dancer\nMyrmidon Greaves",
+        "item": "Unique"
+    }
+]

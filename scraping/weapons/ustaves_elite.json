@@ -1,1 +1,20 @@
-[{"kind":"Weapon","part":"Staves","value":"Elite Unique Weapon","name":"Ondal's Wisdom","type":"Elder Staff","properties":"Two-Hand Damage: 80 To 93 (86.5 Avg)\nRequired Level: 66\nRequired Strength: 44\nRequired Dexterity: 37\nDurability: 35\nBase Weapon Speed: [0]\n+2-4 To All Skills (varies)\n+45% Faster Cast Rate\n+450-550 Defense (varies)\n+40-50 To Energy (varies)\nMagic Damage Reduced by 5-8 (varies)\n+5% To Experience Gained\n+50% Damage To Undead\n\n(Only Spawns In Patch 1.10 or later)","item":"Unique"},{"kind":"Weapon","part":"Staves","value":"Elite Unique Weapon","name":"Mang Song's Lesson","type":"Archon Staff","properties":"Two-Hand Damage: 83 To 99 (91 Avg)\nRequired Level: 82\nRequired Strength: 34\nDurability: 26\nBase Weapon Speed: [10]\n+5 To All Skills\n+30% Faster Cast Rate\n-(7-15)% To Enemy Lightning Resistances (varies)\n-(7-15)% To Enemy Cold Resistances (varies)\n-(7-15)% To Enemy Fire Resistances (varies)\nRegenerate Mana 10%\n+50% Damage To Undead\n(Ladder Only)\n(Only Spawns In Patch 1.10 or later)","item":"Unique"}]
+[
+    {
+        "kind": "Weapon",
+        "part": "Staves",
+        "value": "Elite Unique Weapon",
+        "name": "Ondal's Wisdom",
+        "type": "Elder Staff",
+        "properties": "Two-Hand Damage: 80 To 93 (86.5 Avg)\nRequired Level: 66\nRequired Strength: 44\nRequired Dexterity: 37\nDurability: 35\nBase Weapon Speed: [0]\n+2-4 To All Skills (varies)\n+45% Faster Cast Rate\n+450-550 Defense (varies)\n+40-50 To Energy (varies)\nMagic Damage Reduced by 5-8 (varies)\n+5% To Experience Gained\n+50% Damage To Undead\n\n(Only Spawns In Patch 1.10 or later)",
+        "item": "Unique"
+    },
+    {
+        "kind": "Weapon",
+        "part": "Staves",
+        "value": "Elite Unique Weapon",
+        "name": "Mang Song's Lesson",
+        "type": "Archon Staff",
+        "properties": "Two-Hand Damage: 83 To 99 (91 Avg)\nRequired Level: 82\nRequired Strength: 34\nDurability: 26\nBase Weapon Speed: [10]\n+5 To All Skills\n+30% Faster Cast Rate\n-(7-15)% To Enemy Lightning Resistances (varies)\n-(7-15)% To Enemy Cold Resistances (varies)\n-(7-15)% To Enemy Fire Resistances (varies)\nRegenerate Mana 10%\n+50% Damage To Undead\n(Ladder Only)\n(Only Spawns In Patch 1.10 or later)",
+        "item": "Unique"
+    }
+]

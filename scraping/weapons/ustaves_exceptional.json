@@ -1,1 +1,19 @@
-[{"kind":"Weapon","part":"Staves","value":"Exceptionnal Unique Weapon","name":"Razorswitch","type":"Jo Staff","properties":"Two-Hand Damage: 6 To 21 (13.5 Avg)\nRequired Level: 28\nRequired Strength: 25\nDurability: 20\nBase Weapon Speed:  [-10] \n+50% Damage To Undead\n+1 To All Skills\n30% Faster Cast Rate\nMagic Damage Reduced By 15\nAll Resistances +50\n+175 To Mana\n+80 To Life\nAttacker Takes Damage Of 15\n(Only Spawns In Patch 1.09 or later)","item":"Unique"},{"kind":"Weapon","part":"Staves","value":"Exceptionnal Unique Weapon","name":"Ribcracker","type":"Quarterstaff","item":"Unique"}]
+[
+    {
+        "kind": "Weapon",
+        "part": "Staves",
+        "value": "Exceptionnal Unique Weapon",
+        "name": "Razorswitch",
+        "type": "Jo Staff",
+        "properties": "Two-Hand Damage: 6 To 21 (13.5 Avg)\nRequired Level: 28\nRequired Strength: 25\nDurability: 20\nBase Weapon Speed:  [-10] \n+50% Damage To Undead\n+1 To All Skills\n30% Faster Cast Rate\nMagic Damage Reduced By 15\nAll Resistances +50\n+175 To Mana\n+80 To Life\nAttacker Takes Damage Of 15\n(Only Spawns In Patch 1.09 or later)",
+        "item": "Unique"
+    },
+    {
+        "kind": "Weapon",
+        "part": "Staves",
+        "value": "Exceptionnal Unique Weapon",
+        "name": "Ribcracker",
+        "type": "Quarterstaff",
+        "item": "Unique"
+    }
+]

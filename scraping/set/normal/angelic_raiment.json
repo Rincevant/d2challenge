@@ -1,0 +1,38 @@
+[
+    {
+        "setName": "",
+        "name":"Angelic Mantle",
+        "part":"Armor",
+        "type":"Ring Mail",
+        "kind": "Armor",
+        "image": "ring_mail",
+        "properties":"Defense: 68 (Base Defense: 45-48)\nDefense: 218 (Base Defense: 45-48)\nRequired Level: 12\nRequired Strength: 36\nDurability: 26\n+40% Enhanced Defense\nDamage Reduced by 3\n+150 Defense (2 Set Items)\nFire Resist +50% (3 Set Items)"
+    },
+    {
+        "setName": "",
+        "name":"",
+        "part":"",
+        "type":"",
+        "kind": "",
+        "image": "",
+        "properties":""
+    },
+    {
+        "setName": "",
+        "name":"",
+        "part":"",
+        "type":"",
+        "kind": "",
+        "image": "",
+        "properties":""
+    },
+    {
+        "setName": "",
+        "name":"",
+        "part":"",
+        "type":"",
+        "kind": "",
+        "image": "",
+        "properties":""
+    }
+]

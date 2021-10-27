@@ -1,1 +1,56 @@
-[{"kind":"Weapon","part":"Polearms","value":"Normal Unique Weapon","name":"Dimoak's Hew","type":"Bardiche","properties":"Two-Hand Damage: 2 To 54 (28 Avg)\nRequired Level: 8\nRequired Strength: 40\nDurability: 50\nBase Weapon Speed: [10]\n+100% Enhanced Damage\n+20% Increased Attack Speed\n+15 Dexterity\n-8 Defense\n(Spawns In Any Patch)","item":"Unique"},{"kind":"Weapon","part":"Polearms","value":"Normal Unique Weapon","name":"Steelgoad","type":"Voulge","properties":"Two-Hand Damage:  (9-10) To (33-37) (21-23.5 Avg)\nRequired Level: 14\nRequired Strength: 50\nDurability: 70-90 (varies)\nBase Weapon Speed: [0]\n+60-80% Enhanced Damage (varies)\n30% Deadly Strike\n+30 to Attack Rating\nAll resistances +5\nHit Causes monster to flee 75%\n(Only Spawns In Patch 1.09 or later)","item":"Unique"},{"kind":"Weapon","part":"Polearms","value":"Normal Unique Weapon","name":"Soul Harvest","type":"Scythe","properties":"Two-Hand Damage: (12-15) To (30-38) (21-26.5 Avg)\nRequired Level: 19\nRequired Strength: 41\nRequired Dexterity: 41\nDurability: 65\nBase Weapon Speed: [-10]\n+50-90% Enhanced Damage (varies)\n30% chance of Open Wounds\n10% Mana Stolen Per Hit\n+45 To Attack Rating\n+5 To Energy\nAll Resistances +20\n(Only Spawns In Patch 1.09 or later)","item":"Unique"},{"kind":"Weapon","part":"Polearms","value":"Normal Unique Weapon","name":"The Battlebranch","type":"Poleaxe","properties":"Two-Hand Damage: (27-30) To (58-66) (42.5-48 Avg)\nRequired Level: 25\nRequired Strength: 62\nDurability: 65\nBase Weapon Speed: [10]\n+50-70% Enhanced Damage (varies)\n+30% Increased Attack Speed\n+50-100 To Attack Rating (varies)\n7% Life Stolen Per Hit\n+10 To Dexterity\n(Only Spawns In Patch 1.09 or later)","item":"Unique"},{"kind":"Weapon","part":"Polearms","value":"Normal Unique Weapon","name":"Woestave","type":"Halberd","properties":"Two-Hand Damage: (14-16) To (54-62) (34-39 Avg) \nRequired Level: 28\nRequired Strength: 75\nRequired Dexterity: 47\nDurability: 55\nBase Weapon Speed: [0]\n+20-40% Enhanced Damage (varies)\n50% Chance Of Open Wounds\nSlows Target By 50%\nHit Blinds Target +3\n-50 To Monster Defense Per Hit\nFreezes Target\nPrevent Monster Heal\n-3 To Light Radius\n(Only Spawns In Patch 1.09 or later)","item":"Unique"},{"kind":"Weapon","part":"Polearms","value":"Normal Unique Weapon","name":"The Grim Reaper","type":"War Scythe","properties":"Two-Hand Damage: 33 To 43 (38 Avg)\nRequired Level: 29\nRequired Strength: 80\nRequired Dexterity: 80\nDurability: 55\nBase Weapon Speed: [-10]\n+20% Enhanced Damage\n+15 To Minimum Damage\n100% Deadly Strike\n5% Mana stolen per hit\nPrevent Monster Heal\n(Only Spawns In Patch 1.09 or later)","item":"Unique"}]
+[
+    {
+        "kind": "Weapon",
+        "part": "Polearms",
+        "value": "Normal Unique Weapon",
+        "name": "Dimoak's Hew",
+        "type": "Bardiche",
+        "properties": "Two-Hand Damage: 2 To 54 (28 Avg)\nRequired Level: 8\nRequired Strength: 40\nDurability: 50\nBase Weapon Speed: [10]\n+100% Enhanced Damage\n+20% Increased Attack Speed\n+15 Dexterity\n-8 Defense\n(Spawns In Any Patch)",
+        "item": "Unique"
+    },
+    {
+        "kind": "Weapon",
+        "part": "Polearms",
+        "value": "Normal Unique Weapon",
+        "name": "Steelgoad",
+        "type": "Voulge",
+        "properties": "Two-Hand Damage:  (9-10) To (33-37) (21-23.5 Avg)\nRequired Level: 14\nRequired Strength: 50\nDurability: 70-90 (varies)\nBase Weapon Speed: [0]\n+60-80% Enhanced Damage (varies)\n30% Deadly Strike\n+30 to Attack Rating\nAll resistances +5\nHit Causes monster to flee 75%\n(Only Spawns In Patch 1.09 or later)",
+        "item": "Unique"
+    },
+    {
+        "kind": "Weapon",
+        "part": "Polearms",
+        "value": "Normal Unique Weapon",
+        "name": "Soul Harvest",
+        "type": "Scythe",
+        "properties": "Two-Hand Damage: (12-15) To (30-38) (21-26.5 Avg)\nRequired Level: 19\nRequired Strength: 41\nRequired Dexterity: 41\nDurability: 65\nBase Weapon Speed: [-10]\n+50-90% Enhanced Damage (varies)\n30% chance of Open Wounds\n10% Mana Stolen Per Hit\n+45 To Attack Rating\n+5 To Energy\nAll Resistances +20\n(Only Spawns In Patch 1.09 or later)",
+        "item": "Unique"
+    },
+    {
+        "kind": "Weapon",
+        "part": "Polearms",
+        "value": "Normal Unique Weapon",
+        "name": "The Battlebranch",
+        "type": "Poleaxe",
+        "properties": "Two-Hand Damage: (27-30) To (58-66) (42.5-48 Avg)\nRequired Level: 25\nRequired Strength: 62\nDurability: 65\nBase Weapon Speed: [10]\n+50-70% Enhanced Damage (varies)\n+30% Increased Attack Speed\n+50-100 To Attack Rating (varies)\n7% Life Stolen Per Hit\n+10 To Dexterity\n(Only Spawns In Patch 1.09 or later)",
+        "item": "Unique"
+    },
+    {
+        "kind": "Weapon",
+        "part": "Polearms",
+        "value": "Normal Unique Weapon",
+        "name": "Woestave",
+        "type": "Halberd",
+        "properties": "Two-Hand Damage: (14-16) To (54-62) (34-39 Avg) \nRequired Level: 28\nRequired Strength: 75\nRequired Dexterity: 47\nDurability: 55\nBase Weapon Speed: [0]\n+20-40% Enhanced Damage (varies)\n50% Chance Of Open Wounds\nSlows Target By 50%\nHit Blinds Target +3\n-50 To Monster Defense Per Hit\nFreezes Target\nPrevent Monster Heal\n-3 To Light Radius\n(Only Spawns In Patch 1.09 or later)",
+        "item": "Unique"
+    },
+    {
+        "kind": "Weapon",
+        "part": "Polearms",
+        "value": "Normal Unique Weapon",
+        "name": "The Grim Reaper",
+        "type": "War Scythe",
+        "properties": "Two-Hand Damage: 33 To 43 (38 Avg)\nRequired Level: 29\nRequired Strength: 80\nRequired Dexterity: 80\nDurability: 55\nBase Weapon Speed: [-10]\n+20% Enhanced Damage\n+15 To Minimum Damage\n100% Deadly Strike\n5% Mana stolen per hit\nPrevent Monster Heal\n(Only Spawns In Patch 1.09 or later)",
+        "item": "Unique"
+    }
+]

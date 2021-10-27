@@ -1,17 +1,29 @@
 [
   {
+    "setName": "",
     "name":"Berserker's Headgear",
+    "part":"Helms",
     "type":"Helm",
+    "kind": "Armor",
+    "image": "coif_of_glory",
     "properties":"Defense: 30-33 (varies)(Base Defense: 15-18)\nRequired Level: 3\nRequired Strength: 26\nDurability: 24\n+15 Defense\nFire Resist +25%\n+ (8 Per Character Level) 48-792 Attack Rating (Based On Character Level) (2 Set Items)"
   },
   {
+    "setName": "",
     "name":"Berserker's Hauberk",
+    "part":"Armor",
     "type":"Splint Mail",
+    "kind": "Armor",
+    "image": "splint_mail",
     "properties":"Defense: 90-95 (varies)\nDefense: (93-387) - (98-392) (varies)(Base Defense: 90-95)\nRequired Level: 3\nRequired Strength: 51\nDurability: 30\n+1 to Barbarian Skill Levels\nMagic Damage Reduced by 2\n+ (3 Per Character Level) 3-297 Defense (Based On Character Level) (2 Set Items)"
   },
   {
+    "setName": "",
     "name":"Berserker's Hatchet",
+    "part":"Axes",
     "type":"Double Axe",
+    "kind": "Weapon",
+    "image": "double_axe",
     "properties":"One-Hand Damage: 5 to 13 (9 Avg)\nOne-Hand Damage: 7 to 19 (13 Avg)\nRequired Level: 3\nRequired Strength: 43\nDurability: 24\nBase Weapon Speed: [10]\n30% Bonus To Attack Rating\n5% Mana Stolen Per Hit\n+50% Enhanced Damage (2 Set Items)"
   }
 ]
