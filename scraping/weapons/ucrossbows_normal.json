@@ -6,7 +6,8 @@
         "name": "Leadcrow",
         "type": "Light Crossbow",
         "properties": "Two-Hand Damage: 10 To 15 (12.5 Avg)\nRequired Level: 9\nRequired Strength: 21\nRequired Dexterity: 27\nBase Weapon Speed: [-10]\n+70% Enhanced Damage\n25% Deadly Strike\n+40 to Attack Rating\nPoison Resist +30%\n+10 to Life\n+10 to Dexterity\n(Spawns In Any Patch)",
-        "item": "Unique"
+        "item": "Unique",
+        "image":"leadcrow"
     },
     {
         "kind": "Weapon",
@@ -15,7 +16,8 @@
         "name": "Ichorsting",
         "type": "Crossbow",
         "properties": "Two-Hand Damage: 13 To 24 (18.5 Avg)\nRequired Level: 18\nRequired Strength: 40\nRequired Dexterity: 33\nBase Weapon Speed: [0]\n+50% Enhanced Damage\nAdds 30 Poison Damage Over 3 Seconds\n20% Increased Attack Speed\nPiercing Attack (50)\n+50 to Attack Rating\n+20 to Dexterity\n(Only Spawns In Patch 1.09 or later)",
-        "item": "Unique"
+        "item": "Unique",
+        "image":"ichorsting"
     },
     {
         "kind": "Weapon",
@@ -24,7 +26,8 @@
         "name": "Hellcast",
         "type": "Heavy Crossbow",
         "properties": "Two-Hand Damage: (23-25) To (44-46) (33.5-35.5 Avg)\nRequired Level: 27\nRequired Strength: 60\nRequired Dexterity: 40\nBase Weapon Speed: [10]\n+70-80% Enhanced Damage (varies)\nFires Explosive Arrows Or Bolts [Level 5]\nAdds 15-35 Fire Damage\n20% Increased Attack Speed\n+70 to Attack Rating\n15% To Max Fire Resist\nFire Resist +15%\n(Only Spawns In Patch 1.10 or later)",
-        "item": "Unique"
+        "item": "Unique",
+        "image":"hellcast"
     },
     {
         "kind": "Weapon",
@@ -33,6 +36,7 @@
         "name": "Doomslinger",
         "type": "Repeating Crossbow",
         "properties": "Two-Hand Damage: (9-12) To (19-24) (14-18 Avg)\nRequired Level: 28\nRequired Strength: 40\nRequired Dexterity: 50\nBase Weapon Speed: [-40]\n+60-100% Enhanced Damage (varies)\nPiercing Attack (35)\n30% Increased Attack Speed\n+1 To Amazon Skill Levels\n+15 To Life\n(Only Spawns In Patch 1.09 or later)",
-        "item": "Unique"
+        "item": "Unique",
+        "image":"doomspittle"
     }
 ]

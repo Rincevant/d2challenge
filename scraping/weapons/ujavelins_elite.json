@@ -6,7 +6,8 @@
         "name": "Demon's Arch",
         "type": "Balrog Spear",
         "properties": "Throw Damage: (104-124) To (161-192) (132.5-158 Avg)\nOne-Hand Damage: (85-102) To (163-195) (124-148.5 Avg)\nRequired Level: 68\nRequired Strength: 127\nRequired Dexterity: 95\nBase Weapon Speed: [10]\nMax Stack (80)\n+160-210% Enhanced Damage (varies)\nAdds 232-323 Fire Damage\nAdds 23-333 Lightning Damage\n+30% Increased Attack Speed\n6-12% Life Stolen Per Hit (varies)\nReplenishes Quantity [1 in 3 sec.]\n(Only Spawns In Patch 1.10 or later)",
-        "item": "Unique"
+        "item": "Unique",
+        "image":"short_spear"
     },
     {
         "kind": "Weapon",
@@ -15,7 +16,8 @@
         "name": "Wraith Flight",
         "type": "Ghost Glaive",
         "properties": "Throw Damage: (112-130) To (317-368) (214.5-249 Avg)\nOne-Hand Damage: (70-81) To (225-261) (147.5-171 Avg)\nRequired Level: 76\nRequired Strength: 79\nRequired Dexterity: 127\nBase Weapon Speed: [20]\nMax Stack (75)\n+150-190% Enhanced Damage (varies)\n9-13% Life Stolen Per Hit (varies)\n+15 To Mana After Each Kill\nReplenishes Quantity [1 in 2 sec.]\nEthereal (Cannot Be Repaired)*\n(Ladder Only)\n(Only Spawns In Patch 1.10 or later)",
-        "item": "Unique"
+        "item": "Unique",
+        "image":"glaive"
     },
     {
         "kind": "Weapon",
@@ -24,6 +26,7 @@
         "name": "Gargoyle's Bite",
         "type": "Winged Harpoon",
         "properties": "Throw Damage:  (30-36) To (215-254) (122.5-145 Avg)\nOne-Hand Damage:  (75-89) To (98-115) (86.5-102 Avg)\nRequired Level: 70\nRequired Strength: 76\nRequired Dexterity: 145\nBase Weapon Speed: [-10]\nMax Stack (80)\n+180-230% Enhanced Damage (varies)\n+293 Poison Damage Over 10 Seconds\nLevel 11 Plague Javelin (60 charges)\n9-15% Life Stolen Per Hit (varies)\nReplenishes Quantity [1 in 3 sec.]\n(Only Spawns In Patch 1.10 or later)",
-        "item": "Unique"
+        "item": "Unique",
+        "image":"throwing_spear"
     }
 ]

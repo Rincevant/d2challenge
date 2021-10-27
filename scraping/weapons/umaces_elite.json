@@ -6,7 +6,8 @@
         "name": "Nord's Tenderizer",
         "type": "Truncheon",
         "properties": "One-Hand Damage: (129-150) To (159-184) (144-167 Avg)\nRequired Level: 68\nRequired Strength: 88\nRequired Dexterity: 43\nDurability: 55\nBase Weapon Speed: [-10]\n+270-330% Enhanced Damage (varies)\n+50% Damage To Undead\nAdds 205-455 Cold Damage, 5 sec. Duration (Normal)\nFreezes Target +2-4 (varies)\nCold Absorb 5-15% (varies)\n+25% Increased Attack Speed\nLevel 16 Blizzard (12 charges)\n+150-180% Bonus To Attack Rating (varies)\n(Only Spawns In Patch 1.10 or later)",
-        "item": "Unique"
+        "item": "Unique",
+        "image":"felloak"
     },
     {
         "kind": "Weapon",
@@ -15,7 +16,8 @@
         "name": "Demon Limb",
         "type": "Tyrant Club",
         "properties": "One-Hand Damage: (89-105) To (162-191) (125.5-148 Avg)\nRequired Level: 63\nRequired Strength: 133\nDurability: 65\nBase Weapon Speed: [0]\n+180-230% Enhanced Damage (varies)\n+50% Damage To Undead\n+123% Damage To Demons\nAdds 222-333 Fire Damage\n7-13% Life Stolen Per Hit (varies)\nFire Resist +15-20% (varies)\nLevel 23 Enchant (20 Charges)\nRepairs 1 Durability in 20 Seconds\n(Only Spawns In Patch 1.10 or later)",
-        "item": "Unique"
+        "item": "Unique",
+        "image":"stoutnail"
     },
     {
         "kind": "Weapon",
@@ -24,7 +26,8 @@
         "name": "Baranar's Star",
         "type": "Devil Star",
         "properties": "One-Hand Damage: 129 To 159 (144 Avg)\nRequired Level: 65\nRequired Strength: 153\nRequired Dexterity: 44\nDurability: 172\nBase Weapon Speed: [10]\n+200% Enhanced Damage\n+50% Damage To Undead\nAdds 1-200 Fire Damage\nAdds 1-200 Lightning Damage\nAdds 1-200 Cold Damage, Duration 0-7 sec.\n50% Increased Attack Speed\n200% Bonus To Attack Rating\n+15 To Dexterity\n+15 To Strength\n(Only Spawns In Patch 1.09 or later)",
-        "item": "Unique"
+        "item": "Unique",
+        "image":"bloodrise"
     },
     {
         "kind": "Weapon",
@@ -33,7 +36,8 @@
         "name": "Horizon's Tornado",
         "type": "Scourge",
         "properties": "One-Hand Damage: (9-11) To (264-304) (136.5-157.5 Avg)\nRequired Level: 64\nRequired Strength: 100\nRequired Dexterity: 62\nDurability: 65\nBase Weapon Speed: [-10]\n+230-280% Enhanced Damage (varies)\n+50% Damage To Undead\n+50% Increased Attack Speed\nSlows Target By 20%\n20% Chance To Cast Level 15 Tornado On Striking\nRequirements -20%\n(Only Spawns In Patch 1.10 or later)",
-        "item": "Unique"
+        "item": "Unique",
+        "image":"flail"
     },
     {
         "kind": "Weapon",
@@ -42,7 +46,8 @@
         "name": "Stormlash",
         "type": "Scourge",
         "properties": "One-Hand Damage: (10-12) To (272-320) (141-166 Avg)\nRequired Level: 82\nRequired Strength: 125\nRequired Dexterity: 77\nDurability: 65\nBase Weapon Speed: [-10]\n+240-300% Enhanced Damage (varies)\n+50% Damage To Undead\nAdds 1-473 Lightning Damage\n+30% Increased Attack Speed\n+33% Chance of Crushing Blow\n20% Chance To Cast Level 18 Tornado On Striking\n15% Chance To Cast Level 10 Static Field On Striking\n+3-9 Lightning Absorb (varies)\nAttacker Takes Lightning Damage of 30\n(Only Spawns In Patch 1.10 or later)",
-        "item": "Unique"
+        "item": "Unique",
+        "image":"flail"
     },
     {
         "kind": "Weapon",
@@ -51,7 +56,8 @@
         "name": "Stone Crusher",
         "type": "Legendary Mallet",
         "properties": "One-Hand Damage: (190-210) To (231-256) (210.5-233 Avg)\nRequired Level: 68\nRequired Strength: 189\nDurability: 65\nBase Weapon Speed: [20]\n+280-320% Enhanced Damage (varies)\nDamage +10-30 (varies)\n+50% Damage To Undead\n-25% Target Defense\n40% Chance of Crushing Blow\n-100 To Monster Defense Per Hit\n+20-30 To Strength (varies)\n(Only Spawns In Patch 1.10 or later)",
-        "item": "Unique"
+        "item": "Unique",
+        "image":"war_hammer"
     },
     {
         "kind": "Weapon",
@@ -60,7 +66,8 @@
         "name": "Schaefer's Hammer",
         "type": "Legendary Mallet",
         "properties": "One-Hand Damage: (100-114) To (124-338) (112-226 Avg)\nRequired Level: 79\nRequired Strength: 189\nBase Weapon Speed: [20]\n+100-130% Enhanced Damage (varies)\n+ (2 Per Character Level) 2-198 To Maximum Damage (Based On Character Level)\nAdds 50-200 Lightning Damage\n+50% Damage To Undead\n20% Chance To Cast Level 10 Static Field On Striking\n20% Increased Attack Speed\n+ (8 Per Character Level) 8-792 To Attack Rating (Based On Character Level)\nLightning Resist +75%\n+50 To Life\n+1 To Light Radius\nIndestructible\n(Only Spawns In Patch 1.09 or later)",
-        "item": "Unique"
+        "item": "Unique",
+        "image":"war_hammer"
     },
     {
         "kind": "Weapon",
@@ -69,7 +76,8 @@
         "name": "Windhammer",
         "type": "Ogre Maul",
         "properties": "Two-Hand Damage: (215-254) To (296-349) (255.5-301.5 Avg)\nRequired Level: 68\nRequired Strength: 225\nDurability: 60\nBase Weapon Speed: [10]\n+180-230% Enhanced Damage (varies)\n50% Chance of Crushing Blow\n60% Increased Attack Speed\n33% Chance To Cast Level 22 Twister On Striking\n+50% Damage To Undead\n(Only Spawns In Patch 1.10 or later)",
-        "item": "Unique"
+        "item": "Unique",
+        "image":"maul"
     },
     {
         "kind": "Weapon",
@@ -78,7 +86,8 @@
         "name": "Earth Shifter",
         "type": "Thunder Maul",
         "properties": "Two-Hand Damage: (115-132) To (630-720) (372.5-426 Avg)\nRequired Level: 69\nRequired Strength: 253\nDurability: 60\nBase Weapon Speed: [20]\n+250-300% Enhanced Damage (varies)\n+50% Damage To Undead\n+7 To Elemental Skills (Druid Only)\n25% Chance To Cast Level 14 Fissure On Striking\n10% Increased Attack Speed\n33% Chance of Crushing Blow\n10% Faster Cast Rate\nLevel 14 Volcano (30 charges)\n(Only Spawns In Patch 1.10 or later)",
-        "item": "Unique"
+        "item": "Unique",
+        "image":"great_maul"
     },
     {
         "kind": "Weapon",
@@ -87,6 +96,7 @@
         "name": "The Cranium Basher",
         "type": "Thunder Maul",
         "properties": "Two-Hand Damage: (119-132) To (560-632) (339.5-382 Avg)\nRequired Level: 87\nRequired Strength: 253\nBase Weapon Speed: [20]\n+200-240% Enhanced Damage (varies)\n+20 To Minimum Damage\n+50% Damage To Undead\n75% Chance Of Crushing Blow\n4% Chance To Cast Level 1 Amplify Damage On Striking\n20% Increased Attack Speed\nAll Resistances +25\n+25 To Strength\n+20 To Maximum Damage (not shown)\nIndestructible\n(Only Spawns In Patch 1.09 or later)",
-        "item": "Unique"
+        "item": "Unique",
+        "image":"great_maul"
     }
 ]
