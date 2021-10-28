@@ -6,7 +6,8 @@
         "name": "Bane Ash",
         "type": "Short Staff",
         "properties": "Two-Hand Damage: 1 To (7-8) (4-4.5 Avg)\nRequired Level: 5\nDurability: 20\nBase Weapon Speed: [-10]\n+50-60% Enhanced Damage (varies)\n+50% Damage To Undead\n20% Increased Attack Speed\n+30 To Mana\nFire Resist +50%\nAdds 4-6 Fire Damage\n+5 To Fire Bolt (Sorceress Only)\n+2 To Warmth (Sorceress Only)\n(Only Spawns In Patch 1.09 or later)",
-        "item": "Unique"
+        "item": "Unique",
+        "image" : "long_staff"
     },
     {
         "kind": "Weapon",
@@ -14,6 +15,7 @@
         "value": "Normal Unique Weapon",
         "name": "Serpent Lord",
         "type": "Long Staff",
-        "item": "Unique"
+        "item": "Unique",
+        "image" : "long_staff"
     }
 ]

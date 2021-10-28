@@ -6,7 +6,8 @@
         "name": "Zakarum's Hand",
         "type": "Rune Scepter",
         "properties": "One-Hand Damage: (36-41) To (67-76) (51.5-58.5 Avg)\nRequired Level: 37\nRequired Strength: 58\nDurability: 50\nBase Weapon Speed: [0]\n+180-220% Enhanced Damage (varies)\n+50% Damage To Undead\n30% Increased Attack Speed\n6% Chance To Cast Level 5 Blizzard On Striking\n8% Mana Stolen Per Hit\nIgnore Target's Defense\nRegenerate Mana 10%\nHeal Stamina Plus 15%\n+2 To Holy Shock (Paladin Only)\n+2 To Holy Freeze (Paladin Only)\n(Only Spawns In Patch 1.09 or later)",
-        "item": "Unique"
+        "item": "Unique",
+        "image": "scepter"
     },
     {
         "kind": "Weapon",
@@ -15,7 +16,8 @@
         "name": "The Fetid Sprinkler",
         "type": "Holy Water Sprinkler",
         "properties": "One-Hand Damage: (51-55) To (118-129) (84.5-92 Avg)\nRequired Level: 38\nRequired Strength: 76\nDurability: 60\nBase Weapon Speed: [10]\n+160-190% Enhanced Damage (varies)\nAdds 15-25 Damage\n+50% Damage To Undead\n+2 To Paladin Skill Levels\n10% Chance To Cast Level 1 Confuse On Striking\n5% Chance To Cast Level 1 Decrepify On Striking\n+160 Poison Damage Over 4 Seconds\n+150-200 To Attack Rating (varies)\n(Only Spawns In Patch 1.09 or later)",
-        "item": "Unique"
+        "item": "Unique",
+        "image": "grand_scepter"
     },
     {
         "kind": "Weapon",
@@ -24,6 +26,7 @@
         "name": "Hand of Blessed Light",
         "type": "Divine Scepter",
         "properties": "One-Hand Damage: (56-61) To (132-143) (94-102 Avg)\nRequired Level: 42\nRequired Strength: 103\nDurability: 70\nBase Weapon Speed: [-10]\n+130-160% Enhanced Damage (varies)\nAdds 20-45 Damage\n+50% Damage To Undead\n+2 To Paladin Skill Levels\n100% Bonus To Attack Rating\nRegenerate Mana 15%\n+50 Defense\n5% Chance To Cast Level 4 Fist Of Heavens On Striking\n+2 To Fist Of The Heavens (Paladin Only)\n+4 Holy Bolt (Paladin Only)\n+4 To Light Radius\n(Only Spawns In Patch 1.09 or later)",
-        "item": "Unique"
+        "item": "Unique",
+        "image": "war_scepter"
     }
 ]

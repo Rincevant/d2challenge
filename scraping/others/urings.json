@@ -1,65 +1,92 @@
 [
     {
-        "value": "Normal Unique Weapon",
+        "part" : "Ring",
+        "kind" : "Other",
+        "value": "Normal Unique Other",
         "name": "Nagelring",
         "type": "Ring",
         "properties": "Required Level: 7\nMagic Damage Reduced By 3\n+50-75 To Attack Rating (varies)\nAttacker Takes Damage of 3*\n15-30% Better Chance of Getting Magic Items (varies)\n(Only Spawns In Patch 1.09 or later)",
-        "item": "Unique"
+        "item": "Unique",
+        "image" : "ring4"
     },
     {
-        "value": "Normal Unique Weapon",
+        "part" : "Ring",
+        "kind" : "Other",
+        "value": "Normal Unique Other",
         "name": "Manald Heal",
         "type": "Ring",
         "properties": "Required Level: 15\n4-7% Mana Stolen Per Hit (varies)\nReplenish Life +5-8 (varies)\nRegenerate Mana 20%\n+20 To Life\n(Only Spawns In Patch 1.09 or later)",
-        "item": "Unique"
+        "item": "Unique",
+        "image" : "ring5"
     },
     {
-        "value": "Normal Unique Weapon",
+        "part" : "Ring",
+        "kind" : "Other",
+        "value": "Normal Unique Other",
         "name": "Stone of Jordan",
         "type": "Ring",
         "properties": "Required Level: 29\n+1 To All Skills\nIncrease Maximum Mana 25%*\nAdds 1-12 Lightning Damage\n+20 To Mana\n(Spawns In Any Patch)",
-        "item": "Unique"
+        "item": "Unique",
+        "image" : "ring1"
     },
     {
-        "value": "Normal Unique Weapon",
+        "part" : "Ring",
+        "kind" : "Other",
+        "value": "Normal Unique Other",
         "name": "Dwarf Star",
         "type": "Ring",
         "properties": "Required Level: 45\n+40 To Life\n+40 Maximum Stamina\nHeal Stamina Plus 15%\nFire Absorb 15%\nMagic Damage Reduced By 12-15 (varies)\n100% Extra Gold From Monsters\n(Only Spawns In Patch 1.09 or later)",
-        "item": "Unique"
+        "item": "Unique",
+        "image" : "ring5"
     },
     {
-        "value": "Normal Unique Weapon",
+        "part" : "Ring",
+        "kind" : "Other",
+        "value": "Normal Unique Other",
         "name": "Raven Frost",
         "type": "Ring",
         "properties": "Required Level: 45\n+150-250 To Attack Rating (varies)\nAdds 15-45 Cold Damage, 4 sec. Duration (Normal)\nCannot Be Frozen\n+15-20 To Dexterity (varies)\n+40 To Mana\nCold Absorb 20%\n(Only Spawns In Patch 1.09 or later)",
-        "item": "Unique"
+        "item": "Unique",
+        "image" : "ring1"
     },
     {
-        "value": "Normal Unique Weapon",
+        "part" : "Ring",
+        "kind" : "Other",
+        "value": "Normal Unique Other",
         "name": "Bul-Kathos' Wedding Band",
         "type": "Ring",
         "properties": "Required Level: 58\n+1 To All Skills\n+ (0.5 Per Character Level) 0-49 To Life (Based On Character Level)\n3-5% Life Stolen Per Hit (varies)\n+50 Maximum Stamina\n(Only Spawns In Patch 1.09 or later)",
-        "item": "Unique"
+        "item": "Unique",
+        "image" : "ring4"
     },
     {
-        "value": "Normal Unique Weapon",
+        "part" : "Ring",
+        "kind" : "Other",
+        "value": "Normal Unique Other",
         "name": "Carrion Wind",
         "type": "Ring",
         "properties": "Required Level: 60\n10% Chance To Cast Level 10 Poison Nova When Struck\n8% Chance To Cast Level 13 Twister On Striking\n6-9% Life Stolen Per Hit (varies)\n+100-160 Defense Vs. Missile (varies)\nPoison Resist +55%\n10% Damage Taken Goes To Mana\nLevel 21 Poison Creeper (15 Charges)\n(Only Spawns In Patch 1.10 or later)",
-        "item": "Unique"
+        "item": "Unique",
+        "image" : "ring1"
     },
     {
-        "value": "Normal Unique Weapon",
+        "part" : "Ring",
+        "kind" : "Other",
+        "value": "Normal Unique Other",
         "name": "Nature's Peace",
         "type": "Ring",
         "properties": "Required Level: 69\nSlain Monsters Rest In Peace*\nPrevent Monster Heal\nPoison Resist +20-30% (varies)\nDamage Reduced By 7-11 (varies)\nLevel 5 Oak Sage (27 charges)\n(Ladder Only)\n(Only Spawns In Patch 1.10 or later)",
-        "item": "Unique"
+        "item": "Unique",
+        "image" : "ring5"
     },
     {
-        "value": "Normal Unique Weapon",
+        "part" : "Ring",
+        "kind" : "Other",
+        "value": "Normal Unique Other",
         "name": "Wisp Projector",
         "type": "Ring",
         "properties": "Required Level: 76\n10% Chance To Cast Level 16 Lightning On Striking\nLightning Absorb 10-20% (varies)\n10-20% Better Chance of Getting Magic Items (varies)\nLevel 7 Spirit of Barbs (11 charges)\nLevel 5 Heart of Wolverine (13 charges)\nLevel 2 Oak Sage (15 charges)\n(Only Spawns In Patch 1.10 or later)",
-        "item": "Unique"
+        "item": "Unique",
+        "image" : "ring4"
     }
 ]

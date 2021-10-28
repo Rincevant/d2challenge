@@ -6,7 +6,8 @@
         "name": "Deathbit",
         "type": "Battle Dart",
         "properties": "Throw Damage: (25-30) To (55-67) (40-48.5 Avg)\nOne-Hand Damage: (18-22) To (36-44) (27-33 Avg)\nRequired Level: 44\nRequired Strength:  25\nRequired Dexterity:  52\nBase Weapon Speed: [0]\nMax Stack (160)\n+130-180% Enhanced Damage (varies)\n40% Deadly Strike\n+200-450 To Attack Rating (varies)\n7-9% Life Stolen Per Hit (varies)\n4-6% Mana Stolen Per Hit (varies)\nReplenishes Quantity [1 in 4 sec.]\n(Only Spawns In Patch 1.10 or later)",
-        "item": "Unique"
+        "item": "Unique",
+        "image" : "throwing_knife"
     },
     {
         "kind": "Weapon",
@@ -15,6 +16,7 @@
         "name": "The Scalper",
         "type": "Francisca",
         "properties": "Throw Damage: (45-54) To (82-99) (63.5-76.5 Avg)\nOne-Hand Damage: (27-33) To (55-66) (41-49.5 Avg)\nRequired Level: 57\nRequired Strength:  25\nRequired Dexterity:  80\nBase Weapon Speed: [10]\nMax Stack (130)\n+150-200% Enhanced Damage (varies)\n33% Chance Of Open Wounds\n+4 To Mana After Each Kill\n20% Increased Attack Speed\n25% Bonus To Attack Rating\n4-6% Life Stolen Per Hit (varies)\nReplenishes Quantity [1 in 3 sec.]\n(Only Spawns In Patch 1.10 or later)",
-        "item": "Unique"
+        "item": "Unique",
+        "image" : "throwing_axe"
     }
 ]

@@ -6,7 +6,8 @@
         "name": "Felloak",
         "type": "Club",
         "properties": "One-Hand Damage: 1 To 10 (5.5 Avg)\nRequired Level: 3\nDurability: 24\nBase Weapon Speed: [-10]\n+70-80% Enhanced Damage (varies)\n+50% Damage To Undead\nAdds 6-8 Fire Damage\nKnockback\nLightning Resist +60%\nFire Resist +20%\n(Only Spawns In Patch 1.09 or later)",
-        "item": "Unique"
+        "item": "Unique",
+        "image": "felloak"
     },
     {
         "kind": "Weapon",
@@ -15,7 +16,8 @@
         "name": "Stoutnail",
         "type": "Spiked Club",
         "properties": "One-Hand Damage: 10 To 16 (13 Avg)\nRequired Level: 5\nDurability: 36\nBase Weapon Speed: [0]\n+100% Enhanced Damage\n+50% Damage To Undead\n+7 To Vitality\nAttacker Takes Damage of 3-10 (varies)\nMagic Damage Reduced By 2\n(Only Spawns In Patch 1.09 or later)",
-        "item": "Unique"
+        "item": "Unique",
+        "image": "stoutnail"
     },
     {
         "kind": "Weapon",
@@ -24,7 +26,8 @@
         "name": "Crushflange",
         "type": "Mace",
         "properties": "One-Hand Damage: 4 To (15-16) (9.5-10 Avg)\nRequired Level: 9\nRequired Strength: 27\nDurability: 60\nBase Weapon Speed: [0]\n+50-60% Enhanced Damage (varies)\n+50% Damage To Undead\n33% Chance Of Crushing Blow\nKnockback\nFire Resist +50%\n+15 To Strength\n+2 To Light Radius\n(Only Spawns In Patch 1.09 or later)",
-        "item": "Unique"
+        "item": "Unique",
+        "image": "mace"
     },
     {
         "kind": "Weapon",
@@ -33,7 +36,8 @@
         "name": "Bloodrise",
         "type": "Morning Star",
         "properties": "One-Hand Damage: 15 To 35 (25 Avg)\nRequired Level: 15\nRequired Strength: 36\nDurability: 72\nBase Weapon Speed: [10]\n+120% Enhanced Damage\n+50% Damage To Undead\n25% Chance Of Open Wounds\n10% Increased Attack Speed\n5% Life Stolen Per Hit\n50% bonus to Attack Rating\n+3 To Sacrifice (Paladin Only)\n+2 To Light Radius\n(Only Spawns In Patch 1.09 or later)",
-        "item": "Unique"
+        "item": "Unique",
+        "image": "bloodrise"
     },
     {
         "kind": "Weapon",
@@ -42,7 +46,8 @@
         "name": "The General's Tan Do Li Ga",
         "type": "Flail",
         "properties": "One-Hand Damage: 2 To (56-58) (29-30 Avg)\nRequired Level: 21\nRequired Strength: 41\nRequired Dexterity: 35\nDurability: 30\nBase Weapon Speed: [-10]\n+50-60% Enhanced Damage (varies)\n+50% Damage To Undead\nAdds 1-20 Damage\n20% Increased Attack Speed\n5% Mana Stolen Per Hit\nSlows Target By 50%\n+25 Defense\n(Only Spawns In Patch 1.09 or later)",
-        "item": "Unique"
+        "item": "Unique",
+        "image": "flail"
     },
     {
         "kind": "Weapon",
@@ -51,7 +56,8 @@
         "name": "Ironstone",
         "type": "War Hammer",
         "properties": "One-Hand Damage: (38-47) To (58-72) (48-59.5 Avg)\nRequired Level: 27\nRequired Strength: 53\nDurability: 55\nBase Weapon Speed: [20]\n+100-150% Enhanced Damage (varies)\n+50% Damage To Undead\nAdds 1-10 Lightning Damage\n+100-150 To Attack Rating (varies)\n+10 To Strength\n(Only Spawns In Patch 1.09 or later)",
-        "item": "Unique"
+        "item": "Unique",
+        "image": "war_hammer"
     },
     {
         "kind": "Weapon",
@@ -60,7 +66,8 @@
         "name": "Bonesnap",
         "type": "Maul",
         "properties": "Two-Hand Damage: (90-120) To (129-172) (109.5-146 Avg)\nRequired Level: 24\nRequired Strength: 69\nDurability: 60\nBase Weapon Speed: [10]\n+200-300% Enhanced Damage (varies)\n+100% Damage To Undead\n40% chance of Crushing Blow\nCold Resist +30%\nFire Resist +30%\n(Only Spawns In Patch 1.09 or later)",
-        "item": "Unique"
+        "item": "Unique",
+        "image": "bonesob"
     },
     {
         "kind": "Weapon",
@@ -69,6 +76,7 @@
         "name": "Steeldriver",
         "type": "Great Maul",
         "properties": "Two-Hand Damage: (95-133) To (145-203) (120-168 Avg)\nRequired Level: 29\nRequired Strength: 50\nDurability: 60\nBase Weapon Speed: [20]\n+150-250% Enhanced Damage (varies)\n+50% Damage To Undead\n40% Increased Attack Speed\nRequirements -50%\nHeal Stamina plus 25%\n(Only Spawns In Patch 1.09 or later)",
-        "item": "Unique"
+        "item": "Unique",
+        "image": "great_maul"
     }
 ]

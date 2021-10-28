@@ -6,7 +6,8 @@
         "name": "Knell Striker",
         "type": "Scepter",
         "properties": "One-Hand Damage: 10 To (18-19) (14-14.5 Avg)\nRequired Level: 5\nRequired Strength: 25\nDurability: 50\nBase Weapon Speed: [0]\n+70-80% Enhanced Damage (varies)\n+50% Damage To Undead\n25% Chance Of Crushing Blow\n+35 To Attack Rating\nPoison Resist +20%\nFire Resist +20%\n+15 To Mana\n(Only Spawns In Patch 1.09 or later)",
-        "item": "Unique"
+        "item": "Unique",
+        "image": "scepter"
     },
     {
         "kind": "Weapon",
@@ -15,7 +16,8 @@
         "name": "Rusthandle",
         "type": "Grand Scepter",
         "properties": "One-Hand Damage: 15 To (34-35) (24.5-25 Avg)\nRequired Level: 18\nRequired Strength: 37\nDurability: 60\nBase Weapon Speed: [10]\n+50-60% Enhanced Damage (varies)\nAdds 3-7 damage\n+100-110% Damage To Undead (varies)\n8% Life stolen per hit\n+1 To Paladin Skill Levels\nMagic damage reduced by 1\n+3 To Thorns (Paladin Only)\n+1-3 To Vengeance (Paladin Only) (varies)\n(Only Spawns In Patch 1.09 or later)",
-        "item": "Unique"
+        "item": "Unique",
+        "image": "grand_scepter"
     },
     {
         "kind": "Weapon",
@@ -24,6 +26,7 @@
         "name": "Stormeye",
         "type": "War Scepter",
         "properties": "One-Hand Damage: (18-22) To (30-37) (24-29.5 Avg)\nRequired Level: 30\nRequired Strength: 55\nDurability: 70\nBase Weapon Speed: [-10]\n+80-120% Enhanced Damage (varies)\n+50% Damage To Undead\nAdds 3-5 Cold Damage, Cold Duration: 3 seconds\nAdds 1-6 Lightning Damage\nReplenish Life +10\n+1 To Fist Of The Heavens (Paladin Only)\n+3 To Holy Shock (Paladin Only)\n+3-5 To Resist Lightning (Paladin Only) (varies)\n(Only Spawns In Patch 1.09 or later)",
-        "item": "Unique"
+        "item": "Unique",
+        "image": "war_scepter"
     }
 ]

@@ -6,7 +6,8 @@
         "name": "The Impaler",
         "type": "War Spear",
         "properties": "Two-Hand Damage: (24-27) To (88-99) (56-63 Avg)\nRequired Level: 31\nRequired Strength: 25\nRequired Dexterity: 25\nDurability: 30\nBase Weapon Speed: [-10]\n+140-170% Enhanced Damage (varies)\n40% Chance Of Open Wounds\n+20% Increased Attack Speed\nIgnore Target's Defense\n+150 To Attack Rating\nPrevent Monster Heal\n+5 To Impale (Amazon Only)\n+3 To Power Strike (Amazon Only)\n(Only Spawns In Patch 1.09 or later)",
-        "item": "Unique"
+        "item": "Unique",
+        "image": "spear"
     },
     {
         "kind": "Weapon",
@@ -15,7 +16,8 @@
         "name": "Kelpie Snare",
         "type": "Fuscina",
         "properties": "Two-Hand Damage: (75-83) To (138-153) (106.5-118 Avg)\nRequired Level: 33\nRequired Strength: 77\nRequired Dexterity: 25\nDurability: 35\nBase Weapon Speed: [0]\n+140-180% Enhanced Damage (varies)\nAdds 30-50 Damage\nSlows Target By 75%\n+ (1.25 Per Character Level) 1-123 To Life (Based On Character Level)\nFire Resist +50%\n+10 To Strength\n(Only Spawns In Patch 1.09 or later)",
-        "item": "Unique"
+        "item": "Unique",
+        "image": "razortine"
     },
     {
         "kind": "Weapon",
@@ -24,7 +26,8 @@
         "name": "Soulfeast Tine",
         "type": "War Fork",
         "properties": "Two-Hand Damage: (40-46) To (100-116) (70-81 Avg)\nRequired Level: 35\nRequired Strength: 64\nRequired Dexterity: 76\nDurability: 43\nBase Weapon Speed: [-20]\n+150-190% Enhanced Damage (varies)\n+150-250 To Attack Rating (varies)\nRequirements -20%\n7% Life Stolen Per Hit\n7% Mana Stolen Per Hit\n20% Slower Stamina Drain\n(Only Spawns In Patch 1.09 or later)",
-        "item": "Unique"
+        "item": "Unique",
+        "image": "soulfeast_tine"
     },
     {
         "kind": "Weapon",
@@ -33,7 +36,8 @@
         "name": "Hone Sundan",
         "type": "Yari",
         "properties": "Two-Hand Damage: (95-107) To (193-217) (144-162 Avg)\nRequired Level: 37\nRequired Strength: 101\nBase Weapon Speed: [0]\nDurability: 28\n+160-200% Enhanced Damage (varies)\nAdds 20-40 Damage\n45% Chance of Crushing Blow\nRepairs 1 Durability In 10 Seconds\nSocketed (3)\n(Only Spawns In Patch 1.09 or later)",
-        "item": "Unique"
+        "item": "Unique",
+        "image": "spetum"
     },
     {
         "kind": "Weapon",
@@ -42,6 +46,7 @@
         "name": "Spire of Honor",
         "type": "Lance",
         "properties": "Two-Hand Damage: (87-101) To (325-382) (206-241.5 Avg)\nRequired Level: 39\nRequired Strength: 110\nRequired Dexterity: 88\nDurability: 25\nBase Weapon Speed: [20]\n+150-200% Enhanced Damage (varies)\nAdds 20-40 Damage\n+ (1.5 Per Character Level) 1-148 % Damage To Demons (Based On Character Level)\n20% Faster Hit Recovery\nReplenish Life +20\n+25% Bonus To Attack Rating\n+25% Enhanced Defense\n+3 To Combat Skills (Paladin Only)\n+3 To Light Radius\n(Only Spawns In Patch 1.09 or later)",
-        "item": "Unique"
+        "item": "Unique",
+        "image": "pike"
     }
 ]

@@ -6,7 +6,8 @@
         "name": "Heaven's Light",
         "type": "Mighty Scepter",
         "properties": "One-Hand Damage: (140-160) To (182-208) (161-184 Avg)*\nRequired Level: 61\nRequired Strength: 125\nRequired Dexterity: 65\nDurability: 50\nBase Weapon Speed: [0]\n\n+250-300% Enhanced Damage (varies)\n+50% Damage To Undead\n-33% Target Defense\n+20% Increased Attack Speed\n33% Chance of Crushing Blow\n+15-20 Life After Each Demon Kill (varies)\n+2-3 To Paladin Skill Levels (varies)\n+3 To Light Radius\nSocketed (1-2) (varies)*\n(Ladder Only)\n(Only Spawns In Patch 1.10 or later)",
-        "item": "Unique"
+        "item": "Unique",
+        "image": "scepter"
     },
     {
         "kind": "Weapon",
@@ -15,7 +16,8 @@
         "name": "The Redeemer",
         "type": "Mighty Scepter",
         "properties": "One-Hand Damage: (140-160) To (182-208) (161-184 Avg)*\nRequired Level: 72\nRequired Strength: 50\nRequired Dexterity: 26\nDurability: 50\nBase Weapon Speed: [0]\n\n+250-300% Enhanced Damage (varies)\nDamage +60-120 (varies)\n+50% Damage To Undead\n+200-250% Damage To Demons (varies)\n+2 To Paladin Skill Levels\n-33% Target Defense\n+2-4 To Redemption (Paladin Only) (varies)\n+2-4 To Holy Bolt (Paladin Only) (varies)\n+3 To Light Radius\nRequirements -60%\n(Only Spawns In Patch 1.10 or later)",
-        "item": "Unique"
+        "item": "Unique",
+        "image": "scepter"
     },
     {
         "kind": "Weapon",
@@ -24,6 +26,7 @@
         "name": "Astreon's Iron Ward",
         "type": "Caduceus",
         "properties": "One-Hand Damage: (125-144) To (146-167) (135.5-155.5 Avg)\nRequired Level: 66\nRequired Strength: 97\nRequired Dexterity: 70\nDurability: 70\nBase Weapon Speed: [-10]\n+240-290% Enhanced Damage (varies)\nDamage +40-85 (varies)\n+50% Damage To Undead\nAdds 80-240 Magic Damage\n33% Chance of Crushing Blow\nSlows Target By 25%\nDamage Reduced By 4-7 (varies)\n+2-4 To Combat Skills (Paladin Only) (varies)\n+10% Increased Attack Speed\n150-200% Bonus To Attack Rating (varies)\n(Only Spawns In Patch 1.10 or later)",
-        "item": "Unique"
+        "item": "Unique",
+        "image": "war_scepter"
     }
 ]

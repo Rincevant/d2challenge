@@ -1,58 +1,82 @@
 [
     {
-        "value": "Normal Unique Weapon",
+        "part" : "Jewel",
+        "kind" : "Other",
+        "value": "Normal Unique Other",
         "name": "Rainbow Facet",
         "type": "Jewel",
         "properties": "Required Level: 49\n100% Chance To Cast Level 29 Blaze When You Level-Up\nAdds 17-45 Fire Damage\n+3-5% To Fire Skill Damage (varies)\n-(3-5)% To Enemy Fire Resistance (varies)\n(Only Spawns In Patch 1.10 or later)",
-        "item": "Unique"
+        "item": "Unique",
+        "image" : "perfect_diamond5"
     },
     {
-        "value": "Normal Unique Weapon",
+        "part" : "Jewel",
+        "kind" : "Other",
+        "value": "Normal Unique Other",
         "name": "Rainbow Facet",
         "type": "Jewel",
         "properties": "Required Level: 49\n100% Chance To Cast Level 43 Frost Nova When You Level-Up\nAdds 24-38 Cold Damage, 0.12 sec Duration (Normal)\n+3-5% To Cold Skill Damage (varies)\n-(3-5)% To Enemy Cold Resistance (varies)\n(Only Spawns In Patch 1.10 or later)",
-        "item": "Unique"
+        "item": "Unique",
+        "image" : "perfect_diamond2"        
     },
     {
-        "value": "Normal Unique Weapon",
+        "part" : "Jewel",
+        "kind" : "Other",
+        "value": "Normal Unique Other",
         "name": "Rainbow Facet",
         "type": "Jewel",
         "properties": "Required Level: 49\n100% Chance To Cast Level 41 Nova When You Level-Up\nAdds 1-74 Lightning Damage\n+3-5% To Lightning Skill Damage (varies)\n-(3-5)% To Enemy Lightning Resistance (varies)\n(Only Spawns In Patch 1.10 or later)",
-        "item": "Unique"
+        "item": "Unique",
+        "image" : "perfect_diamond6"
     },
     {
-        "value": "Normal Unique Weapon",
+        "part" : "Jewel",
+        "kind" : "Other",
+        "value": "Normal Unique Other",
         "name": "Rainbow Facet",
         "type": "Jewel",
         "properties": "Required Level: 49\n100% Chance To Cast Level 23 Venom When You Level-Up\n+37 Poison Damage Over 2 Seconds\n+3-5% To Poison Skill Damage (varies)\n-(3-5)% To Enemy Poison Resistance (varies)\n(Only Spawns In Patch 1.10 or later)",
-        "item": "Unique"
+        "item": "Unique",
+        "image" : "perfect_diamond4"
     },
     {
-        "value": "Normal Unique Weapon",
+        "part" : "Jewel",
+        "kind" : "Other",
+        "value": "Normal Unique Other",
         "name": "Rainbow Facet",
         "type": "Jewel",
         "properties": "Required Level: 49\n100% Chance To Cast Level 31 Meteor When You Die\nAdds 17-45 Fire Damage\n+3-5% To Fire Skill Damage (varies)\n-(3-5)% To Enemy Fire Resistance (varies)\n(Only Spawns In Patch 1.10 or later)",
-        "item": "Unique"
+        "item": "Unique",
+        "image" : "perfect_diamond5"
     },
     {
-        "value": "Normal Unique Weapon",
+        "part" : "Jewel",
+        "kind" : "Other",
+        "value": "Normal Unique Other",
         "name": "Rainbow Facet",
         "type": "Jewel",
         "properties": "Required Level: 49\n100% Chance To Cast Level 37 Blizzard When You Die\nAdds 24-38 Cold Damage, 0.12 sec Duration (Normal)\n+3-5% To Cold Skill Damage (varies)\n-(3-5)% To Enemy Cold Resistance (varies)\n(Only Spawns In Patch 1.10 or later)",
-        "item": "Unique"
+        "item": "Unique",
+        "image" : "perfect_diamond2"
     },
     {
-        "value": "Normal Unique Weapon",
+        "part" : "Jewel",
+        "kind" : "Other",
+        "value": "Normal Unique Other",
         "name": "Rainbow Facet",
         "type": "Jewel",
         "properties": "Required Level: 49\n100% Chance To Cast Level 47 Chain Lightning When You Die\nAdds 1-74 Lightning Damage\n+3-5% To Lightning Skill Damage (varies)\n-(3-5)% To Enemy Lightning Resistance (varies)\n(Only Spawns In Patch 1.10 or later)",
-        "item": "Unique"
+        "item": "Unique",
+        "image" : "perfect_diamond6"
     },
     {
-        "value": "Normal Unique Weapon",
+        "part" : "Jewel",
+        "kind" : "Other",
+        "value": "Normal Unique Other",
         "name": "Rainbow Facet",
         "type": "Jewel",
         "properties": "Required Level: 49\n100% Chance To Cast Level 51 Poison Nova When You Die\n+37 Poison Damage Over 2 Seconds\n+3-5% To Poison Skill Damage (varies)\n-(3-5)% To Enemy Poison Resistance (varies)\n(Only Spawns In Patch 1.10 or later)",
-        "item": "Unique"
+        "item": "Unique",
+        "image" : "perfect_diamond4"
     }
 ]
