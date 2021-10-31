@@ -95,7 +95,7 @@
         "value": "Elite Unique Weapon",
         "name": "The Cranium Basher",
         "type": "Thunder Maul",
-        "properties": "Two-Hand Damage: (119-132) To (560-632) (339.5-382 Avg)\nRequired Level: 87\nRequired Strength: 253\nBase Weapon Speed: [20]\n+200-240% Enhanced Damage (varies)\n+20 To Minimum Damage\n+50% Damage To Undead\n75% Chance Of Crushing Blow\n4% Chance To Cast Level 1 Amplify Damage On Striking\n20% Increased Attack Speed\nAll Resistances +25\n+25 To Strength\n+20 To Maximum Damage (not shown)\nIndestructible\n(Only Spawns In Patch 1.09 or later)",
+        "properties": "Two-Hand Damage: (119-132) To (560-632) (339.5-382 Avg)\nRequired Level: 87\nRequired Strength: 253\nBase Weapon Speed: [20]\n+200-240% Enhanced Damage (varies)\n+20 To Minimum Damage\n+50% Damage To Undead\n75% Chance Of Crushing Blow\n4% Chance To Cast Level 1 Amplify Damage On Striking\n20% Increased Attack Speed\nAll Resistances +25\n+25 To Strength\n+20 To Maximum Damage (not showned)\nIndestructible\n(Only Spawns In Patch 1.09 or later)",
         "item": "Unique",
         "image":"great_maul"
     }

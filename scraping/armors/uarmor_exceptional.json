@@ -1,7 +1,7 @@
 [
     {
         "kind": "Armor",
-        "part": "Armor",
+        "part": "Chests",
         "value": "Exceptionnal Unique Armor",
         "name": "The Spirit Shroud",
         "type": "Ghost Armor",
@@ -11,7 +11,7 @@
     },
     {
         "kind": "Armor",
-        "part": "Armor",
+        "part": "Chests",
         "value": "Exceptionnal Unique Armor",
         "name": "Skin of the Vipermagi",
         "type": "Serpentskin Armor",
@@ -21,17 +21,17 @@
     },
     {
         "kind": "Armor",
-        "part": "Armor",
+        "part": "Chests",
         "value": "Exceptionnal Unique Armor",
         "name": "Skin of the Flayed One",
         "type": "Demonhide Armor",
         "properties": "Defense: 342-397 (varies)(Base Defense: 122-136)\nRequired Level: 31\nRequired Strength: 50\nDurability: 58\n+150-190% Enhanced Defense (varies)\nRepairs 1 Durability In 10 Seconds\n5-7% Life Stolen Per Hit (varies)\nReplenish Life +15-25 (varies)\nAttacker Takes Damage of 15\n(Only Spawns In Patch 1.09 or later)",
         "item": "Unique",
-        "image": "Skin of the Flayed One"
+        "image": "hard_leather_armor"
     },
     {
         "kind": "Armor",
-        "part": "Armor",
+        "part": "Chests",
         "value": "Exceptionnal Unique Armor",
         "name": "Iron Pelt",
         "type": "Trellised Armor",
@@ -41,7 +41,7 @@
     },
     {
         "kind": "Armor",
-        "part": "Armor",
+        "part": "Chests",
         "value": "Exceptionnal Unique Armor",
         "name": "Crow Caw",
         "type": "Tigulated Mail",
@@ -51,7 +51,7 @@
     },
     {
         "kind": "Armor",
-        "part": "Armor",
+        "part": "Chests",
         "value": "Exceptionnal Unique Armor",
         "name": "Spirit Forge",
         "type": "Linked Mail",
@@ -61,7 +61,7 @@
     },
     {
         "kind": "Armor",
-        "part": "Armor",
+        "part": "Chests",
         "value": "Exceptionnal Unique Armor",
         "name": "Duriel's Shell",
         "type": "Cuirass",
@@ -71,7 +71,7 @@
     },
     {
         "kind": "Armor",
-        "part": "Armor",
+        "part": "Chests",
         "value": "Exceptionnal Unique Armor",
         "name": "Shaftstop",
         "type": "Mesh Armor",
@@ -81,7 +81,7 @@
     },
     {
         "kind": "Armor",
-        "part": "Armor",
+        "part": "Chests",
         "value": "Exceptionnal Unique Armor",
         "name": "Skullder's Ire",
         "type": "Russet Armor",
@@ -91,7 +91,7 @@
     },
     {
         "kind": "Armor",
-        "part": "Armor",
+        "part": "Chests",
         "value": "Exceptionnal Unique Armor",
         "name": "Que-Hegan's Wisdom",
         "type": "Mage Plate",
@@ -101,7 +101,7 @@
     },
     {
         "kind": "Armor",
-        "part": "Armor",
+        "part": "Chests",
         "value": "Exceptionnal Unique Armor",
         "name": "Toothrow",
         "type": "Sharktooth Armor",
@@ -111,7 +111,7 @@
     },
     {
         "kind": "Armor",
-        "part": "Armor",
+        "part": "Chests",
         "value": "Exceptionnal Unique Armor",
         "name": "Guardian Angel",
         "type": "Templar Coat",
@@ -121,7 +121,7 @@
     },
     {
         "kind": "Armor",
-        "part": "Armor",
+        "part": "Chests",
         "value": "Exceptionnal Unique Armor",
         "name": "Atma's Wail",
         "type": "Embossed Plate",
@@ -131,7 +131,7 @@
     },
     {
         "kind": "Armor",
-        "part": "Armor",
+        "part": "Chests",
         "value": "Exceptionnal Unique Armor",
         "name": "Black Hades",
         "type": "Chaos Armor",
@@ -141,7 +141,7 @@
     },
     {
         "kind": "Armor",
-        "part": "Armor",
+        "part": "Chests",
         "value": "Exceptionnal Unique Armor",
         "name": "Corpsemourn",
         "type": "Ornate Plate",

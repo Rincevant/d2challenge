@@ -63,8 +63,8 @@
         "kind": "Armor",
         "part": "Helms",
         "value": "Normal Unique Armor",
-        "name": "Undead Crown",
-        "type": "Crown",
+        "name": "Undead Crowned",
+        "type": "Crowned",
         "properties": "Defense: 99-113 (varies)(Base Defense: 25-45)\nRequired Level: 29\nRequired Strength: 55\nDurability: 50\n+30-60% Enhanced Defense (varies)\n+50% Damage Vs. Undead\n+50-100 Attack Rating Vs. Undead (varies)\nHalf Freeze Duration\n5% Life Stolen Per Hit\nPoison Resist +50%\n+40 Defense\n+3 To Skeleton Mastery (Necromancer Only)\n(Only Spawns In Patch 1.09 or later)",
         "item": "Unique",
         "image":"crown"

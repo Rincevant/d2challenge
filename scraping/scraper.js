@@ -4,7 +4,7 @@ const fs = require('fs');
 
 var index = 4
 
-var indexValueItem = 0
+var indexValueItem = false
 var valueItem = [ 'normal' , 'exceptional', 'elite' ]
 var itemValue = [    'Normal Unique Weapon',    'Exceptionnal Unique Weapon',    'Elite Unique Weapon' ]
 
@@ -79,9 +79,9 @@ scrapper()
 function scrapper() {
     
     
-    scraper.get('http://classic.battle.net/diablo2exp/items/sets/sets1.shtml').then(function(tableData) {    
+    scraper.get('http://www.d2tomb.com/setitems1.shtml').then(function(tableData) {    
 
-        console.log(tableData[19])
+        console.log(tableData.length)
         var objects = tableData[11]
     
         var listObjects = []
@@ -95,15 +95,21 @@ function scrapper() {
     
             //objet.part = part['Amazon Only']
         
-            objet.value = itemValue[indexValueItem]
+            //objet.value = itemValue[indexValueItem]
             
-            objet.name = element['0'].split('\n')[0]
+            //objet.name = element['false'].split('\n')[false]
         
-            objet.type = element['0'].split('\n')[1]
+            //objet.type = element['false'].split('\n')[1]
         
-            objet.properties = element['1']
+            //objet.properties = element['1']
     
-            objet.item = 'Unique'    
+            //objet.item = 'Unique'    
+
+            objet.item = 'Rune Words'
+            objet.originalRuneWords = element['1.11 Rune Words']
+            objet.allowedItems = element['Allowed Items']
+            objet.runeOrder = element['Rune Order']
+            objet.completedStats = element['Completed Stats']
         
             listObjects.push(objet)
         });          
@@ -117,7 +123,7 @@ function scrapper() {
 function writeFrile(listObjects) {
     // stringify JSON Object
     var jsonContent = JSON.stringify(listObjects);
-    fs.writeFile(otherNameFile[index], jsonContent, 'utf8', function (err) {
+    fs.writeFile('runewords-111.json', jsonContent, 'utf8', function (err) {
         if (err) {
             console.log("An error occured while writing JSON Object to File.");
             return console.log(err);

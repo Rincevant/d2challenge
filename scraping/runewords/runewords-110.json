@@ -1,0 +1,194 @@
+[
+    {
+        "item": "Rune Words",
+        "originalRuneWords": "Beast",
+        "allowedItems": "5 Socket Axes/Scepters/Hammers",
+        "runeOrder": "Ber + Tir + Um + Mal + Lum",
+        "completedStats": "Level 9 Fanaticism Aura When Equipped\n+40% Increased Attack Speed\n+240-270% Enhanced Damage (varies)\n20% Chance of Crushing Blow\n25% Chance of Open Wounds\n+3 To Werebear\n+3 To Lycanthropy\nPrevent Monster Heal\n+25-40 To Strength (varies)\n+10 To Energy\n+2 To Mana After Each Kill\nLevel 13 Summon Grizzly (5 Charges)",
+        "image" : "beast"
+    },
+    {
+        "item": "Rune Words",
+        "originalRuneWords": "Bramble",
+        "allowedItems": "4 Socket Body Armor",
+        "runeOrder": "Ral + Ohm + Sur + Eth",
+        "completedStats": "Level 15-21 Thorns Aura When Equipped (varies)\n+50% Faster Hit Recovery\n+25-50% To Poison Skill Damage (varies)\n+300 Defense\nIncrease Maximum Mana 5%\nRegenerate Mana 15%\n+5% To Maximum Cold Resist\nFire Resist +30%\nPoison Resist +100%\n+13 Life After Each Kill\nLevel 13 Spirit of Barbs (33 Charges)",
+        "image" : "bramble"
+    },
+    {
+        "item": "Rune Words",
+        "originalRuneWords": "Breath of the Dying",
+        "allowedItems": "6 Socket Weapons",
+        "runeOrder": "Vex + Hel + El + Eld + Zod + Eth",
+        "completedStats": "50% Chance To Cast Level 20 Poison Nova When You Kill An Enemy\nIndestructible\n+60% Increased Attack Speed\n+350-400% Enhanced Damage (varies)\n+200% Damage To Undead\n-25% Target Defense\n+50 To Attack Rating\n+50 To Attack Rating Against Undead\n7% Mana Stolen Per Hit\n12-15% Life Stolen Per Hit (varies)\nPrevent Monster Heal\n+30 To All Attributes\n+1 To Light Radius\nRequirements -20%",
+        "image" : "breath_of_the_dying"
+    },
+    {
+        "item": "Rune Words",
+        "originalRuneWords": "Call To Arms*",
+        "allowedItems": "5 Socket Weapons",
+        "runeOrder": "Amn + Ral + Mal + Ist + Ohm",
+        "completedStats": "+1 To All Skills\n+40% Increased Attack Speed\n+250-290% Enhanced Damage (varies)\nAdds 5-30 Fire Damage\n7% Life Stolen Per Hit\n+2-6 To Battle Command (varies)*\n+1-6 To Battle Orders (varies)*\n+1-4 To Battle Cry (varies)*\nPrevent Monster Heal\nReplenish Life +12\n30% Better Chance of Getting Magic Items",
+        "image" : "call_to_arms"
+    },
+    {
+        "item": "Rune Words",
+        "originalRuneWords": "Chains of Honor",
+        "allowedItems": "4 Socket Body Armor",
+        "runeOrder": "Dol + Um + Ber + Ist",
+        "completedStats": "+2 To All Skills\n+200% Damage To Demons\n+100% Damage To Undead\n8% Life Stolen Per Hit\n+70% Enhanced Defense\n+20 To Strength\nReplenish Life +7\nAll Resistances +65\nDamage Reduced By 8%\n25% Better Chance of Getting Magic Items",
+        "image" : "chains_of_honor"
+    },
+    {
+        "item": "Rune Words",
+        "originalRuneWords": "Chaos",
+        "allowedItems": "3 Socket Claws",
+        "runeOrder": "Fal + Ohm + Um",
+        "completedStats": "9% Chance To Cast Level 11 Frozen Orb On Striking\n11% Chance To Cast Level 9 Charged Bolt On Striking\n+35% Increased Attack Speed\n+290-340% Enhanced Damage (varies)\nAdds 216-471 Magic Damage\n25% Chance of Open Wounds\n+1 To Whirlwind\n+10 To Strength\n+15 Life After Each Demon Kill",
+        "image" : "chaos"
+    },
+    {
+        "item": "Rune Words",
+        "originalRuneWords": "Crescent Moon",
+        "allowedItems": "3 Socket Axes/Swords/Polearms",
+        "runeOrder": "Shael + Um + Tir",
+        "completedStats": "10% Chance To Cast Level 17 Chain Lightning On Striking\n7% Chance To Cast Level 13 Static Field On Striking\n+20% Increased Attack Speed\n+180-220% Enhanced Damage (varies)\nIgnore Target's Defense\n-35% To Enemy Lightning Resistance\n25% Chance of Open Wounds\n+9-11 Magic Absorb (varies)\n+2 To Mana After Each Kill\nLevel 18 Summon Spirit Wolf (30 Charges)",
+        "image" : "crescent_moon"
+    },
+    {
+        "item": "Rune Words",
+        "originalRuneWords": "Delirium",
+        "allowedItems": "3 Socket Helms",
+        "runeOrder": "Lem + Ist + Io",
+        "completedStats": "1% Chance To Cast Level 50 Delirium* (morph) When Struck\n6% Chance To Cast Level 14 Mind Blast When Struck\n14% Chance To Cast Level 13 Terror When Struck\n11% Chance To Cast Level 18 Confuse On Striking\n+2 To All Skills\n+261 Defense\n+10 To Vitality\n50% Extra Gold From Monsters\n25% Better Chance of Getting Magic Items\nLevel 17 Attract (60 Charges)",
+        "image" : "delerium"
+    },
+    {
+        "item": "Rune Words",
+        "originalRuneWords": "Doom",
+        "allowedItems": "5 Socket Axes/Polearms/Hammers",
+        "runeOrder": "Hel + Ohm + Um + Lo + Cham",
+        "completedStats": "5% Chance To Cast Level 18 Volcano On Striking\nLevel 12 Holy Freeze Aura When Equipped\n+2 To All Skills\n+45% Increased Attack Speed\n+330-370% Enhanced Damage (varies)\n-(40-60)% To Enemy Cold Resistance (varies)\n20% Deadly Strike\n25% Chance of Open Wounds\nPrevent Monster Heal\nFreezes Target +3\nRequirements -20%",
+        "image" : "doom"
+    },
+    {
+        "item": "Rune Words",
+        "originalRuneWords": "Duress",
+        "allowedItems": "3 Socket Body Armor",
+        "runeOrder": "Shael + Um + Thul",
+        "completedStats": "+40% Faster Hit Recovery\n+10-20% Enhanced Damage (varies)\nAdds 37-133 Cold Damage 2 sec. Duration (Normal)\n15% Chance of Crushing Blow\n33% Chance of Open Wounds\n+150-200% Enhanced Defense (varies)\n-20% Slower Stamina Drain\nCold Resist +45%\nLightning Resist +15%\nFire Resist +15%\nPoison Resist +15%",
+        "image" : "duress"
+    },
+    {
+        "item": "Rune Words",
+        "originalRuneWords": "Enigma",
+        "allowedItems": "3 Socket Body Armor",
+        "runeOrder": "Jah + Ith + Ber",
+        "completedStats": "+2 To All Skills\n+45% Faster Run/Walk\n+1 To Teleport\n+750-775 Defense (varies)\n+ (0.75 Per Character Level) +0-74 To Strength (Based On Character Level)\nIncrease Maximum Life 5%\nDamage Reduced By 8%\n+14 Life After Each Kill\n15% Damage Taken Goes To Mana\n+ (1 Per Character Level) +1-99% Better Chance of Getting Magic Items (Based On Character Level)",
+        "image" : "enigma"
+    },
+    {
+        "item": "Rune Words",
+        "originalRuneWords": "Eternity",
+        "allowedItems": "5 Socket Melee Weapons",
+        "runeOrder": "Amn + Ber + Ist + Sol + Sur",
+        "completedStats": "Indestructible\n+260-310% Enhanced Damage (varies)\n+9 To Minimum Damage\n7% Life Stolen Per Hit\n20% Chance of Crushing Blow\nHit Blinds Target\nSlows Target By 33%\nRegenerate Mana 16%\nReplenish Life +16\nCannot Be Frozen\n30% Better Chance Of Getting Magic Items\nLevel 8 Revive (88 Charges)",
+        "image" : "eternity"
+    },
+    {
+        "item": "Rune Words",
+        "originalRuneWords": "Exile",
+        "allowedItems": "4 Socket Paladin Shields (only)",
+        "runeOrder": "Vex + Ohm + Ist + Dol",
+        "completedStats": "15% Chance To Cast Level 5 Life Tap On Striking\nLevel 13-16 Defiance Aura When Equipped (varies)\n+2 To Offensive Auras (Paladin Only)\n+30% Faster Block Rate\nFreezes Target\n+220-260% Enhanced Defense (varies)\nReplenish Life +7\n+5% To Maximum Cold Resist\n+5% To Maximum Fire Resist\n25% Better Chance Of Getting Magic Items\nRepairs 1 Durability in 4 Seconds",
+        "image" : "exile"
+    },
+    {
+        "item": "Rune Words",
+        "originalRuneWords": "Famine",
+        "allowedItems": "4 Socket Axes/Hammers",
+        "runeOrder": "Fal + Ohm + Ort + Jah",
+        "completedStats": "+30% Increased Attack Speed\n+320-370% Enhanced Damage (varies)\nIgnore Target's Defense\nAdds 180-200 Magic Damage\nAdds 50-200 Fire Damage\nAdds 51-250 Lightning Damage\nAdds 50-200 Cold Damage\n12% Life Stolen Per Hit\nPrevent Monster Heal\n+10 To Strength",
+        "image" : "famine"
+    },
+    {
+        "item": "Rune Words",
+        "originalRuneWords": "Gloom",
+        "allowedItems": "3 Socket Body Armor",
+        "runeOrder": "Fal + Um + Pul",
+        "completedStats": "15% Chance To Cast Level 3 Dim Vision When Struck\n+10% Faster Hit Recovery\n+200-260% Enhanced Defense (varies)\n+10 To Strength\nAll Resistances +45\nHalf Freeze Duration\n5% Damage Taken Goes To Mana\n-3 To Light Radius",
+        "image" : "gloom"
+    },
+    {
+        "item": "Rune Words",
+        "originalRuneWords": "Hand of Justice",
+        "allowedItems": "4 Socket Weapons",
+        "runeOrder": "Sur + Cham + Amn + Lo",
+        "completedStats": "100% Chance To Cast Level 36 Blaze When You Level-Up\n100% Chance To Cast Level 48 Meteor When You Die\nLevel 16 Holy Fire Aura When Equipped\n+33% Increased Attack Speed\n+280-330% Enhanced Damage (varies)\nIgnore Target's Defense\n7% Life Stolen Per Hit\n-20% To Enemy Fire Resistance\n20% Deadly Strike\nHit Blinds Target\nFreezes Target +3",
+        "image" : "hand_of_justice"
+    },
+    {
+        "item": "Rune Words",
+        "originalRuneWords": "Heart of the Oak",
+        "allowedItems": "4 Socket Staves/Maces*",
+        "runeOrder": "Ko + Vex + Pul + Thul",
+        "completedStats": "+3 To All Skills\n+40% Faster Cast Rate\n+75% Damage To Demons\n+100 To Attack Rating Against Demons\nAdds 3-14 Cold Damage, 3 sec. Duration (Normal)\n7% Mana Stolen Per Hit\n+10 To Dexterity\nReplenish Life +20\nIncrease Maximum Mana 15%\nAll Resistances +30-40 (varies)\nLevel 4 Oak Sage (25 Charges)\nLevel 14 Raven (60 Charges)",
+        "image" : "heart_of_the_oak"
+    },
+    {
+        "item": "Rune Words",
+        "originalRuneWords": "Kingslayer",
+        "allowedItems": "4 Socket Swords/Axes",
+        "runeOrder": "Mal + Um + Gul + Fal",
+        "completedStats": "+30% Increased Attack Speed\n+230-270% Enhanced Damage (varies)\n-25% Target Defense\n20% Bonus To Attack Rating\n33% Chance of Crushing Blow\n50% Chance of Open Wounds\n+1 To Vengeance\nPrevent Monster Heal\n+10 To Strength\n40% Extra Gold From Monsters",
+        "image" : "kingslayer"
+    },
+    {
+        "item": "Rune Words",
+        "originalRuneWords": "Passion",
+        "allowedItems": "4 Socket Weapons",
+        "runeOrder": "Dol + Ort + Eld + Lem",
+        "completedStats": "+25% Increased Attack Speed\n+160-210% Enhanced Damage (varies)\n50-80% Bonus To Attack Rating (varies)\n+75% Damage To Undead\n+50 To Attack Rating Against Undead\nAdds 1-50 Lightning Damage\n+1 To Berserk\n+1 To Zeal\nHit Blinds Target +10\nHit Causes Monster To Flee 25%\n75% Extra Gold From Monsters\nLevel 3 Heart of Wolverine (12 Charges)",
+        "image" : "passion"
+    },
+    {
+        "item": "Rune Words",
+        "originalRuneWords": "Prudence",
+        "allowedItems": "2 Socket Body Armor",
+        "runeOrder": "Mal + Tir",
+        "completedStats": "+25% Faster Hit Recovery\n+140-170% Enhanced Defense (varies)\nAll Resistances +25-35 (varies)\nDamage Reduced by 3\nMagic Damage Reduced by 17\n+2 To Mana After Each Kill\n+1 To Light Radius\nRepairs Durability 1 In 4 Seconds",
+        "image" : "prudence"
+    },
+    {
+        "item": "Rune Words",
+        "originalRuneWords": "Sanctuary",
+        "allowedItems": "3 Socket Shields",
+        "runeOrder": "Ko + Ko + Mal",
+        "completedStats": "+20% Faster Hit Recovery\n+20% Faster Block Rate\n20% Increased Chance of Blocking\n+130-160% Enhanced Defense (varies)\n+250 Defense vs. Missile\n+20 To Dexterity\nAll Resistances +50-70 (varies)\nMagic Damage Reduced By 7\nLevel 12 Slow Missiles (60 Charges)",
+        "image" : "sanctuary"
+    },
+    {
+        "item": "Rune Words",
+        "originalRuneWords": "Splendor",
+        "allowedItems": "2 Socket Shields",
+        "runeOrder": "Eth + Lum",
+        "completedStats": "+1 To All Skills\n+10% Faster Cast Rate\n+20% Faster Block Rate\n+60-100% Enhanced Defense (varies)\n+10 To Energy\nRegenerate Mana 15%\n50% Extra Gold From Monsters\n20% Better Chance of Getting Magic Items\n+3 To Light Radius",
+        "image" : "splendor"
+    },
+    {
+        "item": "Rune Words",
+        "originalRuneWords": "Stone",
+        "allowedItems": "4 Socket Body Armor",
+        "runeOrder": "Shael + Um + Pul + Lum",
+        "completedStats": "+60% Faster Hit Recovery\n+250-290% Enhanced Defense (varies)\n+300 Defense Vs. Missile\n+16 To Strength\n+16 To Vitality\n+10 To Energy\nAll Resistances +15\nLevel 16 Molten Boulder (80 Charges)\nLevel 16 Clay Golem (16 Charges)",
+        "image" : "stone"
+    },
+    {
+        "item": "Rune Words",
+        "originalRuneWords": "Wind",
+        "allowedItems": "2 Socket Melee Weapons",
+        "runeOrder": "Sur + El",
+        "completedStats": "10% Chance To Cast Level 9 Tornado On Striking\n+20% Faster Run/Walk\n+40% Increased Attack Speed\n+15% Faster Hit Recovery\n+120-160% Enhanced Damage (varies)\n-50% Target Defense\n+50 To Attack Rating\nHit Blinds Target\n+1 To Light Radius\nLevel 13 Twister (127 Charges)",
+        "image" : "wind"
+    }
+]

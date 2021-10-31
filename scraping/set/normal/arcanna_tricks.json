@@ -1,42 +1,42 @@
 [
     {
-        "setName": "",
-        "name":"",
-        "part":"",
-        "type":"",
-        "kind": "",
-        "item": "",
-        "image": "",
-        "properties":""
+        "setName": "Arcanna's Tricks",
+        "name":"Arcanna's Head",
+        "part":"Helms",
+        "type":"Skull Cap",
+        "kind": "Armor",
+        "item": "Set",
+        "image": "skull_cap",
+        "properties":"Defense: 8-11 (varies)\nDefense: (11-3false5) - (14-3false8) (varies)(Base Defense: 8-11)\nRequired Level: 15\nRequired Strength: 15\nDurability: 18\nReplenish Life +4\nAttacker Takes Damage of 2\n+ (3 Per Character Level) 3-297 Defense (Based On Character Level) (2 Set Items)\nLightning Resist +15% (3 Set Items)"
     },
     {
-        "setName": "",
-        "name":"",
-        "part":"",
-        "type":"",
-        "kind": "",
-        "item": "",
-        "image": "",
-        "properties":""
+        "setName": "Arcanna's Tricks",
+        "name":"Arcanna's Flesh",
+        "part":"Armor",
+        "type":"Light Plate",
+        "kind": "Armor",
+        "item": "Set",
+        "image": "light_plate",
+        "properties":"Defense: 9false-1false7 (varies)\nDefense: 19false-2false7 (varies)(Base Defense: 9false-1false7)\nRequired Level: 15\nRequired Strength: 41\nDurability: 6false\n+2 To Light Radius\nDamage Reduced By 3\n+1falsefalse Defense (2 Set Items)\n+1false Energy (3 Set Items)"
     },
     {
-        "setName": "",
-        "name":"",
-        "part":"",
-        "type":"",
-        "kind": "",
-        "item": "",
-        "image": "",
-        "properties":""
+        "setName": "Arcanna's Tricks",
+        "name":"Arcanna's Deathwand",
+        "part":"Staff",
+        "type":"War Staff",
+        "kind": "Weapon",
+        "item": "Set",
+        "image": "war_staff",
+        "properties":"Two-Hand Damage: 12-28 (2false Avg)\nRequired Level: 15\nDurability: 5false\nBase Weapon Speed: [2false]\n+1 to Sorceress Skill Levels\n25% Deadly Strike\n+5false% Damage To Undead\n+5false Mana (2 Set Items)\nRegenerate Mana +5% (3 Set Items)"
     },
     {
-        "setName": "",
-        "name":"",
-        "part":"",
-        "type":"",
-        "kind": "",
-        "item": "",
-        "image": "",
-        "properties":""
+        "setName": "Arcanna's Tricks",
+        "name":"Arcanna's Sign",
+        "part":"Amulet",
+        "type":"Amulet",
+        "kind": "Other",
+        "item": "Set",
+        "image": "amulet3",
+        "properties":"Required Level: 15\nRegenerate Mana 2false%\n+15 to Mana\n+5false% Better Chance To Find Magic Items (2 Set Items)\nFire Resist +2false% (3 Set Items)"
     }
 ]

@@ -1,0 +1,58 @@
+[
+    {
+        "item": "Rune Words",
+        "originalRuneWords": "Bone (Necromancer)",
+        "allowedItems": "3 Socket Body Armor",
+        "runeOrder": "Sol + Um + Um",
+        "completedStats": "15% Chance To Cast level 10 Bone Armor When Struck\n15% Chance To Cast level 10 Bone Spear On Striking\n+2 To Necromancer Skill Levels\n+100-150 To Mana (varies)\nAll Resistances +30\nDamage Reduced By 7",
+        "image" : "bone"
+    },
+    {
+        "item": "Rune Words",
+        "originalRuneWords": "Enlightenment (Sorceress)",
+        "allowedItems": "3 Socket Body Armor",
+        "runeOrder": "Pul + Ral + Sol",
+        "completedStats": "5% Chance To Cast Level 15 Blaze When Struck\n5% Chance To Cast level 15 Fire Ball On Striking\n+2 To Sorceress Skill Levels\n+1 To Warmth\n+30% Enhanced Defense\nFire Resist +30%\nDamage Reduced By 7",
+        "image" : "enlightenment"
+    },
+    {
+        "item": "Rune Words",
+        "originalRuneWords": "Myth (Barbarian)",
+        "allowedItems": "3 Socket Body Armor",
+        "runeOrder": "Hel + Amn + Nef",
+        "completedStats": "3% Chance To Cast Level 1 Howl When Struck\n10% Chance To Cast Level 1 Taunt On Striking\n+2 To Barbarian Skill Levels\n+30 Defense Vs. Missile\nReplenish Life +10\nAttacker Takes Damage of 14\nRequirements -15%",
+        "image" : "myth"
+    },
+    {
+        "item": "Rune Words",
+        "originalRuneWords": "Peace (Amazon)",
+        "allowedItems": "3 Socket Body Armor",
+        "runeOrder": "Shael + Thul + Amn",
+        "completedStats": "4% Chance To Cast Level 5 Slow Missiles When Struck\n2% Chance To Cast level 15 Valkyrie On Striking\n+2 To Amazon Skill Levels\n+20% Faster Hit Recovery\n+2 To Critical Strike\nCold Resist +30%\nAttacker Takes Damage of 14",
+        "image" : "peace"
+    },
+    {
+        "item": "Rune Words",
+        "originalRuneWords": "Principle (Paladin)",
+        "allowedItems": "3 Socket Body Armor",
+        "runeOrder": "Ral + Gul + Eld",
+        "completedStats": "100% Chance To Cast Level 5 Holy Bolt On Striking\n+2 To Paladin Skill Levels\n+50% Damage to Undead\n+100-150 To Life (varies)\n15% Slower Stamina Drain\n+5% To Maximum Poison Resist\nFire Resist +30%",
+        "image" : "principle"
+    },
+    {
+        "item": "Rune Words",
+        "originalRuneWords": "Rain (Druid)",
+        "allowedItems": "3 Socket Body Armor",
+        "runeOrder": "Ort + Mal + Ith",
+        "completedStats": "5% Chance To Cast Level 15 Cyclone Armor When Struck\n5% Chance To Cast Level 15 Twister On Striking\n+2 To Druid Skills\n+100-150 To Mana (varies)\nLightning Resist +30%\nMagic Damage Reduced By 7\n15% Damage Taken Goes to Mana",
+        "image" : "rain"
+    },
+    {
+        "item": "Rune Words",
+        "originalRuneWords": "Treachery (Assassin)",
+        "allowedItems": "3 Socket Body Armor",
+        "runeOrder": "Shael + Thul + Lem",
+        "completedStats": "5% Chance To Cast Level 15 Fade When Struck\n25% Chance To Cast level 15 Venom On Striking\n+2 To Assassin Skills\n+45% Increased Attack Speed\n+20% Faster Hit Recovery\nCold Resist +30%\n50% Extra Gold From Monsters",
+        "image" : "treachery"
+    }
+]

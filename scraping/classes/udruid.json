@@ -1,1 +1,38 @@
-[{"kind":"Weapon","class":"Druid","name":"Jalal's Mane","type":"Totemic Mask","properties":"Defense: 247-297 (varies)(Base Defense: 73-98)\nRequired Level: 42\nRequired Strength: 65\nDurability: 20\n(Druid Only)\n+150-200% Enhanced Defense (varies)\n30% Faster Hit Recovery\n20% Bonus To Attack Rating\n+2 To Druid Skill Levels\nAll Resistances +30\n+5 To Mana After Each Kill\n+20 To Strength\n+20 To Energy\n+2 To Shape Shifting Skills (Druid Only)\n(Only Spawns In Patch 1.09 or later)","item":"Unique"},{"kind":"Weapon","class":"Druid","name":"Cerebus' Bite","type":"Blood Spirit","properties":"Defense: 335-350 (varies)(Base Defense: 101-145)\nRequired Level: 63\nRequired Strength: 86\nDurability: 20\n(Druid Only)\n+130-140% Enhanced Defense (varies)\n60-120% Bonus to Attack Rating (varies)\n7-10% Life Stolen Per Hit (varies)\n33% Chance of Open Wounds\n+2-4 To Shape Shifting Skills (Druid Only) (varies)\n+1-2 To Feral Rage (Druid Only) (varies)\n(Ladder Only)\n(Only Spawns In Patch 1.10 or later)","item":"Unique"},{"kind":"Weapon","class":"Druid","name":"Ravenlore","type":"Sky Spirit","properties":"Defense: 343-390 (varies)(Base Defense: 103-155)\nRequired Level: 74\nRequired Strength: 113\nDurability: 20\n(Druid Only)\n+120-150% Enhanced Defense (varies)\n+7 To Raven (Druid Only)\n+3 To Elemental Skills (Druid Only)\n+20-30 To Energy (varies)\n-10-20% To Enemy Fire Resistance (varies)\nAll Resistances +15-25 (varies)\n(Only Spawns In Patch 1.10 or later)","item":"Unique"},{"kind":"Weapon","class":"Druid","name":"Spirit Keeper","type":"Earth Spirit","properties":"Defense: 413-443 (varies)(Base Defense: 107-152)\nRequired Level: 67\nRequired Strength: 104\nDurability: 20\n(Druid Only)\n+170-190% Enhanced Defense (varies)\n+1-2 To Druid Skill Levels (varies)\n+20% Faster Hit Recovery\n+10% To Maximum Poison Resist\nFire Resist +30-40% (varies)\n+9-14 Lightning Absorb (varies)\nCold Absorb 15-25% (varies)\n(Only Spawns In Patch 1.10 or later)","item":"Unique"}]
+[
+    {
+        "kind": "Weapon",
+        "class": "Druid",
+        "name": "Jalal's Mane",
+        "type": "Totemic Mask",
+        "properties": "Defense: 247-297 (varies)(Base Defense: 73-98)\nRequired Level: 42\nRequired Strength: 65\nDurability: 20\n(Druid Only)\n+150-200% Enhanced Defense (varies)\n30% Faster Hit Recovery\n20% Bonus To Attack Rating\n+2 To Druid Skill Levels\nAll Resistances +30\n+5 To Mana After Each Kill\n+20 To Strength\n+20 To Energy\n+2 To Shape Shifting Skills (Druid Only)\n(Only Spawns In Patch 1.09 or later)",
+        "item": "Unique",
+        "image" : "spirit_mask"
+    },
+    {
+        "kind": "Weapon",
+        "class": "Druid",
+        "name": "Cerebus' Bite",
+        "type": "Blood Spirit",
+        "properties": "Defense: 335-350 (varies)(Base Defense: 101-145)\nRequired Level: 63\nRequired Strength: 86\nDurability: 20\n(Druid Only)\n+130-140% Enhanced Defense (varies)\n60-120% Bonus to Attack Rating (varies)\n7-10% Life Stolen Per Hit (varies)\n33% Chance of Open Wounds\n+2-4 To Shape Shifting Skills (Druid Only) (varies)\n+1-2 To Feral Rage (Druid Only) (varies)\n(Ladder Only)\n(Only Spawns In Patch 1.10 or later)",
+        "item": "Unique",
+        "image" : "wolf_head"
+    },
+    {
+        "kind": "Weapon",
+        "class": "Druid",
+        "name": "Ravenlore",
+        "type": "Sky Spirit",
+        "properties": "Defense: 343-390 (varies)(Base Defense: 103-155)\nRequired Level: 74\nRequired Strength: 113\nDurability: 20\n(Druid Only)\n+120-150% Enhanced Defense (varies)\n+7 To Raven (Druid Only)\n+3 To Elemental Skills (Druid Only)\n+20-30 To Energy (varies)\n-10-20% To Enemy Fire Resistance (varies)\nAll Resistances +15-25 (varies)\n(Only Spawns In Patch 1.10 or later)",
+        "item": "Unique",
+        "image" : "falcon_mask"
+    },
+    {
+        "kind": "Weapon",
+        "class": "Druid",
+        "name": "Spirit Keeper",
+        "type": "Earth Spirit",
+        "properties": "Defense: 413-443 (varies)(Base Defense: 107-152)\nRequired Level: 67\nRequired Strength: 104\nDurability: 20\n(Druid Only)\n+170-190% Enhanced Defense (varies)\n+1-2 To Druid Skill Levels (varies)\n+20% Faster Hit Recovery\n+10% To Maximum Poison Resist\nFire Resist +30-40% (varies)\n+9-14 Lightning Absorb (varies)\nCold Absorb 15-25% (varies)\n(Only Spawns In Patch 1.10 or later)",
+        "item": "Unique",
+        "image" : "antlers"
+    }
+]

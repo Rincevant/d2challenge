@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="css/global.css" rel="stylesheet">
+    <link href="css/footer.css" rel="stylesheet">
+    <link href="css/header.css" rel="stylesheet">
+    <link href="css/holygrail.css" rel="stylesheet"> 
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>  
+    <title>Document</title>
+</head>
+<body>
+    <%- include('partials/header') %>
+
+    
+    <div id="unique_content">
+        <% objets.forEach(function(objet) { %>
+            
+            <div id=<%= objet.id %> class=<% if (objet.owned === true) { %>objetOwned<% }else { %> objet <% } %> onclick='obtain("<%= objet.id %>", "<%= objet.name %>")'>                   
+                <div class="tooltip">
+                    <img src="/images/<%= objet.kind %>/<%= objet.image %>.png" class="obj_image">
+                    <span class="obj_name"><%= objet.name %></span>
+                    <span class="obj_type"><%= objet.type %></span>
+                    <span class="obj_date"><% if (objet.dateOwned != null) { %> <%- objet.dateOwned %> <% } %></span>
+                    <span class="tooltiptext"><%- objet.properties %></span>
+                </div>
+            </div>            
+            
+        <% }); %>
+    </div>
+
+    <%- include('partials/footer') %>
+
+    <script>
+        var docs = document.getElementsByClassName('tooltiptext')
+        var objetNames = document.getElementsByClassName('obj_name')
+        var index = 0
+        for (let item of docs) {
+            var itemText = item.innerHTML
+            item.innerHTML = ""
+            var res = itemText.split('\n')
+            item.insertAdjacentHTML('beforeend', '<h3>'+objetNames.item(index).innerHTML+'</h3>')
+            var isWhite = true
+            res.forEach(element => {
+                if (!element.includes(":")) {
+                    isWhite = false
+                }                
+                if (isWhite) {
+                    item.insertAdjacentHTML('beforeend', '<p style="color:white";>'+element+'</p>')
+                } else {
+                    item.insertAdjacentHTML('beforeend', '<p style="color:rgb(88,88,214)"; >'+element+'</p>')
+                }
+            });
+            index++                
+        }
+    </script>
+
+    <script>
+        // Permettant de switch l'obtention de l'objet
+        function obtain(id, name) {
+            var d = new Date();
+            let month = String(d.getMonth() + 1);
+            let day = String(d.getDate());
+            const year = String(d.getFullYear());
+            var objet = document.getElementById(id)
+            console.log(id, name )
+            if (objet.className == 'objet') {
+                objet.getElementsByClassName('tooltip')[0].getElementsByClassName('obj_date')[0].innerHTML = month+"/"+day+"/"+year
+                objet.classList.remove('objet')
+                objet.classList.add('objetOwned')
+            } else {
+                objet.getElementsByClassName('tooltip')[0].getElementsByClassName('obj_date')[0].innerHTML = ""
+                objet.classList.add('objet')
+                objet.classList.remove('objetOwned')
+            }
+        }
+    </script>
+</body>
+</html>

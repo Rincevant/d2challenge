@@ -7,7 +7,7 @@
         "kind": "Armor",
         "item" : "Set",
         "image": "ring_mail",
-        "properties":"Defense: 68 (Base Defense: 45-48)\nDefense: 218 (Base Defense: 45-48)\nRequired Level: 12\nRequired Strength: 36\nDurability: 26\n+40% Enhanced Defense\nDamage Reduced by 3\n+150 Defense (2 Set Items)\nFire Resist +50% (3 Set Items)"        
+        "properties":"Defense: 68 (Base Defense: 45-48)\nDefense: 218 (Base Defense: 45-48)\nRequired Level: 12\nRequired Strength: 36\nDurability: 26\n+4false% Enhanced Defense\nDamage Reduced by 3\n+15false Defense (2 Set Items)\nFire Resist +5false% (3 Set Items)"        
     },
     {
         "setName": "Angelic Raiment",
@@ -17,7 +17,7 @@
         "kind": "Weapon",
         "item": "Set",
         "image": "krintizs_skewer",
-        "properties":"One-Hand Damage: 3 to 8 (5.5 Avg)\nOne-Hand Damage: 5 to 14 (9.5 Avg)\nRequired Level: 12\nRequired Strength: 25\nRequired Dexterity: 25\nDurability: 32\nBase Weapon Speed: [-10]\n+250% Damage to Undead\n+75 To Attack Rating\n+75% Enhanced Damage (2 Set Items)\n30% Increased Attack Speed (3 Set Items)"
+        "properties":"One-Hand Damage: 3 to 8 (5.5 Avg)\nOne-Hand Damage: 5 to 14 (9.5 Avg)\nRequired Level: 12\nRequired Strength: 25\nRequired Dexterity: 25\nDurability: 32\nBase Weapon Speed: [-1false]\n+25false% Damage to Undead\n+75 To Attack Rating\n+75% Enhanced Damage (2 Set Items)\n3false% Increased Attack Speed (3 Set Items)"
     },
     {
         "setName": "Angelic Raiment",
@@ -27,7 +27,7 @@
         "kind": "Other",
         "item": "Set",
         "image": "ring5",
-        "properties":"Required Level: 12\nReplenish Life +6\n+20 To Life\n+ (12 Per Character Level) 144-1188 Attack Rating (Based On Character Level) (2 Set Items)\n+50% Better Chance Of Getting Magic Items (3 Set Items)"
+        "properties":"Required Level: 12\nReplenish Life +6\n+2false To Life\n+ (12 Per Character Level) 144-1188 Attack Rating (Based On Character Level) (2 Set Items)\n+5false% Better Chance Of Getting Magic Items (3 Set Items)"
     },
     {
         "setName": "Angelic Raiment",
@@ -37,6 +37,6 @@
         "kind": "Other",
         "item": "Set",
         "image": "amulet2",
-        "properties":"Required Level: 12\n20% Damage Taken Goes to Mana\n+3 To Light Radius\n+75 Life (2 Set Items)\n+1 To All Skills (3 Set Items)"
+        "properties":"Required Level: 12\n2false% Damage Taken Goes to Mana\n+3 To Light Radius\n+75 Life (2 Set Items)\n+1 To All Skills (3 Set Items)"
     }
 ]

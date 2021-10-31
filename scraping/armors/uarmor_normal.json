@@ -1,7 +1,7 @@
 [
     {
         "kind": "Armor",
-        "part": "Armor",
+        "part": "Chests",
         "value": "Normal Unique Armor",
         "name": "Greyform",
         "type": "Quilted Armor",
@@ -11,7 +11,7 @@
     },
     {
         "kind": "Armor",
-        "part": "Armor",
+        "part": "Chests",
         "value": "Normal Unique Armor",
         "name": "Blinkbat's Form",
         "type": "Leather Armor",
@@ -21,7 +21,7 @@
     },
     {
         "kind": "Armor",
-        "part": "Armor",
+        "part": "Chests",
         "value": "Normal Unique Armor",
         "name": "The Centurion",
         "type": "Hard Leather Armor",
@@ -31,7 +31,7 @@
     },
     {
         "kind": "Armor",
-        "part": "Armor",
+        "part": "Chests",
         "value": "Normal Unique Armor",
         "name": "Twitchthroe",
         "type": "Studded Leather",
@@ -41,7 +41,7 @@
     },
     {
         "kind": "Armor",
-        "part": "Armor",
+        "part": "Chests",
         "value": "Normal Unique Armor",
         "name": "Darkglow",
         "type": "Ring Mail",
@@ -51,7 +51,7 @@
     },
     {
         "kind": "Armor",
-        "part": "Armor",
+        "part": "Chests",
         "value": "Normal Unique Armor",
         "name": "Hawkmail",
         "type": "Scale Mail",
@@ -61,17 +61,17 @@
     },
     {
         "kind": "Armor",
-        "part": "Armor",
+        "part": "Chests",
         "value": "Normal Unique Armor",
         "name": "Venom Ward",
         "type": "Breast Plate",
         "properties": "Defense: 110-138 (varies)(Base Defense: 65-68)\nRequired Level: 20\nRequired Strength: 30\nDurability: 50\n+60-100% Enhanced Defense (varies)\n+2 To Light Radius\n15% To Max Poison Resist\nPoison Resist +90%\nPoison Length Reduced By 50%\n(Only Spawns In Patch 1.09 or later)",
         "item": "Unique",
-        "image":""
+        "image":"breast_plate"
     },
     {
         "kind": "Armor",
-        "part": "Armor",
+        "part": "Chests",
         "value": "Normal Unique Armor",
         "name": "Sparking Mail",
         "type": "Chain Mail",
@@ -81,17 +81,17 @@
     },
     {
         "kind": "Armor",
-        "part": "Armor",
+        "part": "Chests",
         "value": "Normal Unique Armor",
         "name": "Iceblink",
         "type": "Splint Mail",
         "properties": "Defense: 163-172 (varies)(Base Defense: 90-95)\nRequired Level: 22\nRequired Strength: 51\nDurability: 30\n+70-80% Enhanced Defense (varies)\nFreezes Target*\nCold Resist +30%\nMagic Damage Reduced By 1\n+4 To Light Radius\n(Only Spawns In Patch 1.09 or later)",
         "item": "Unique",
-        "image":""
+        "image":"splint_mail"
     },
     {
         "kind": "Armor",
-        "part": "Armor",
+        "part": "Chests",
         "value": "Normal Unique Armor",
         "name": "Heavenly Garb",
         "type": "Light Plate",
@@ -101,17 +101,17 @@
     },
     {
         "kind": "Armor",
-        "part": "Armor",
+        "part": "Chests",
         "value": "Normal Unique Armor",
         "name": "Rockfleece",
         "type": "Field Plate",
         "properties": "Defense: 212-243 (varies)(Base Defense: 101-105)\nRequired Level: 28\nRequired Strength: 50\nDurability: 48\n+100-130% Enhanced Defense (varies)\nRequirements -10%\nDamage Reduced By 10%\n+5 To Strength\nDamage Reduced By 5\n(Only Spawns In Patch 1.09 or later)",
         "item": "Unique",
-        "image":""
+        "image":"field_plate"
     },
     {
         "kind": "Armor",
-        "part": "Armor",
+        "part": "Chests",
         "value": "Normal Unique Armor",
         "name": "Boneflesh",
         "type": "Plate Mail",
@@ -121,7 +121,7 @@
     },
     {
         "kind": "Armor",
-        "part": "Armor",
+        "part": "Chests",
         "value": "Normal Unique Armor",
         "name": "Rattlecage",
         "type": "Gothic Plate",
@@ -131,7 +131,7 @@
     },
     {
         "kind": "Armor",
-        "part": "Armor",
+        "part": "Chests",
         "value": "Normal Unique Armor",
         "name": "Goldskin",
         "type": "Full Plate Mail",
@@ -141,7 +141,7 @@
     },
     {
         "kind": "Armor",
-        "part": "Armor",
+        "part": "Chests",
         "value": "Normal Unique Armor",
         "name": "Silks of the Victor",
         "type": "Ancient Armor",

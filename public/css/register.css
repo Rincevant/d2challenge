@@ -8,6 +8,7 @@ h2 {
     font-weight: 400;
     color: #f0e7d8;
     text-align: center;
+    margin-top: -20px;
 }
 
 form {
@@ -41,4 +42,39 @@ select {
 
 option {    
     color: #3a3a3abb;
+}
+
+span {
+    font-family: DiabloLight;
+    font-size: 0.8em;
+    color: #f0e7d8;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    margin-left: 0;
+}
+
+#register {
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    margin-top: 20px;
+    width: 40%;
+}
+
+.register_submit {
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    margin-top: 20px;
+    background-image: url(../images/registeroff.jpg);
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 47px;
+    width: 200px;
+    border: none;
+}
+
+.register_submit:hover {
+    background-image: url('../images/registeron.jpg');
 }

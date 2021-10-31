@@ -1,42 +1,42 @@
 [
     {
-        "setName": "",
-        "name":"",
-        "part":"",
-        "type":"",
-        "kind": "",
-        "item": "",
-        "image": "",
-        "properties":""
+        "setName": "Artic Gear",
+        "name":"Arctic Furs",
+        "part":"Armor",
+        "type":"Quilted Armor",
+        "kind": "Armor",
+        "item": "Set",
+        "image": "quilted_armor",
+        "properties":"Defense: 45 - 51 (varies)(Base Defense 8-11)\nDefense: (48-342) - (54-348) (varies)(Base Defense 8-11)\nRequired Level: 2\nRequired Strength: 12\nDurability: 2false\n+275-325% Enhanced Defense (varies)\nAll Resistances +1false\n+ (3 Per Character Level) 3-297 Defense (Based On Character Level) (2 Set Items)\nCold Resist +15% (3 Set Items)"
     },
     {
-        "setName": "",
-        "name":"",
-        "part":"",
-        "type":"",
-        "kind": "",
-        "item": "",
-        "image": "",
-        "properties":""
+        "setName": "Artic Gear",
+        "name":"Arctic Binding",
+        "part":"Belts",
+        "type":"Light Belt",
+        "kind": "Armor",
+        "item": "Set",
+        "image": "light_belt",
+        "properties":"Defense: 33 (Base Defense: 3)\nRequired Level: 2\nDurability: 14\nCold Resist +4false%\n+3false Defense\n+4false% Better Chance Of Getting Magic Items (2 Set Items)\nCold Resist +1false% (3 Set Items)"
     },
     {
-        "setName": "",
-        "name":"",
-        "part":"",
-        "type":"",
-        "kind": "",
-        "item": "",
-        "image": "",
-        "properties":""
+        "setName": "Artic Gear",
+        "name":"Arctic Mitts",
+        "part":"Gloves",
+        "type":"Light Gauntlets",
+        "kind": "Armor",
+        "item": "Set",
+        "image": "light_gauntlets",
+        "properties":"Defense: 9-11 (varies)\nRequired Level: 2\nRequired Strength: 45\nDurability: 18\n+2false To Life\n1false% Increased Attack Speed\n+5false To Attack Rating (2 Set Items)\n+1false To Dexterity (3 Set Items)"
     },
     {
-        "setName": "",
-        "name":"",
-        "part":"",
-        "type":"",
-        "kind": "",
-        "item": "",
-        "image": "",
-        "properties":""
+        "setName": "Artic Gear",
+        "name":"Arctic Horn",
+        "part":"Bows",
+        "type":"Short War Bow",
+        "kind": "Weapon",
+        "item": "Set",
+        "image": "hellclap",
+        "properties":"Two-Hand Damage: 9 to 21 (15 avg)\nRequired Level: 2\nRequired Strength: 35\nRequired Dexterity: 55\nBase Weapon Speed: [false]\n+5false% Enhanced Damage\n2false% Bonus To Attack Rating\n+ (8 Per Character Level) 8-792 Attack Rating (Based On Character Level) (2 Set Items)\n+2false-3false Cold Damage, 3 sec. Duration (Normal) (3 Set Items)"
     }
 ]

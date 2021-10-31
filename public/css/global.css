@@ -1,6 +1,6 @@
 body {
     background-image: url("../images/site-bg-max.jpg");
-    background-size: cover;
+    background-size: auto;
     background-repeat: repeat-y;
-    background-position: center;
+    background-position: top;
 }

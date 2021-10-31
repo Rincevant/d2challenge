@@ -1,0 +1,1772 @@
+{
+    "uniques": {
+        "armor": {
+            "chests": {
+                "normal": {
+                    "Greyform": {
+                        "owned": false
+                    },
+                    "Blinkbat's Form": {
+                        "owned": false
+                    },
+                    "The Centurion": {
+                        "owned": false
+                    },
+                    "Twitchthroe": {
+                        "owned": false
+                    },
+                    "Darkglow": {
+                        "owned": false
+                    },
+                    "Hawkmail": {
+                        "owned": false
+                    },
+                    "Venom Ward": {
+                        "owned": false
+                    },
+                    "Sparking Mail": {
+                        "owned": false
+                    },
+                    "Iceblink": {
+                        "owned": false
+                    },
+                    "Heavenly Garb": {
+                        "owned": false
+                    },
+                    "Rockfleece": {
+                        "owned": false
+                    },
+                    "Boneflesh": {
+                        "owned": false
+                    },
+                    "Rattlecage": {
+                        "owned": false
+                    },
+                    "Goldskin": {
+                        "owned": false
+                    },
+                    "Silks of the Victor": {
+                        "owned": false
+                    }
+                },
+                "exceptional": {
+                    "The Spirit Shroud": {
+                        "owned": false
+                    },
+                    "Skin of the Vipermagi": {
+                        "owned": false
+                    },
+                    "Skin of the Flayed One": {
+                        "owned": false
+                    },
+                    "Iron Pelt": {
+                        "owned": false
+                    },
+                    "Crow Caw": {
+                        "owned": false
+                    },
+                    "Spirit Forge": {
+                        "owned": false
+                    },
+                    "Duriel's Shell": {
+                        "owned": false
+                    },
+                    "Shaftstop": {
+                        "owned": false
+                    },
+                    "Skullder's Ire": {
+                        "owned": false
+                    },
+                    "Que-Hegan's Wisdom": {
+                        "owned": false
+                    },
+                    "Toothrow": {
+                        "owned": false
+                    },
+                    "Guardian Angel": {
+                        "owned": false
+                    },
+                    "Atma's Wail": {
+                        "owned": false
+                    },
+                    "Black Hades": {
+                        "owned": false
+                    },
+                    "Corpsemourn": {
+                        "owned": false
+                    }
+                },
+                "elite": {
+                    "Ormus' Robes": {
+                        "owned": false
+                    },
+                    "The Gladiator's Bane": {
+                        "owned": false
+                    },
+                    "Arkaine's Valor": {
+                        "owned": false
+                    },
+                    "Leviathan": {
+                        "owned": false
+                    },
+                    "Steel Carapace": {
+                        "owned": false
+                    },
+                    "Templar's Might": {
+                        "owned": false
+                    },
+                    "Tyrael's Might": {
+                        "owned": false
+                    }
+                }
+            },
+            "helms": {
+                "normal": {
+                    "Biggin's Bonnet": {
+                        "owned": false
+                    },
+                    "Tarnhelm": {
+                        "owned": false
+                    },
+                    "Coif of Glory": {
+                        "owned": false
+                    },
+                    "Duskdeep": {
+                        "owned": false
+                    },
+                    "Wormskull": {
+                        "owned": false
+                    },
+                    "Howltusk": {
+                        "owned": false
+                    },
+                    "Undead Crowned": {
+                        "owned": false
+                    },
+                    "The Face of Horror": {
+                        "owned": false
+                    }
+                },
+                "exceptional": {
+                    "Peasant Crowned": {
+                        "owned": false
+                    },
+                    "Rockstopper": {
+                        "owned": false
+                    },
+                    "Stealskull": {
+                        "owned": false
+                    },
+                    "Darksight Helm": {
+                        "owned": false
+                    },
+                    "Vampire Gaze": {
+                        "owned": false
+                    },
+                    "Valkyrie Wing": {
+                        "owned": false
+                    },
+                    "Crowned of Thieves": {
+                        "owned": false
+                    },
+                    "Blackhorn's Face": {
+                        "owned": false
+                    }
+                },
+                "elite": {
+                    "Andariel's Visage": {
+                        "owned": false
+                    },
+                    "Crowned of Ages": {
+                        "owned": false
+                    },
+                    "Giant Skull": {
+                        "owned": false
+                    },
+                    "Harlequin Crest": {
+                        "owned": false
+                    },
+                    "Nightwing's Veil": {
+                        "owned": false
+                    },
+                    "Steel Shade": {
+                        "owned": false
+                    },
+                    "Veil of Steel": {
+                        "owned": false
+                    }
+                }
+            },
+            "circlet": {
+                "elite": {
+                    "Kira's Guardian": {
+                        "owned": false
+                    },
+                    "Griffon's Eye": {
+                        "owned": false
+                    }
+                }
+            },
+            "glove": {
+                "normal": {
+                    "The Hand of Broc": {
+                        "owned": false
+                    },
+                    "Bloodfist": {
+                        "owned": false
+                    },
+                    "Chance Guards": {
+                        "owned": false
+                    },
+                    "Magefist": {
+                        "owned": false
+                    },
+                    "Frostburn": {
+                        "owned": false
+                    }
+                },
+                "exceptional": {
+                    "Venom Grip": {
+                        "owned": false
+                    },
+                    "Gravepalm": {
+                        "owned": false
+                    },
+                    "Ghoulhide": {
+                        "owned": false
+                    },
+                    "Lava Gout": {
+                        "owned": false
+                    },
+                    "Hellmouth": {
+                        "owned": false
+                    }
+                },
+                "elite": {
+                    "Dracul's Grasp": {
+                        "owned": false
+                    },
+                    "Soul Drainer": {
+                        "owned": false
+                    },
+                    "Steelrend": {
+                        "owned": false
+                    }
+                }
+            },
+            "belts": {
+                "normal": {
+                    "Lenymo": {
+                        "owned": false
+                    },
+                    "Snakecord": {
+                        "owned": false
+                    },
+                    "Nightsmoke": {
+                        "owned": false
+                    },
+                    "Goldwrap": {
+                        "owned": false
+                    },
+                    "Bladebuckle": {
+                        "owned": false
+                    }
+                },
+                "exceptional": {
+                    "String of Ears": {
+                        "owned": false
+                    },
+                    "Razortail": {
+                        "owned": false
+                    },
+                    "Gloom's Trap": {
+                        "owned": false
+                    },
+                    "Snowclash": {
+                        "owned": false
+                    },
+                    "Thundergod's Vigor": {
+                        "owned": false
+                    }
+                },
+                "elite": {
+                    "Arachnid Mesh": {
+                        "owned": false
+                    },
+                    "Nosferatu's Coil": {
+                        "owned": false
+                    },
+                    "Verdungo's Hearty Cord": {
+                        "owned": false
+                    }
+                }
+            },
+            "boots": {
+                "normal": {
+                    "Hotspur": {
+                        "owned": false
+                    },
+                    "Gorefoot": {
+                        "owned": false
+                    },
+                    "Treads of Cthon": {
+                        "owned": false
+                    },
+                    "Goblin Toe": {
+                        "owned": false
+                    },
+                    "Tearhaunch": {
+                        "owned": false
+                    }
+                },
+                "exceptional": {
+                    "Infernostride": {
+                        "owned": false
+                    },
+                    "Waterwalk": {
+                        "owned": false
+                    },
+                    "Silkweave": {
+                        "owned": false
+                    },
+                    "War Traveler": {
+                        "owned": false
+                    },
+                    "Gore Rider": {
+                        "owned": false
+                    }
+                },
+                "elite": {
+                    "Marrowwalk": {
+                        "owned": false
+                    },
+                    "Sandstorm Trek": {
+                        "owned": false
+                    },
+                    "Shadow Dancer": {
+                        "owned": false
+                    }
+                }
+            },
+            "shields": {
+                "normal": {
+                    "Pelta Lunata": {
+                        "owned": false
+                    },
+                    "Umbral Disk": {
+                        "owned": false
+                    },
+                    "Stormguild": {
+                        "owned": false
+                    },
+                    "Swordback Hold": {
+                        "owned": false
+                    },
+                    "Steelclash": {
+                        "owned": false
+                    },
+                    "Wall of the Eyeless": {
+                        "owned": false
+                    },
+                    "Bverrit Keep": {
+                        "owned": false
+                    },
+                    "The Ward": {
+                        "owned": false
+                    }
+                },
+                "exceptional": {
+                    "Visceratuant": {
+                        "owned": false
+                    },
+                    "Moser's Blessed Circle": {
+                        "owned": false
+                    },
+                    "Stormchaser": {
+                        "owned": false
+                    },
+                    "Lance Guard": {
+                        "owned": false
+                    },
+                    "Tiamat's Rebuke": {
+                        "owned": false
+                    },
+                    "Lidless Wall": {
+                        "owned": false
+                    },
+                    "Gerke's Sanctuary": {
+                        "owned": false
+                    },
+                    "Radament's Sphere": {
+                        "owned": false
+                    }
+                },
+                "elite": {
+                    "Blackoak Shield": {
+                        "owned": false
+                    },
+                    "Stormshield": {
+                        "owned": false
+                    },
+                    "Head Hunter's Glory": {
+                        "owned": false
+                    },
+                    "Medusa's Gaze": {
+                        "owned": false
+                    },
+                    "Spike Thorn": {
+                        "owned": false
+                    },
+                    "Spirit Ward": {
+                        "owned": false
+                    }
+                }
+            }
+        },
+        "weapons": {
+            "axes": {
+                "normal": {
+                    "The Gnasher": {
+                        "owned": false
+                    },
+                    "Deathspade": {
+                        "owned": false
+                    },
+                    "Bladebone": {
+                        "owned": false
+                    },
+                    "Skull Splitter": {
+                        "owned": false
+                    },
+                    "Rakescar": {
+                        "owned": false
+                    },
+                    "Axe of Fechmar": {
+                        "owned": false
+                    },
+                    "Goreshovel": {
+                        "owned": false
+                    },
+                    "The Chieftain": {
+                        "owned": false
+                    },
+                    "Brainhew": {
+                        "owned": false
+                    },
+                    "Humongous": {
+                        "owned": false
+                    }
+                },
+                "exceptional": {
+                    "Coldkill": {
+                        "owned": false
+                    },
+                    "Butcher's Pupil": {
+                        "owned": false
+                    },
+                    "Islestrike": {
+                        "owned": false
+                    },
+                    "Pompeii's Wrath": {
+                        "owned": false
+                    },
+                    "Guardian Naga": {
+                        "owned": false
+                    },
+                    "Warlord's Trust": {
+                        "owned": false
+                    },
+                    "Spellsteel": {
+                        "owned": false
+                    },
+                    "Stormrider": {
+                        "owned": false
+                    },
+                    "Boneslayer Blade": {
+                        "owned": false
+                    },
+                    "The Minotaur": {
+                        "owned": false
+                    }
+                },
+                "elite": {
+                    "Razor's Edge": {
+                        "owned": false
+                    },
+                    "Rune Master": {
+                        "owned": false
+                    },
+                    "Cranebeak": {
+                        "owned": false
+                    },
+                    "Death Cleaver": {
+                        "owned": false
+                    },
+                    "Ethereal Edge": {
+                        "owned": false
+                    },
+                    "Hellslayer": {
+                        "owned": false
+                    },
+                    "Messerschmidt's Reaver": {
+                        "owned": false
+                    },
+                    "Executioner's Justice": {
+                        "owned": false
+                    }
+                }
+            },
+            "bows": {
+                "normal": {
+                    "Pluckeye": {
+                        "owned": false
+                    },
+                    "Witherstring": {
+                        "owned": false
+                    },
+                    "Raven Claw": {
+                        "owned": false
+                    },
+                    "Rogue's Bow": {
+                        "owned": false
+                    },
+                    "Stormstrike": {
+                        "owned": false
+                    },
+                    "Wizendraw": {
+                        "owned": false
+                    },
+                    "Hellclap": {
+                        "owned": false
+                    },
+                    "Blastbark": {
+                        "owned": false
+                    }
+                },
+                "exceptional": {
+                    "Skystrike": {
+                        "owned": false
+                    },
+                    "Riphook": {
+                        "owned": false
+                    },
+                    "Kuko Shakaku": {
+                        "owned": false
+                    },
+                    "Endlesshail": {
+                        "owned": false
+                    },
+                    "Witchwild String": {
+                        "owned": false
+                    },
+                    "Cliffkiller": {
+                        "owned": false
+                    },
+                    "Magewrath": {
+                        "owned": false
+                    },
+                    "Goldstrike Arch": {
+                        "owned": false
+                    }
+                },
+                "elite": {
+                    "Widowmaker": {
+                        "owned": false
+                    },
+                    "Eaglehorn": {
+                        "owned": false
+                    },
+                    "Windforce": {
+                        "owned": false
+                    }
+                }
+            },
+            "crossbows": {
+                "normal": {
+                    "Leadcrow": {
+                        "owned": false
+                    },
+                    "Ichorsting": {
+                        "owned": false
+                    },
+                    "Hellcast": {
+                        "owned": false
+                    },
+                    "Doomslinger": {
+                        "owned": false
+                    }
+                },
+                "exceptional": {
+                    "Langer Briser": {
+                        "owned": false
+                    },
+                    "Pus Spitter": {
+                        "owned": false
+                    },
+                    "Buriza-Do Kyanon": {
+                        "owned": false
+                    },
+                    "Demon Machine": {
+                        "owned": false
+                    }
+                },
+                "elite": {
+                    "Gut Siphon": {
+                        "owned": false
+                    },
+                    "Hellrack": {
+                        "owned": false
+                    }
+                }
+            },
+            "daggers": {
+                "normal": {
+                    "Gull": {
+                        "owned": false
+                    },
+                    "The Diggler": {
+                        "owned": false
+                    },
+                    "The Jade Tan Do": {
+                        "owned": false
+                    },
+                    "Spectral Shard": {
+                        "owned": false
+                    }
+                },
+                "exceptional": {
+                    "Spineripper": {
+                        "owned": false
+                    },
+                    "Heart Carver": {
+                        "owned": false
+                    },
+                    "Blackbog's Sharp": {
+                        "owned": false
+                    },
+                    "Stormspike": {
+                        "owned": false
+                    }
+                },
+                "elite": {
+                    "Fleshripper": {
+                        "owned": false
+                    },
+                    "Ghostflame": {
+                        "owned": false
+                    },
+                    "Wizardspike": {
+                        "owned": false
+                    }
+                }
+            },
+            "maces": {
+                "normal": {
+                    "Felloak": {
+                        "owned": false
+                    },
+                    "Stoutnail": {
+                        "owned": false
+                    },
+                    "Crushflange": {
+                        "owned": false
+                    },
+                    "Bloodrise": {
+                        "owned": false
+                    },
+                    "The General's Tan Do Li Ga": {
+                        "owned": false
+                    },
+                    "Ironstone": {
+                        "owned": false
+                    },
+                    "Bonesnap": {
+                        "owned": false
+                    },
+                    "Steeldriver": {
+                        "owned": false
+                    }
+                },
+                "exceptional": {
+                    "Dark Clan Crusher": {
+                        "owned": false
+                    },
+                    "Fleshrender": {
+                        "owned": false
+                    },
+                    "Sureshrill Frost": {
+                        "owned": false
+                    },
+                    "Moonfall": {
+                        "owned": false
+                    },
+                    "Baezil's Vortex": {
+                        "owned": false
+                    },
+                    "Earthshaker": {
+                        "owned": false
+                    },
+                    "Bloodtree Stump": {
+                        "owned": false
+                    },
+                    "The Gavel of Pain": {
+                        "owned": false
+                    }
+                },
+                "elite": {
+                    "Nord's Tenderizer": {
+                        "owned": false
+                    },
+                    "Baranar's Star": {
+                        "owned": false
+                    },
+                    "Demon Limb": {
+                        "owned": false
+                    },
+                    "Stormlash": {
+                        "owned": false
+                    },
+                    "Horizon's Tornado": {
+                        "owned": false
+                    },
+                    "Stone Crusher": {
+                        "owned": false
+                    },
+                    "Schaefer's Hammer": {
+                        "owned": false
+                    },
+                    "Windhammer": {
+                        "owned": false
+                    },
+                    "Earth Shifter": {
+                        "owned": false
+                    },
+                    "The Cranium Basher": {
+                        "owned": false
+                    }
+                }
+            },
+            "polearms": {
+                "normal": {
+                    "Dimoak's Hew": {
+                        "owned": false
+                    },
+                    "Steelgoad": {
+                        "owned": false
+                    },
+                    "Soul Harvest": {
+                        "owned": false
+                    },
+                    "The Battlebranch": {
+                        "owned": false
+                    },
+                    "Woestave": {
+                        "owned": false
+                    },
+                    "The Grim Reaper": {
+                        "owned": false
+                    }
+                },
+                "exceptional": {
+                    "The Meat Scraper": {
+                        "owned": false
+                    },
+                    "Blackleach Blade": {
+                        "owned": false
+                    },
+                    "Athena's Wrath": {
+                        "owned": false
+                    },
+                    "Pierre Tombale Couant": {
+                        "owned": false
+                    },
+                    "Husoldal Evo": {
+                        "owned": false
+                    },
+                    "Grim's Burning Dead": {
+                        "owned": false
+                    }
+                },
+                "elite": {
+                    "Bonehew": {
+                        "owned": false
+                    },
+                    "The Reaper's Toll": {
+                        "owned": false
+                    },
+                    "Tomb Reaver": {
+                        "owned": false
+                    },
+                    "Stormspire": {
+                        "owned": false
+                    }
+                }
+            },
+            "scepters": {
+                "normal": {
+                    "Knell Striker": {
+                        "owned": false
+                    },
+                    "Rusthandle": {
+                        "owned": false
+                    },
+                    "Stormeye": {
+                        "owned": false
+                    }
+                },
+                "exceptional": {
+                    "Zakarum's Hand": {
+                        "owned": false
+                    },
+                    "The Fetid Sprinkler": {
+                        "owned": false
+                    },
+                    "Hand of Blessed Light": {
+                        "owned": false
+                    }
+                },
+                "elite": {
+                    "Astreon's Iron Ward": {
+                        "owned": false
+                    },
+                    "Heaven's Light": {
+                        "owned": false
+                    },
+                    "The Redeemer": {
+                        "owned": false
+                    }
+                }
+            },
+            "spears": {
+                "normal": {
+                    "The Dragon Chang": {
+                        "owned": false
+                    },
+                    "Razortine": {
+                        "owned": false
+                    },
+                    "Bloodthief": {
+                        "owned": false
+                    },
+                    "Lance of Yaggai": {
+                        "owned": false
+                    },
+                    "The Tannr Gorerod": {
+                        "owned": false
+                    }
+                },
+                "exceptional": {
+                    "The Impaler": {
+                        "owned": false
+                    },
+                    "Kelpie Snare": {
+                        "owned": false
+                    },
+                    "Soulfeast Tine": {
+                        "owned": false
+                    },
+                    "Hone Sundan": {
+                        "owned": false
+                    },
+                    "Spire of Honor": {
+                        "owned": false
+                    }
+                },
+                "elite": {
+                    "Arioc's Needle": {
+                        "owned": false
+                    },
+                    "Steel Pillar": {
+                        "owned": false
+                    },
+                    "Viperfork": {
+                        "owned": false
+                    }
+                }
+            },
+            "staves": {
+                "normal": {
+                    "Bane Ash": {
+                        "owned": false
+                    },
+                    "Serpent Lord": {
+                        "owned": false
+                    },
+                    "Spire of Lazarus": {
+                        "owned": false
+                    },
+                    "The Salamander": {
+                        "owned": false
+                    },
+                    "The Iron Jang Bong": {
+                        "owned": false
+                    }
+                },
+                "exceptional": {
+                    "Razorswitch": {
+                        "owned": false
+                    },
+                    "Ribcracker": {
+                        "owned": false
+                    },
+                    "Chromatic Ire": {
+                        "owned": false
+                    },
+                    "Warpspear": {
+                        "owned": false
+                    },
+                    "Skull Collector": {
+                        "owned": false
+                    }
+                },
+                "elite": {
+                    "Mang Song's Lesson": {
+                        "owned": false
+                    },
+                    "Ondal's Wisdom": {
+                        "owned": false
+                    }
+                }
+            },
+            "swords": {
+                "normal": {
+                    "Rixot's Keen": {
+                        "owned": false
+                    },
+                    "Blood Crescent": {
+                        "owned": false
+                    },
+                    "Skewer of Krintiz": {
+                        "owned": false
+                    },
+                    "Gleamscythe": {
+                        "owned": false
+                    },
+                    "Griswold's Edge": {
+                        "owned": false
+                    },
+                    "Hellplague": {
+                        "owned": false
+                    },
+                    "Culwen's Point": {
+                        "owned": false
+                    },
+                    "Shadowfang": {
+                        "owned": false
+                    },
+                    "Soulflay": {
+                        "owned": false
+                    },
+                    "Kinemil's Awl": {
+                        "owned": false
+                    },
+                    "Blacktongue": {
+                        "owned": false
+                    },
+                    "Ripsaw": {
+                        "owned": false
+                    },
+                    "The Patriarch": {
+                        "owned": false
+                    }
+                },
+                "exceptional": {
+                    "Bloodletter": {
+                        "owned": false
+                    },
+                    "Coldsteel Eye": {
+                        "owned": false
+                    },
+                    "Hexfire": {
+                        "owned": false
+                    },
+                    "Blade of Ali Baba": {
+                        "owned": false
+                    },
+                    "Ginther's Rift": {
+                        "owned": false
+                    },
+                    "Headstriker": {
+                        "owned": false
+                    },
+                    "Plague Bearer": {
+                        "owned": false
+                    },
+                    "The Atlantean": {
+                        "owned": false
+                    },
+                    "Crainte Vomir": {
+                        "owned": false
+                    },
+                    "Bing Sz Wang": {
+                        "owned": false
+                    },
+                    "The Vile Husk": {
+                        "owned": false
+                    },
+                    "Cloudcrack": {
+                        "owned": false
+                    },
+                    "Todesfaelle Flamme": {
+                        "owned": false
+                    },
+                    "Swordguard": {
+                        "owned": false
+                    }
+                },
+                "elite": {
+                    "Azurewrath": {
+                        "owned": false
+                    },
+                    "Bloodmoon": {
+                        "owned": false
+                    },
+                    "Djinn Slayer": {
+                        "owned": false
+                    },
+                    "Frostwind": {
+                        "owned": false
+                    },
+                    "Lightsabre": {
+                        "owned": false
+                    },
+                    "Flamebellow": {
+                        "owned": false
+                    },
+                    "Doombringer": {
+                        "owned": false
+                    },
+                    "The Grandfather": {
+                        "owned": false
+                    }
+                }
+            },
+            "wands": {
+                "normal": {
+                    "Torch of Iro": {
+                        "owned": false
+                    },
+                    "Maelstrom": {
+                        "owned": false
+                    },
+                    "Gravenspine": {
+                        "owned": false
+                    },
+                    "Ume's Lament": {
+                        "owned": false
+                    }
+                },
+                "exceptional": {
+                    "Suicide Branch": {
+                        "owned": false
+                    },
+                    "Carin Shard": {
+                        "owned": false
+                    },
+                    "Arm of King Leoric": {
+                        "owned": false
+                    },
+                    "Blackhand Key": {
+                        "owned": false
+                    }
+                },
+                "elite": {
+                    "Boneshade": {
+                        "owned": false
+                    },
+                    "Death's Web": {
+                        "owned": false
+                    }
+                }
+            },
+            "throwing": {
+                "exceptional": {
+                    "Deathbit": {
+                        "owned": false
+                    },
+                    "The Scalper": {
+                        "owned": false
+                    }
+                },
+                "elite": {
+                    "Gimmershred": {
+                        "owned": false
+                    },
+                    "Lacerator": {
+                        "owned": false
+                    },
+                    "Warshrike": {
+                        "owned": false
+                    },
+                    "Demon's Arch": {
+                        "owned": false
+                    },
+                    "Wraith Flight": {
+                        "owned": false
+                    },
+                    "Gargoyle's Bite": {
+                        "owned": false
+                    }
+                }
+            }
+        },
+        "others": {
+            "jewelry": {
+                "rings": {
+                    "Nagelring": {
+                        "owned": false
+                    },
+                    "Manald Heal": {
+                        "owned": false
+                    },
+                    "Stone of Jordan": {
+                        "owned": false
+                    },
+                    "Dwarf Star": {
+                        "owned": false
+                    },
+                    "Raven Frost": {
+                        "owned": false
+                    },
+                    "Bul-Kathos' Wedding Band": {
+                        "owned": false
+                    },
+                    "Carrion Wind": {
+                        "owned": false
+                    },
+                    "Nature's Peace": {
+                        "owned": false
+                    },
+                    "Wisp Projector": {
+                        "owned": false
+                    }
+                },
+                "amulets": {
+                    "Nokozan Relic": {
+                        "owned": false
+                    },
+                    "The Eye of Etlich": {
+                        "owned": false
+                    },
+                    "The Mahim-Oak Curio": {
+                        "owned": false
+                    },
+                    "Saracen's Chance": {
+                        "owned": false
+                    },
+                    "The Cat's Eye": {
+                        "owned": false
+                    },
+                    "The Rising Sun": {
+                        "owned": false
+                    },
+                    "Crescent Moon": {
+                        "owned": false
+                    },
+                    "Atma's Scarab": {
+                        "owned": false
+                    },
+                    "Highlord's Wrath": {
+                        "owned": false
+                    },
+                    "Mara's Kaleidoscope": {
+                        "owned": false
+                    },
+                    "Seraph's Hymn": {
+                        "owned": false
+                    },
+                    "Metalgrid": {
+                        "owned": false
+                    }
+                }
+            },
+            "charms": {
+                "all": {
+                    "Annihilus": {
+                        "owned": false
+                    },
+                    "Gheed's Fortune": {
+                        "owned": false
+                    },
+                    "Hellfire Torch": {
+                        "owned": false
+                    }
+                }
+            },
+            "rainbow facet (jewel)": {
+                "level up": {
+                    "Cold": {
+                        "owned": false
+                    },
+                    "Light": {
+                        "owned": false
+                    },
+                    "Fire": {
+                        "owned": false
+                    },
+                    "Poison": {
+                        "owned": false
+                    }
+                },
+                "die": {
+                    "Cold": {
+                        "owned": false
+                    },
+                    "Light": {
+                        "owned": false
+                    },
+                    "Fire": {
+                        "owned": false
+                    },
+                    "Poison": {
+                        "owned": false
+                    }
+                }
+            },
+            "classes": {
+                "amazon": {
+                    "Lycander's Aim": {
+                        "owned": false
+                    },
+                    "Titan's Revenge": {
+                        "owned": false
+                    },
+                    "Lycander's Flank": {
+                        "owned": false
+                    },
+                    "Blood Raven's Charge": {
+                        "owned": false
+                    },
+                    "Thunderstroke": {
+                        "owned": false
+                    },
+                    "Stoneraven": {
+                        "owned": false
+                    }
+                },
+                "assasin": {
+                    "Bartuc's Cut-Throat": {
+                        "owned": false
+                    },
+                    "Firelizard's Talons": {
+                        "owned": false
+                    },
+                    "Jade Talon": {
+                        "owned": false
+                    },
+                    "Shadow Killer": {
+                        "owned": false
+                    }
+                },
+                "barbarian": {
+                    "Arreat's Face": {
+                        "owned": false
+                    },
+                    "Demonhorn's Edge": {
+                        "owned": false
+                    },
+                    "Halaberd's Reign": {
+                        "owned": false
+                    },
+                    "Wolfhowl": {
+                        "owned": false
+                    }
+                },
+                "druid": {
+                    "Jalal's Mane": {
+                        "owned": false
+                    },
+                    "Cerebus' Bite": {
+                        "owned": false
+                    },
+                    "Ravenlore": {
+                        "owned": false
+                    },
+                    "Spirit Keeper": {
+                        "owned": false
+                    }
+                },
+                "necromancer": {
+                    "Homunculus": {
+                        "owned": false
+                    },
+                    "Boneflame": {
+                        "owned": false
+                    },
+                    "Darkforce Spawn": {
+                        "owned": false
+                    }
+                },
+                "paladin": {
+                    "Herald of Zakarum": {
+                        "owned": false
+                    },
+                    "Alma Negra": {
+                        "owned": false
+                    },
+                    "Dragonscale": {
+                        "owned": false
+                    }
+                },
+                "sorceress": {
+                    "The Oculus": {
+                        "owned": false
+                    },
+                    "Death's Fathom": {
+                        "owned": false
+                    },
+                    "Eschuta's Temper": {
+                        "owned": false
+                    }
+                }
+            }
+        }
+    },
+    "sets": {
+        "Angelic Raiment": {
+            "Angelic Wings": {
+                "owned": false
+            },
+            "Angelic Halo": {
+                "owned": false
+            },
+            "Angelic Mantle": {
+                "owned": false
+            },
+            "Angelic Sickle": {
+                "owned": false
+            }
+        },
+        "Arcanna's Tricks": {
+            "Arcanna's Sign": {
+                "owned": false
+            },
+            "Arcanna's Head": {
+                "owned": false
+            },
+            "Arcanna's Flesh": {
+                "owned": false
+            },
+            "Arcanna's Deathwand": {
+                "owned": false
+            }
+        },
+        "Arctic Gear": {
+            "Arctic Mitts": {
+                "owned": false
+            },
+            "Arctic Binding": {
+                "owned": false
+            },
+            "Arctic Furs": {
+                "owned": false
+            },
+            "Arctic Horn": {
+                "owned": false
+            }
+        },
+        "Berserker's Arsenal": {
+            "Berserker's Hatchet": {
+                "owned": false
+            },
+            "Berserker's Hauberk": {
+                "owned": false
+            },
+            "Berserker's Headgear": {
+                "owned": false
+            }
+        },
+        "Cathan's Traps": {
+            "Cathan's Seal": {
+                "owned": false
+            },
+            "Cathan's Sigil": {
+                "owned": false
+            },
+            "Cathan's Visage": {
+                "owned": false
+            },
+            "Cathan's Mesh": {
+                "owned": false
+            },
+            "Cathan's Rule": {
+                "owned": false
+            }
+        },
+        "Civerb's Vestments": {
+            "Civerb's Cudgel": {
+                "owned": false
+            },
+            "Civerb's Ward": {
+                "owned": false
+            },
+            "Civerb's Icon": {
+                "owned": false
+            }
+        },
+        "Cleglaw's Brace": {
+            "Cleglaw's Tooth": {
+                "owned": false
+            },
+            "Cleglaw's Claw": {
+                "owned": false
+            },
+            "Cleglaw's Pincers": {
+                "owned": false
+            }
+        },
+        "Death's Disguise": {
+            "Death's Touch": {
+                "owned": false
+            },
+            "Death's Guard": {
+                "owned": false
+            },
+            "Death's Hand": {
+                "owned": false
+            }
+        },
+        "Hsaru's Defense": {
+            "Hsarus' Iron Stay": {
+                "owned": false
+            },
+            "Hsarus' Iron Fist": {
+                "owned": false
+            },
+            "Hsarus' Iron Heel": {
+                "owned": false
+            }
+        },
+        "Infernal Tools": {
+            "Infernal Sign": {
+                "owned": false
+            },
+            "Infernal Torch": {
+                "owned": false
+            },
+            "Infernal Cranium": {
+                "owned": false
+            }
+        },
+        "Iratha's Finery": {
+            "Iratha's Coil": {
+                "owned": false
+            },
+            "Iratha's Cuff": {
+                "owned": false
+            },
+            "Iratha's Cord": {
+                "owned": false
+            },
+            "Iratha's Collar": {
+                "owned": false
+            }
+        },
+        "Isenhart's Armory": {
+            "Isenhart's Lightbrand": {
+                "owned": false
+            },
+            "Isenhart's Case": {
+                "owned": false
+            },
+            "Isenhart's Horns": {
+                "owned": false
+            },
+            "Isenhart's Parry": {
+                "owned": false
+            }
+        },
+        "Milabrega's Regalia": {
+            "Milabrega's Rod": {
+                "owned": false
+            },
+            "Milabrega's Robe": {
+                "owned": false
+            },
+            "Milabrega's Diadem": {
+                "owned": false
+            },
+            "Milabrega's Orb": {
+                "owned": false
+            }
+        },
+        "Sigon's Complete Steel": {
+            "Sigon's Shelter": {
+                "owned": false
+            },
+            "Sigon's Visor": {
+                "owned": false
+            },
+            "Sigon's Guard": {
+                "owned": false
+            },
+            "Sigon's Gage": {
+                "owned": false
+            },
+            "Sigon's Sabot": {
+                "owned": false
+            },
+            "Sigon's Wrap": {
+                "owned": false
+            }
+        },
+        "Tancred's Battlegear": {
+            "Tancred's Skull": {
+                "owned": false
+            },
+            "Tancred's Weird": {
+                "owned": false
+            },
+            "Tancred's Hobnails": {
+                "owned": false
+            },
+            "Tancred's Spine": {
+                "owned": false
+            },
+            "Tancred's Crowbill": {
+                "owned": false
+            }
+        },
+        "Vidala's Rig": {
+            "Vidala's Snare": {
+                "owned": false
+            },
+            "Vidala's Ambush": {
+                "owned": false
+            },
+            "Vidala's Fetlock": {
+                "owned": false
+            },
+            "Vidala's Barb": {
+                "owned": false
+            }
+        },
+        "Aldur's Watchtower": {
+            "Aldur's Rhythm": {
+                "owned": false
+            },
+            "Aldur's Stony Gaze": {
+                "owned": false
+            },
+            "Aldur's Deception": {
+                "owned": false
+            },
+            "Aldur's Advance": {
+                "owned": false
+            }
+        },
+        "Bul-Kathos' Children": {
+            "Bul-Kathos' Sacred Charge": {
+                "owned": false
+            },
+            "Bul-Kathos' Tribal Guardian": {
+                "owned": false
+            }
+        },
+        "Cow King's Leathers": {
+            "Cow King's Horns": {
+                "owned": false
+            },
+            "Cow King's Hide": {
+                "owned": false
+            },
+            "Cow King's Hooves": {
+                "owned": false
+            }
+        },
+        "Griswold's Legacy": {
+            "Griswold's Redemption": {
+                "owned": false
+            },
+            "Griswold's Valor": {
+                "owned": false
+            },
+            "Griswold's Heart": {
+                "owned": false
+            },
+            "Griswold's Honor": {
+                "owned": false
+            }
+        },
+        "Heaven's Brethren": {
+            "Dangoon's Teaching": {
+                "owned": false
+            },
+            "Haemosu's Adamant": {
+                "owned": false
+            },
+            "Taebaek's Glory": {
+                "owned": false
+            },
+            "Ondal's Almighty": {
+                "owned": false
+            }
+        },
+        "Hwanin's Majesty": {
+            "Hwanin's Justice": {
+                "owned": false
+            },
+            "Hwanin's Refuge": {
+                "owned": false
+            },
+            "Hwanin's Splendor": {
+                "owned": false
+            },
+            "Hwanin's Blessing": {
+                "owned": false
+            }
+        },
+        "Immortal King": {
+            "Immortal King's Stone Crusher": {
+                "owned": false
+            },
+            "Immortal King's Will": {
+                "owned": false
+            },
+            "Immortal King's Soul Cage": {
+                "owned": false
+            },
+            "Immortal King's Detail": {
+                "owned": false
+            },
+            "Immortal King's Forge": {
+                "owned": false
+            },
+            "Immortal King's Pillar": {
+                "owned": false
+            }
+        },
+        "M'avina's Battle Hymn": {
+            "M'avina's Caster": {
+                "owned": false
+            },
+            "M'avina's Embrace": {
+                "owned": false
+            },
+            "M'avina's false Sight": {
+                "owned": false
+            },
+            "M'avina's Tenet": {
+                "owned": false
+            },
+            "M'avina's Icy Clutch": {
+                "owned": false
+            }
+        },
+        "Naj's Ancient Vestige": {
+            "Naj's Circlet": {
+                "owned": false
+            },
+            "Naj's Light Plate": {
+                "owned": false
+            },
+            "Naj's Puzzler": {
+                "owned": false
+            }
+        },
+        "Natalya's Odium": {
+            "Natalya's Mark": {
+                "owned": false
+            },
+            "Natalya's Shadow": {
+                "owned": false
+            },
+            "Natalya's Totem": {
+                "owned": false
+            },
+            "Natalya's Soul": {
+                "owned": false
+            }
+        },
+        "Orphan's Call": {
+            "Whitstan's Guard": {
+                "owned": false
+            },
+            "Guillaume's Face": {
+                "owned": false
+            },
+            "Wilhelm's Pride": {
+                "owned": false
+            },
+            "Magnus' Skin": {
+                "owned": false
+            }
+        },
+        "Sander's Folly": {
+            "Sander's Superstition": {
+                "owned": false
+            },
+            "Sander's Paragon": {
+                "owned": false
+            },
+            "Sander's Taboo": {
+                "owned": false
+            },
+            "Sander's Riprap": {
+                "owned": false
+            }
+        },
+        "Sazabi's Grand Tribute": {
+            "Sazabi's Cobalt Redeemer": {
+                "owned": false
+            },
+            "Sazabi's Ghost Liberator": {
+                "owned": false
+            },
+            "Sazabi's Mental Sheath": {
+                "owned": false
+            }
+        },
+        "Tal Rasha's Wrappings": {
+            "Tal Rasha's Adjudication": {
+                "owned": false
+            },
+            "Tal Rasha's Lidless Eye": {
+                "owned": false
+            },
+            "Tal Rasha's Guardianship": {
+                "owned": false
+            },
+            "Tal Rasha's Horadric Crest": {
+                "owned": false
+            },
+            "Tal Rasha's Fine Spun Cloth": {
+                "owned": false
+            }
+        },
+        "The Disciple": {
+            "Dark Adherent": {
+                "owned": false
+            },
+            "Credendum": {
+                "owned": false
+            },
+            "Laying of Hands": {
+                "owned": false
+            },
+            "Rite of Passage": {
+                "owned": false
+            },
+            "Telling of Beads": {
+                "owned": false
+            }
+        },
+        "Trang-Oul's Avatar": {
+            "Trang-Oul's Guise": {
+                "owned": false
+            },
+            "Trang-Oul's Scales": {
+                "owned": false
+            },
+            "Trang-Oul's Girth": {
+                "owned": false
+            },
+            "Trang-Oul's Claws": {
+                "owned": false
+            },
+            "Trang-Oul's Wing": {
+                "owned": false
+            }
+        }
+    }
+}

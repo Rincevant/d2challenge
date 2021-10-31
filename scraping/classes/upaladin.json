@@ -1,1 +1,29 @@
-[{"kind":"Weapon","class":"Paladin","name":"Alma Negra","type":"Sacred Rondache","properties":"Defense: 461-511 (varies)(Base Defense: 138-164)\nRequired Level: 77\nRequired Strength: 109\nChance To Block: 78%\nSmite Damage: 35 To 58\nDurability: 68\n(Paladin Only)\n+180-210% Enhanced Defense (varies)\n+1-2 To Paladin Skill Levels (varies)\n20% Increased Chance of Blocking\n30% Faster Block Rate\n+40-75% Enhanced Damage (varies)\n40-75% Bonus to Attack Rating (varies)\nMagic Damage Reduced By 5-9 (varies)\n(Only Spawns In Patch 1.10 or later)","item":"Unique"},{"kind":"Weapon","class":"Paladin","name":"Herald Of Zakarum","type":"Gilded Shield","properties":"Defense: 422-507 (varies)(Base Defense: 144-168)\nRequired Level: 42\nRequired Strength: 89\nDurability: 50\nChance To Block: 82%\nSmite Damage: 20 To 28\n(Paladin Only)\n+150-200% Enhanced Defense (varies)\n30% Increased Chance Of Blocking\n30% Faster Block Rate\n20% Bonus To Attack Rating\n+20 To Strength\n+20 To Vitality\nAll Resistances +50\n+2 To Paladin Skill Levels\n+2 To Combat Skills (Paladin Only)\n(Only Spawns In Patch 1.09 or later)","item":"Unique"},{"kind":"Weapon","class":"Paladin","name":"Dragonscale","type":"Zakarum Shield","properties":"Defense: 523-582 (varies)(Base Defense: 169-193)\nRequired Level: 80\nRequired Strength: 142\nDurability: 65\nChance To Block: 52%\nSmite Damage: 46 To 46\n(Paladin Only)\n+170-200% Enhanced Defense (varies)\nAdds 211-371 Fire Damage\n+15% To Fire Skill Damage\n+10 To Hydra*\n+5% To Maximum Fire Resist\n+15-25 To Strength (varies)\nFire Absorb 10-20% (varies)\n(Only Spawns In Patch 1.10 or later)","item":"Unique"}]
+[
+    {
+        "kind": "Weapon",
+        "class": "Paladin",
+        "name": "Alma Negra",
+        "type": "Sacred Rondache",
+        "properties": "Defense: 461-511 (varies)(Base Defense: 138-164)\nRequired Level: 77\nRequired Strength: 109\nChance To Block: 78%\nSmite Damage: 35 To 58\nDurability: 68\n(Paladin Only)\n+180-210% Enhanced Defense (varies)\n+1-2 To Paladin Skill Levels (varies)\n20% Increased Chance of Blocking\n30% Faster Block Rate\n+40-75% Enhanced Damage (varies)\n40-75% Bonus to Attack Rating (varies)\nMagic Damage Reduced By 5-9 (varies)\n(Only Spawns In Patch 1.10 or later)",
+        "item": "Unique",
+        "image" : "rondache"
+    },
+    {
+        "kind": "Weapon",
+        "class": "Paladin",
+        "name": "Herald Of Zakarum",
+        "type": "Gilded Shield",
+        "properties": "Defense: 422-507 (varies)(Base Defense: 144-168)\nRequired Level: 42\nRequired Strength: 89\nDurability: 50\nChance To Block: 82%\nSmite Damage: 20 To 28\n(Paladin Only)\n+150-200% Enhanced Defense (varies)\n30% Increased Chance Of Blocking\n30% Faster Block Rate\n20% Bonus To Attack Rating\n+20 To Strength\n+20 To Vitality\nAll Resistances +50\n+2 To Paladin Skill Levels\n+2 To Combat Skills (Paladin Only)\n(Only Spawns In Patch 1.09 or later)",
+        "item": "Unique",
+        "image" : "aerin_shield"
+    },
+    {
+        "kind": "Weapon",
+        "class": "Paladin",
+        "name": "Dragonscale",
+        "type": "Zakarum Shield",
+        "properties": "Defense: 523-582 (varies)(Base Defense: 169-193)\nRequired Level: 80\nRequired Strength: 142\nDurability: 65\nChance To Block: 52%\nSmite Damage: 46 To 46\n(Paladin Only)\n+170-200% Enhanced Defense (varies)\nAdds 211-371 Fire Damage\n+15% To Fire Skill Damage\n+10 To Hydra*\n+5% To Maximum Fire Resist\n+15-25 To Strength (varies)\nFire Absorb 10-20% (varies)\n(Only Spawns In Patch 1.10 or later)",
+        "item": "Unique",
+        "image" : "aerin_shield"
+    }
+]

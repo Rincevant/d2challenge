@@ -1,7 +1,7 @@
 [
     {
         "kind": "Armor",
-        "part": "Armor",
+        "part": "Chests",
         "value": "Elite Unique Armor",
         "name": "Ormus' Robes",
         "type": "Dusk Shroud",
@@ -11,7 +11,7 @@
     },
     {
         "kind": "Armor",
-        "part": "Armor",
+        "part": "Chests",
         "value": "Elite Unique Armor",
         "name": "The Gladiator's Bane",
         "type": "Wire Fleece",
@@ -21,7 +21,7 @@
     },
     {
         "kind": "Armor",
-        "part": "Armor",
+        "part": "Chests",
         "value": "Elite Unique Armor",
         "name": "Arkaine's Valor",
         "type": "Balrog Skin",
@@ -31,7 +31,7 @@
     },
     {
         "kind": "Armor",
-        "part": "Armor",
+        "part": "Chests",
         "value": "Elite Unique Armor",
         "name": "Leviathan",
         "type": "Kraken Shell",
@@ -41,7 +41,7 @@
     },
     {
         "kind": "Armor",
-        "part": "Armor",
+        "part": "Chests",
         "value": "Elite Unique Armor",
         "name": "Steel Carapace",
         "type": "Shadow Plate",
@@ -51,7 +51,7 @@
     },
     {
         "kind": "Armor",
-        "part": "Armor",
+        "part": "Chests",
         "value": "Elite Unique Armor",
         "name": "Templar's Might",
         "type": "Sacred Armor",
@@ -61,7 +61,7 @@
     },
     {
         "kind": "Armor",
-        "part": "Armor",
+        "part": "Chests",
         "value": "Elite Unique Armor",
         "name": "Tyrael's Might",
         "type": "Sacred Armor",

@@ -1,0 +1,194 @@
+[
+    {
+        "item": "Rune Words",
+        "originalRuneWords": "Ancient's Pledge",
+        "allowedItems": "3 Socket Shields",
+        "runeOrder": "Ral + Ort + Tal",
+        "completedStats": "+50% Enhanced Defense\nCold Resist +43%\nFire Resist +48%\nLightning Resist +48%\nPoison Resist +48%\n10% Damage Goes To Mana",
+        "image" : "ancients_pledge"
+    },
+    {
+        "item": "Rune Words",
+        "originalRuneWords": "Black",
+        "allowedItems": "3 Socket Clubs/Hammers/Maces",
+        "runeOrder": "Thul + Io + Nef",
+        "completedStats": "+120% Enhanced Damage\n40% Chance Of Crushing Blow\n+200 To Attack Rating\nAdds 3-14 Cold Damage - Cold Duration 3 Seconds\n+10 To Vitality\n15% Increased Attack Speed\nKnockback\nMagic Damage Reduced By 2\nLevel 4 Corpse Explosion (12 Charges)",
+        "image" : "black"
+    },
+    {
+        "item": "Rune Words",
+        "originalRuneWords": "Fury",
+        "allowedItems": "3 Socket Melee Weapons",
+        "runeOrder": "Jah + Gul + Eth",
+        "completedStats": "+209% Enhanced Damage\n40% Increased Attack Speed\nPrevent Monster Heal\n66% Chance Of Open Wounds\n33% Deadly Strike\nIgnore Target's Defense\n-25% Target Defense\n20% Bonus To Attack Rating\n6% Life Stolen Per Hit\n+5 To Frenzy (Barbarian Only)",
+        "image" : "fury"
+    },
+    {
+        "item": "Rune Words",
+        "originalRuneWords": "Holy Thunder",
+        "allowedItems": "4 Socket Scepters",
+        "runeOrder": "Eth + Ral + Ort + Tal",
+        "completedStats": "+60% Enhanced Damage\n-25% Target Defense\nAdds 5-30 Fire Damage\nAdds 21-110 Lightning Damage\n+75 Poison Damage Over 5 Seconds\n+10 To Maximum Damage\nLightning Resistance +60%\n+5 To Maximum Lightning Resistance\n+3 To Holy Shock (Paladin Only)\nLevel 7 Chain Lightning (60 Charges)",
+        "image" : "holy_thunder"
+    },
+    {
+        "item": "Rune Words",
+        "originalRuneWords": "Honor",
+        "allowedItems": "5 Socket Melee Weapons",
+        "runeOrder": "Amn + El + Ith + Tir + Sol",
+        "completedStats": "+160% Enhanced Damage\n+9 To Minimum Damage\n+9 To Maximum Damage\n25% Deadly Strike\n+250 To Attack Rating\n+1 to All Skills\n7% Life Stolen Per Hit\nReplenish Life +10\n+10 To Strength\n+1 To Light Radius\n+2 To Mana After Each Kill",
+        "image" : "honor"
+    },
+    {
+        "item": "Rune Words",
+        "originalRuneWords": "King's Grace",
+        "allowedItems": "3 Socket Swords/Scepters",
+        "runeOrder": "Amn + Ral + Thul",
+        "completedStats": "+100% Enhanced Damage\n+100% Damage To Demons\n+50% Damage To Undead\nAdds 5-30 Fire Damage\nAdds 3-14 Cold Damage - 3 Second Duration\n+150 To Attack Rating\n+100 To Attack Rating Against Demons\n+100 To Attack Rating Against Undead\n7% Life Stolen Per Hit",
+        "image" : "kings_grace"
+    },
+    {
+        "item": "Rune Words",
+        "originalRuneWords": "Leaf",
+        "allowedItems": "2 Socket Staves* (Not Orbs)",
+        "runeOrder": "Tir + Ral",
+        "completedStats": "Adds 5-30 Fire Damage\n+3 To Fire Skills\n+3 To Fire Bolt (Sorceress Only)\n+3 To Inferno (Sorceress Only)\n+3 To Warmth (Sorceress Only)\n+2 To Mana After Each Kill\n+ (2 Per Character Level) +2-198 To Defense (Based On Character Level)\nCold Resist +33%",
+        "image" : "leaf"
+    },
+    {
+        "item": "Rune Words",
+        "originalRuneWords": "Lionheart",
+        "allowedItems": "3 Socket Body Armor",
+        "runeOrder": "Hel + Lum + Fal",
+        "completedStats": "+20% Enhanced Damage\nRequirements -15%\n+25 To Strength\n+10 To Energy\n+20 To Vitality\n+15 To Dexterity\n+50 To Life\nAll Resistances +30",
+        "image" : "lionheart"
+    },
+    {
+        "item": "Rune Words",
+        "originalRuneWords": "Lore",
+        "allowedItems": "2 Socket Helms",
+        "runeOrder": "Ort + Sol",
+        "completedStats": "+1 To All Skill Levels\n+10 To Energy\n+2 To Mana After Each Kill\nLightning Resist +30%\nDamage Reduced By 7\n+2 To Light Radius",
+        "image" : "lore"
+    },
+    {
+        "item": "Rune Words",
+        "originalRuneWords": "Malice",
+        "allowedItems": "3 Socket Melee Weapons",
+        "runeOrder": "Ith + El + Eth",
+        "completedStats": "+33% Enhanced Damage\n+9 To Maximum Damage\n100% Chance Of Open Wounds\n-25% Target Defense\n-100 To Monster Defense Per Hit\nPrevent Monster Heal\n+50 To Attack Rating\nDrain Life -5",
+        "image" : "malice"
+    },
+    {
+        "item": "Rune Words",
+        "originalRuneWords": "Melody",
+        "allowedItems": "3 Socket Missile Weapons",
+        "runeOrder": "Shael + Ko + Nef",
+        "completedStats": "+50% Enhanced Damage\n+300% Damage To Undead\n+3 To Bow and Crossbow Skills (Amazon Only)\n+3 To Critical Strike (Amazon Only)\n+3 To Dodge (Amazon Only)\n+3 To Slow Missiles (Amazon Only)\n20% Increased Attack Speed\n+10 To Dexterity\nKnockback",
+        "image" : "melody"
+    },
+    {
+        "item": "Rune Words",
+        "originalRuneWords": "Memory",
+        "allowedItems": "4 Socket Staves (Not Orbs)",
+        "runeOrder": "Lum + Io + Sol + Eth",
+        "completedStats": "+3 to Sorceress Skill Levels\n33% Faster Cast Rate\nIncrease Maximum Mana 20%\n+3 Energy Shield (Sorceress Only)\n+2 Static Field (Sorceress Only)\n+10 To Energy\n+10 To Vitality\n+9 To Minimum Damage\n-25% Target Defense\nMagic Damage Reduced By 7\n+50% Enhanced Defense",
+        "image" : "memory"
+    },
+    {
+        "item": "Rune Words",
+        "originalRuneWords": "Nadir",
+        "allowedItems": "2 Socket Helms",
+        "runeOrder": "Nef + Tir",
+        "completedStats": "+50% Enhanced Defense\n+10 Defense\n+30 Defense vs. Missile\nLevel 13 Cloak of Shadows (9 Charges)\n+2 To Mana After Each Kill\n+5 To Strength\n-33% Extra Gold From Monsters\n-3 To Light Radius",
+        "image" : "nadir"
+    },
+    {
+        "item": "Rune Words",
+        "originalRuneWords": "Radiance",
+        "allowedItems": "3 Socket Helms",
+        "runeOrder": "Nef + Sol + Ith",
+        "completedStats": "+75% Enhanced Defense\n+30 Defense Vs. Missile\n+10 To Energy\n+10 To Vitality\n15% Damage Goes To Mana\nMagic Damage Reduced By 3\n+33 To Mana\nDamage Reduced By 7\n+5 To Light Radius",
+        "image" : "radiance"
+    },
+    {
+        "item": "Rune Words",
+        "originalRuneWords": "Rhyme",
+        "allowedItems": "2 Socket Shields",
+        "runeOrder": "Shael + Eth",
+        "completedStats": "20% Increased Chance of Blocking\n40% Faster Block Rate\nAll Resistances +25\nRegenerate Mana 15%\nCannot Be Frozen\n50% Extra Gold From Monsters\n25% Better Chance Of Getting Magic Items",
+        "image" : "rhyme"
+    },
+    {
+        "item": "Rune Words",
+        "originalRuneWords": "Silence",
+        "allowedItems": "6 Socket Weapons",
+        "runeOrder": "Dol + Eld + Hel + Ist + Tir + Vex",
+        "completedStats": "200% Enhanced Damage\n+75% Damage To Undead\nRequirements -20%\n20% Increased Attack Speed\n+50 To Attack Rating Against Undead\n+2 To All Skills\nAll Resistances +75\n20% Faster Hit Recovery\n11% Mana Stolen Per Hit\nHit Causes Monster To Flee 25%\nHit Blinds Target +33\n+2 To Mana After Each Kill\n30% Better Chance Of Getting Magic Items",
+        "image" : "silence"
+    },
+    {
+        "item": "Rune Words",
+        "originalRuneWords": "Smoke",
+        "allowedItems": "2 Socket Body Armor",
+        "runeOrder": "Nef + Lum",
+        "completedStats": "+75% Enhanced Defense\n+280 Defense Vs. Missile\nAll Resistances +50\n20% Faster Hit Recovery\nLevel 6 Weaken (18 Charges)\n+10 To Energy\n-1 To Light Radius",
+        "image" : "smoke"
+    },
+    {
+        "item": "Rune Words",
+        "originalRuneWords": "Stealth",
+        "allowedItems": "2 Socket Body Armor",
+        "runeOrder": "Tal + Eth",
+        "completedStats": "Magic Damage Reduced By 3\n+6 To Dexterity\n+15 To Maximum Stamina\nPoison Resist +30%\nRegenerate Mana 15%\n25% Faster Run/Walk\n25% Faster Cast Rate\n25% Faster Hit Recovery",
+        "image" : "stealth"
+    },
+    {
+        "item": "Rune Words",
+        "originalRuneWords": "Steel",
+        "allowedItems": "2 Socket Swords/Axes/Maces",
+        "runeOrder": "Tir + El",
+        "completedStats": "20% Enhanced Damage\n+3 To Minimum Damage\n+3 To Maximum Damage\n+50 To Attack Rating\n50% Chance Of Open Wounds\n25% Increased Attack Speed\n+2 To Mana After Each Kill\n+1 To Light Radius",
+        "image" : "steel"
+    },
+    {
+        "item": "Rune Words",
+        "originalRuneWords": "Strength",
+        "allowedItems": "2 Socket Melee Weapons",
+        "runeOrder": "Amn + Tir",
+        "completedStats": "35% Enhanced Damage\n25% Chance Of Crushing Blow\n7% Life Stolen Per Hit\n+2 To Mana After Each Kill\n+20 To Strength\n+10 To Vitality",
+        "image" : "strength"
+    },
+    {
+        "item": "Rune Words",
+        "originalRuneWords": "Venom",
+        "allowedItems": "3 Socket Weapons",
+        "runeOrder": "Tal + Dol + Mal",
+        "completedStats": "Hit Causes Monster To Flee 25%\nPrevent Monster Heal\nIgnore Target's Defense\n7% Mana Stolen Per Hit\nLevel 15 Poison Explosion (27 Charges)\nLevel 13 Poison Nova (11 Charges)\n+273 Poison Damage Over 6 seconds",
+        "image" : "venom"
+    },
+    {
+        "item": "Rune Words",
+        "originalRuneWords": "Wealth",
+        "allowedItems": "3 Socket Body Armor",
+        "runeOrder": "Lem + Ko + Tir",
+        "completedStats": "300% Extra Gold From Monsters\n100% Better Chance Of Getting Magic Items\n+2 To Mana After Each Kill\n+10 To Dexterity",
+        "image" : "wealth"
+    },
+    {
+        "item": "Rune Words",
+        "originalRuneWords": "White",
+        "allowedItems": "2 Socket Wand",
+        "runeOrder": "Dol + Io",
+        "completedStats": "Hit Causes Monster To Flee 25%\n+10 To Vitality\n+3 To Poison And Bone Skills (Necromancer Only)\n+3 To Bone Armor (Necromancer Only)\n+2 To Bone Spear (Necromancer Only)\n+4 To Skeleton Mastery (Necromancer Only)\nMagic Damage Reduced By 4\n20% Faster Cast Rate\n+13 To Mana",
+        "image" : "white"
+    },
+    {
+        "item": "Rune Words",
+        "originalRuneWords": "Zephyr",
+        "allowedItems": "2 Socket Missile Weapons",
+        "runeOrder": "Ort + Eth",
+        "completedStats": "+33% Enhanced Damage\n+66 To Attack Rating\nAdds 1-50 Lightning Damage\n-25% Target Defense\n+25 Defense\n25% Faster Run/Walk\n25% Increased Attack Speed\n7% Chance To Cast Level 1 Twister When Struck",
+        "image" : "zephyr"
+    }
+]
