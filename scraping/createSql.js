@@ -10,14 +10,14 @@ var username = "postgres"
 var password = "08082014"
 */
 
-var dbname = "d768vnt54nig6m"
-var username = "wybwxpqnembvdd"
-var password = "2ea95e4213fc19a9cd18ad97ae7be6f1f15435fcefb0c734e806fc3c687642a3"
+var dbname = "d79a8drjd5q1g6"
+var username = "yqvqwpuzkjkrek"
+var password = "ad26e538911aff6febc1c7068c64382666c956dd7872a3a954ebb03e245899b6"
 
 
 var sequelize = new Sequelize(dbname, username, password, {
     //host: 'localhost',
-    host : 'ec2-18-202-1-222.eu-west-1.compute.amazonaws.com',
+    host : 'ec2-63-34-223-144.eu-west-1.compute.amazonaws.com',
     dialect: 'postgres',
     port: 5432,
     dialectOptions: {
