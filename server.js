@@ -2,7 +2,7 @@ const express=require("express");
 var sequelize = require('./database/connexion')
 const path=require("path");
 const app=express();
-
+var port = process.env.PORT || 8080;
 
 // parse application/x-www-form-urlencoded
 app.use(express.urlencoded({ extended: false }))
@@ -23,7 +23,7 @@ var authLogin = require('./routes/authLogin')
 var holygrail = require('./routes/holygrail')
 
 // Static Files
-app.use(express.static(__dirname + 'public'));
+app.use(express.static(__dirname + '/public'));
 
 // Set View's
 app.set('views', path.join(__dirname + "/public", 'views'));
@@ -35,6 +35,6 @@ app.use("/login", authLogin);
 app.use("/register", authRegister);
 app.use("/holygrail", holygrail);
 
-app.listen(8080,()=>{    
-    console.log(`express server running on 8080`);
+app.listen(port, function() {
+    console.log('Our app is running on http://localhost:' + port);
 });
