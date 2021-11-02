@@ -72,7 +72,7 @@ var classNameFile = [ 'uamazon.json', 'uassassin.json', 'unecromancer.json', 'ub
 var otherNameFile = [ 'urings.json', 'uamulets.json', 'ucharms.json', 'ujewels.json', 'ucirclets.json']
 
 var kind = [    /*'Armor',    'Weapon',*/    'Ring',    'Amulet',    'Charm',    'Jewel',    'Circlet' ]
-var part = [    'Axes',    'Bows',    'Crossbows',    'Daggers', 'Javelins',    'Maces',    'Polearms', 'Scepters', 'Pears', 'Staves', 'Swords', 'Throwing', 'Wands' ]
+var part = [    'Axes',    'Bows',    'Crossbows',    'Daggers', 'Javelins',    'Maces',    'Polearms', 'Scepters', 'Spears', 'Staves', 'Swords', 'Throwing', 'Wands' ]
 var classes = [ 'Amazon', 'Assassin', 'Necromancer', 'Barbarian', 'Sorceress', 'Druid', 'Paladin' ]
 
 scrapper()

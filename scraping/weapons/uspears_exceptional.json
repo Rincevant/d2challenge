@@ -1,7 +1,7 @@
 [
     {
         "kind": "Weapon",
-        "part": "Pears",
+        "part": "Spears",
         "value": "Exceptionnal Unique Weapon",
         "name": "The Impaler",
         "type": "War Spear",
@@ -11,7 +11,7 @@
     },
     {
         "kind": "Weapon",
-        "part": "Pears",
+        "part": "Spears",
         "value": "Exceptionnal Unique Weapon",
         "name": "Kelpie Snare",
         "type": "Fuscina",
@@ -21,7 +21,7 @@
     },
     {
         "kind": "Weapon",
-        "part": "Pears",
+        "part": "Spears",
         "value": "Exceptionnal Unique Weapon",
         "name": "Soulfeast Tine",
         "type": "War Fork",
@@ -31,7 +31,7 @@
     },
     {
         "kind": "Weapon",
-        "part": "Pears",
+        "part": "Spears",
         "value": "Exceptionnal Unique Weapon",
         "name": "Hone Sundan",
         "type": "Yari",
@@ -41,7 +41,7 @@
     },
     {
         "kind": "Weapon",
-        "part": "Pears",
+        "part": "Spears",
         "value": "Exceptionnal Unique Weapon",
         "name": "Spire of Honor",
         "type": "Lance",

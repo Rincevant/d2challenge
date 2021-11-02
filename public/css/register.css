@@ -44,7 +44,7 @@ option {
     color: #3a3a3abb;
 }
 
-span {
+.formSpan {
     font-family: DiabloLight;
     font-size: 0.8em;
     color: #f0e7d8;

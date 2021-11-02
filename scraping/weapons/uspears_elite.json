@@ -1,7 +1,7 @@
 [
     {
         "kind": "Weapon",
-        "part": "Pears",
+        "part": "Spears",
         "value": "Elite Unique Weapon",
         "name": "Arioc's Needle",
         "type": "Hyperion Spear",
@@ -11,7 +11,7 @@
     },
     {
         "kind": "Weapon",
-        "part": "Pears",
+        "part": "Spears",
         "value": "Elite Unique Weapon",
         "name": "Viperfork",
         "type": "Mancatcher",
@@ -21,7 +21,7 @@
     },
     {
         "kind": "Weapon",
-        "part": "Pears",
+        "part": "Spears",
         "value": "Elite Unique Weapon",
         "name": "Steel Pillar",
         "type": "War Pike",

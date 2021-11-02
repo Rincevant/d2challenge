@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+    <link rel="stylesheet" type="text/css" href="/css/global.css">
+    <link rel="stylesheet" type="text/css" href="/css/footer.css">
+    <link rel="stylesheet" type="text/css" href="/css/header.css">
+    <link rel="stylesheet" type="text/css" href="/css/holygrail.css"> 
+    <link rel="stylesheet" type="text/css" href="/css/menuholy.css"> 
+    <!-- Compiled and minified CSS -->
+    <!-- Compiled and minified JavaScript -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Cinzel&display=swap" rel="stylesheet">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>  
+    <title>Document</title>
+</head>
+<body>
+    <%- include('partials/header') %>    
+
+    <%- include('partials/menuholy') %> 
+
+    <h2>Total</h2>
+
+    <table class="striped responsive-table centered">
+        <thead>
+            <tr>
+                <th></th>
+                <th>Looted</th>
+                <th>Remaining</th>
+                <th>Total Items</th>
+                <th>% Completed</th>
+            </tr>
+        </thead>
+        <tbody>
+        
+            <tr>
+                <th><div>Unique Armors</div></th>
+                <td>123</td>
+                <td>4</td>
+                <td>119</td>
+                <td>3.25</td>
+            </tr>
+            
+            <tr>
+                <th><div>Unique Weapons</div></th>
+                <td>197</td>
+                <td>0</td>
+                <td>197</td>
+                <td>0.00</td>
+            </tr>
+            
+            <tr>
+                <th><div>Unique Other</div></th>
+                <td>59</td>
+                <td>0</td>
+                <td>59</td>
+                <td>0.00</td>
+            </tr>
+            
+            <tr>
+                <th><div>Sets</div></th>
+                <td>127</td>
+                <td>8</td>
+                <td>119</td>
+                <td>6.30</td>
+            </tr>
+            
+            <tr>
+                <th><div>Total</div></th>
+                <td>506</td>
+                <td>12</td>
+                <td>494</td>
+                <td>2.37</td>
+            </tr>
+        
+        </tbody>
+
+    </table>
+    
+    <%- include('partials/footer') %>   
+</body>
+</html>

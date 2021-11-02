@@ -5,7 +5,9 @@
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon -e js,ejs,html,css src/server.js"
+    "start": "node server.js",
+    "nodemon": "nodemon -e js,ejs,html,css src/server.js",
+    "heroku-postbuild": "ng build --prod"
   },
   "author": "Rincevant",
   "license": "ISC",
@@ -20,5 +22,9 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.14"
+  },
+  "engines": {
+    "node": "14.18.1",
+    "npm": "6.14.15"
   }
 }

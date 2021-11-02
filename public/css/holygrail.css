@@ -120,3 +120,25 @@ h3 {
     color: rgb(179, 161, 107);
 }
 
+table {
+    font-family: 'Cinzel', serif;
+    color: white;
+    width: 50%;
+    margin: auto;
+    margin-bottom: 30px;
+}
+
+table.striped>tbody>tr:nth-child(odd) {
+    background-color: rgba(75, 75, 75, 0.479) !important;
+}
+
+h2 {
+    font-family: DiabloLight;
+    font-size: 2em;
+    font-weight: 400;
+    color: #f0e7d8;
+    text-align: center;
+    margin-top: 20px;
+}
+
+

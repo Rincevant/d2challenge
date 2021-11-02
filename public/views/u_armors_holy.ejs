@@ -8,13 +8,17 @@
     <link rel="stylesheet" type="text/css" href="/css/footer.css">
     <link rel="stylesheet" type="text/css" href="/css/header.css">
     <link rel="stylesheet" type="text/css" href="/css/holygrail.css">
+    <link rel="stylesheet" type="text/css" href="/css/menuholy.css"> 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>  
     <title>Document</title>
 </head>
 <body>
     <%- include('partials/header') %>
 
+    <%- include('partials/menuholy') %> 
     
+    <h2>Uniques Armors</h2>
+
     <div id="unique_content">
         <% objets.forEach(function(objet) { %>
             
@@ -28,14 +32,13 @@
                 </div>
             </div>            
             
-        <% }); %>
+        <% }); %>        
     </div>
 
-    <%- include('partials/footer') %>
+    <%- include('partials/footer') %>  
 
     <script src="/js/tooltipItems.js"></script>
 
-    <script src="/js/dateItems.js"></script>
-    
+    <script src="/js/dateItems.js"></script> 
 </body>
 </html>

@@ -1,7 +1,8 @@
 [
     {
         "kind": "Weapon",
-        "class": "Necromancer",
+        "part": "OffHand",
+        "value": "Necromancer",
         "name": "Homunculus",
         "type": "Hierophant Trophy",
         "properties": "Defense: 177-213 (varies)(Base Defense: 58-70)\nDefense: 58-70\nRequired Level: 42\nRequired Strength: 58\nDurability: 20\nChance To Block: 72%\n(Necromancer Only)\n+150-200% Enhanced Defense (varies)\n+5 To Mana After Each Kill\n40% Increased Chance of Blocking\n30% Faster Block Rate\n+2 To Necromancer Skill Levels\n+20 To Energy\nRegenerate Mana 33%\nAll Resistances +40\n+2 To Curses Skills (Necromancer Only)\n(Only Spawns In Patch 1.09 or later)",
@@ -10,7 +11,8 @@
     },
     {
         "kind": "Weapon",
-        "class": "Necromancer",
+        "part": "OffHand",
+        "value": "Necromancer",
         "name": "Darkforce Spawn",
         "type": "Bloodlord Skull",
         "properties": "Defense: 357-417 (varies)(Base Defense: 103-148)\nRequired Level: 65\nRequired Strength: 106\nDurability: 20\nChance To Block: 32%\n(Necromancer Only)\n+140-180% Enhanced Defense (varies)\n+1-3 To Summoning Skills (Necromancer Only) (varies)\n+1-3 To Poison And Bone Skills (Necromancer Only) (varies)\n+1-3 To Curses (Necromancer Only) (varies)\n+30% Faster Cast Rate\nIncrease Maximum Mana 10%\n(Ladder Only)\n(Only Spawns In Patch 1.10 or later)",
@@ -19,7 +21,8 @@
     },
     {
         "kind": "Weapon",
-        "class": "Necromancer",
+        "part": "OffHand",
+        "value": "Necromancer",
         "name": "Boneflame",
         "type": "Succubus Skull",
         "properties": "Defense: 323-367 (varies)(Base Defense: 100-146)\nRequired Level: 72\nRequired Strength: 95\nDurability: 20\nChance To Block: 30%\n(Necromancer Only)\n+120-150% Enhanced Defense (varies)\n+20% Faster Run/Walk\n+2-3 To Necromancer Skill Levels (varies)\nAll Resistances +20-30 (varies)\n15% Chance To Cast Level 3 Terror When Struck\n(Only Spawns In Patch 1.10 or later)",

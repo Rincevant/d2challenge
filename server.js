@@ -18,11 +18,12 @@ sequelize.authenticate().then(() => {
 
 //Declaration des routes
 var pages = require('./routes/pages')
-var auth = require('./routes/auth')
+var authRegister = require('./routes/authRegister')
+var authLogin = require('./routes/authLogin')
 var holygrail = require('./routes/holygrail')
 
 // Static Files
-app.use(express.static('public'));
+app.use(express.static(__dirname + 'public'));
 
 // Set View's
 app.set('views', path.join(__dirname + "/public", 'views'));
@@ -30,11 +31,10 @@ app.set('view engine', 'ejs');
 
 // Utilisation des routes
 app.use("/", pages);
-app.use("/login", auth);
-app.use("/register", auth);
+app.use("/login", authLogin);
+app.use("/register", authRegister);
 app.use("/holygrail", holygrail);
 
-app.listen(8080,()=>{
-    console.log(__dirname)
+app.listen(8080,()=>{    
     console.log(`express server running on 8080`);
 });

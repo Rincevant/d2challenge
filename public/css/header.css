@@ -21,15 +21,15 @@ h1 {color: white; font-size: 4em;}
     width: 70%;
 }
 
-nav {
+#top_menu {
     display: flex;
     justify-content: center;
     margin: auto;
     width: 55%;
-    margin-bottom: 70px;
+    margin-bottom: 40px;
 }
 
-nav a {
+#top_menu a {
     display: flex;
     justify-content: center;
 }
@@ -56,7 +56,7 @@ nav a {
     width: 90%;
 }
 
-#top_menu {
+#login_menu {
     position: absolute;
     display: flex;
     justify-content: right;
@@ -64,5 +64,5 @@ nav a {
     color: #f0e7d8;
     width: 75%;
     margin-top: 50px;
-    font-size: 1.2em;
+    font-size: 1em;
 }

@@ -1,7 +1,7 @@
 [
     {
         "kind": "Weapon",
-        "part": "Pears",
+        "part": "Spears",
         "value": "Normal Unique Weapon",
         "name": "The Dragon Chang",
         "type": "Spear",
@@ -11,7 +11,7 @@
     },
     {
         "kind": "Weapon",
-        "part": "Pears",
+        "part": "Spears",
         "value": "Normal Unique Weapon",
         "name": "Razortine",
         "type": "Trident",
@@ -21,7 +21,7 @@
     },
     {
         "kind": "Weapon",
-        "part": "Pears",
+        "part": "Spears",
         "value": "Normal Unique Weapon",
         "name": "Bloodthief",
         "type": "Brandistock",
@@ -31,7 +31,7 @@
     },
     {
         "kind": "Weapon",
-        "part": "Pears",
+        "part": "Spears",
         "value": "Normal Unique Weapon",
         "name": "Lance of Yaggai",
         "type": "Spetum",
@@ -41,7 +41,7 @@
     },
     {
         "kind": "Weapon",
-        "part": "Pears",
+        "part": "Spears",
         "value": "Normal Unique Weapon",
         "name": "The Tannr Gorerod",
         "type": "Pike",

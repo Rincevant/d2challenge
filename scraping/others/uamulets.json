@@ -67,7 +67,7 @@
         "type": "Amulet",
         "properties": "Required Level: 60\n5% Chance To Cast Level 2 Amplify Damage On Striking\n20% Bonus To Attack Rating\n+40 Poison Damage over 4 seconds\nPoison Resist +75%\n+3 To Light Radius\nAttacker Takes Damage of 5\n(Only Spawns In Patch 1.09 or later)",
         "item": "Unique",
-        "image": "amulet"
+        "image": "amulet2"
     },
     {
         "part" : "Amulet",

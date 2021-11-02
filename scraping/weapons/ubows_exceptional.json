@@ -57,7 +57,7 @@
         "type": "Large Siege Bow",
         "properties": "Two-Hand Damage: (34-43) To (141-168) (87.5-105.5 Avg)\nRequired Level: 41\nRequired Strength: 80\nRequired Dexterity: 95\nBase Weapon Speed: [10]\n+190-230% Enhanced Damage (varies)\nAdds (5-10)-(20-30) Damage (varies)\n+2 To Amazon Skill Levels\n+80 Defense VS. Missile\n+50 To Life\nKnockback\n(Only Spawns In Patch 1.09 or later)",
         "item": "Unique",
-        "image": ""
+        "image": "long_battle_bow"
     },
     {
         "kind": "Weapon",

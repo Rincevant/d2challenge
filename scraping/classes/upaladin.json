@@ -1,6 +1,7 @@
 [
     {
-        "kind": "Weapon",
+        "kind": "Armor",
+        "part": "Shields",
         "class": "Paladin",
         "name": "Alma Negra",
         "type": "Sacred Rondache",
@@ -9,7 +10,8 @@
         "image" : "rondache"
     },
     {
-        "kind": "Weapon",
+        "kind": "Armor",
+        "part": "Shields",
         "class": "Paladin",
         "name": "Herald Of Zakarum",
         "type": "Gilded Shield",
@@ -18,7 +20,8 @@
         "image" : "aerin_shield"
     },
     {
-        "kind": "Weapon",
+        "kind": "Armor",
+        "part": "Shields",
         "class": "Paladin",
         "name": "Dragonscale",
         "type": "Zakarum Shield",

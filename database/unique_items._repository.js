@@ -11,5 +11,25 @@ module.exports = {
             console.log(error)    
         }        
         return result   
+    },
+
+    async getAllUniqueArmors() {
+        let result
+        try {
+            result = await UniqueItems.findAll( { where: { kind: "Armor" }} )       
+        } catch (error) {
+            console.log(error)    
+        }        
+        return result   
+    },
+
+    async getAllUniqueWeapons() {
+        let result
+        try {
+            result = await UniqueItems.findAll( { where: { kind: "Weapon" }} )       
+        } catch (error) {
+            console.log(error)    
+        }        
+        return result   
     }
 }
