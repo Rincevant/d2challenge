@@ -4,14 +4,28 @@ const UniqueItem = require('./uniques_items.js')
 const path = require('path');
 const fs = require('fs');
 
+/*
 var dbname = "d2challenge"
 var username = "postgres"
 var password = "08082014"
+*/
+
+var dbname = "d768vnt54nig6m"
+var username = "wybwxpqnembvdd"
+var password = "2ea95e4213fc19a9cd18ad97ae7be6f1f15435fcefb0c734e806fc3c687642a3"
+
 
 var sequelize = new Sequelize(dbname, username, password, {
-    host: 'localhost',
+    //host: 'localhost',
+    host : 'ec2-18-202-1-222.eu-west-1.compute.amazonaws.com',
     dialect: 'postgres',
-    port: 5432
+    port: 5432,
+    dialectOptions: {
+        ssl: {
+            require: true,
+            rejectUnauthorized: false
+        }
+    }
 });
 
 // Connect to databse
