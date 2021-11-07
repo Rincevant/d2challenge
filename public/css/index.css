@@ -3,6 +3,16 @@
     src: url("../fonts/DiabloLight.ttf");
 }
 
+@font-face {
+    font-family: Formal;
+    src: url("../fonts/formal436bt.ttf");
+}
+
+@font-face {
+    font-family: Kodia;
+    src: url("../fonts/kodia.ttf");
+}
+
 #section_content {
     display: flex;
     justify-content: center;
@@ -26,7 +36,7 @@
  }
 
  h2 {
-     font-family: DiabloLight;
+     font-family: Kodia;
      color: #f0e7d8;
      font-weight: 500;
      margin: 0;
@@ -49,7 +59,7 @@
  li {
      display: flex;
      align-items: center;
-     font-family: DiabloLight;
+     font-family: Formal;
      color: #847b6b;
      font-weight: 500;
      font-size: 1em;
@@ -57,5 +67,6 @@
 
  span {
     margin-left: 15px;
+    text-transform: uppercase;
  }
 

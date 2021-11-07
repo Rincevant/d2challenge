@@ -14,21 +14,21 @@
 </head>
 <body>
     <%- include('partials/header') %>
-    
+
     <%- include('partials/menuholy') %> 
     
-    <h2>Runewords</h2>
+    <h2>Uniques Weapons</h2>
 
     <div id="unique_content">
         <% objets.forEach(function(objet) { %>
             
             <div id=<%= objet.id %> class=<% if (objet.owned === true) { %>objetOwned<% }else { %> objet <% } %> onclick='obtain("<%= objet.id %>", "<%= objet.name %>")'>                   
                 <div class="tooltip">
-                    <img src="/images/Runewords/<%= objet.image %>.png" class="obj_image">
-                    <span class="obj_name"><%= objet.originalRuneWords %></span>
-                    <span class="obj_type"><%= objet.runeOrder %></span>
+                    <img src="/images/<%= objet.kind %>/<%= objet.image %>.png" class="obj_image">
+                    <span class="obj_name"><%= objet.name %></span>
+                    <span class="obj_type"><%= objet.type %></span>
                     <span class="obj_date"><% if (objet.dateOwned != null) { %> <%- objet.dateOwned %> <% } %></span>
-                    <span class="tooltiptext"><%- objet.completedStats %></span>
+                    <span class="tooltiptext"><%- objet.properties %></span>
                 </div>
             </div>            
             
@@ -36,7 +36,7 @@
     </div>
 
     <%- include('partials/footer') %>  
-    
+
     <script src="/js/tooltipItems.js"></script>
 
     <script src="/js/dateItems.js"></script> 

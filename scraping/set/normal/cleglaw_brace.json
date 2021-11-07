@@ -1,32 +1,32 @@
 [
     {
-        "setName": "",
-        "name":"",
-        "part":"",
-        "type":"",
-        "kind": "",
-        "item": "",
-        "image": "",
-        "properties":""
+        "setName": "Cleglaw's Brace",
+        "name":"Cleglaw's Tooth",
+        "part":"Swords",
+        "type":"Long Sword",
+        "kind": "Weapon",
+        "item": "Set",
+        "image": "hellplague",
+        "properties":"One-Hand Damage: 3 to 19 (11 Avg)\nOne-Hand Damage: 3 to (20-142) (11.5-72.5 Avg)\nRequired Level: 4\nRequired Strength: 55\nRequired Dexterity: 39\nDurability: 44\nBase Weapon Speed: [-10]\n50% Deadly Strike\n30% Bonus to Attack rating\n+ (1.25 Per Character Level) +1-123 To Maximum Damage (Based On Character Level) (2 Items)"
     },
     {
-        "setName": "",
-        "name":"",
-        "part":"",
-        "type":"",
-        "kind": "",
-        "item": "",
-        "image": "",
-        "properties":""
+        "setName": "Cleglaw's Brace",
+        "name":"Cleglaw's Pincers",
+        "part":"Gloves",
+        "type":"Chain Gloves",
+        "kind": "Armor",
+        "item": "Set",
+        "image": "bracers_m",
+        "properties":"Defense: 8-9 (varies)\nRequired Level: 4\nRequired Strength: 25\nDurability: 16\nSlows Target by 25%\nKnockback\n+ (10 Per Character Level) 10-990 Attack Rating (Based On Character Level) (2 Items)"
     },
     {
-        "setName": "",
-        "name":"",
-        "part":"",
-        "type":"",
-        "kind": "",
-        "item": "",
-        "image": "",
-        "properties":""
+        "setName": "Cleglaw's Brace",
+        "name":"Cleglaw's Claw",
+        "part":"Shields",
+        "type":"Small Shield",
+        "kind": "Armor",
+        "item": "Set",
+        "image": "umbral_disk",
+        "properties":"Defense: 25-27 (varies)(Base Defense: 8-10)\nRequired Level: 4\nRequired Strength: 22\nDurability: 16\nPaladin Smite Damage: 2 to 3\nChance to Block: Pal: 35%, Ama/Asn/Bar: 30%\nDru/Nec/Sor: 25%\nPoison Length Reduced by 75%\n+17 Defense\nAll Resistances +15 (2 Items)"
     }
 ]

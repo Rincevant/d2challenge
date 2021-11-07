@@ -3,8 +3,18 @@
     src: url("../fonts/DiabloLight.ttf");
 }
 
+@font-face {
+    font-family: Kodia;
+    src: url("../fonts/kodia.ttf");
+}
+
+@font-face {
+    font-family: Formal;
+    src: url("../fonts/formal436bt.ttf");
+}
+
 h2 {
-    font-family: DiabloLight;
+    font-family: Kodia;
     font-weight: 400;
     color: #f0e7d8;
     text-align: center;
@@ -17,11 +27,12 @@ form {
     justify-content: center;
     margin: auto;
     width: 25%;
+    margin-bottom: 50px;
 }
 
 input {
-    font-family: 'EB Garamond', serif;
-    font-size: 1.2em;
+    font-family: Formal;
+    font-size: 1em;
     height: 15px;
     margin-top: 5px;
     margin-bottom: 5px;
@@ -32,8 +43,8 @@ input {
 }
 
 select {
-    font-family: 'EB Garamond', serif;
-    font-size: 1.2em;
+    font-family: Formal;
+    font-size: 1em;
     box-shadow: inset 0 0 6px 6px rgb(0 0 0 / 20%);
     padding: 5px;
     background-color: rgba(109, 109, 109, 0.329);
@@ -45,11 +56,11 @@ option {
 }
 
 .formSpan {
-    font-family: DiabloLight;
+    font-family: Formal;
     font-size: 0.8em;
     color: #f0e7d8;
-    margin-top: 10px;
-    margin-bottom: 5px;
+    margin-top: 20px;
+    margin-bottom: 10px;
     margin-left: 0;
 }
 

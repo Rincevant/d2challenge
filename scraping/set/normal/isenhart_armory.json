@@ -1,42 +1,42 @@
 [
     {
-        "setName": "",
-        "name":"",
-        "part":"",
-        "type":"",
-        "kind": "",
-        "item": "",
-        "image": "",
-        "properties":""
+        "setName": "Isenhart's Armory",
+        "name":"Isenhart's Lightbrand",
+        "part":"Swords",
+        "type":"Broad Sword",
+        "kind": "Weapon",
+        "item": "Set",
+        "image": "griswolds_edge",
+        "properties":"One-Hand Damage: 17 to 18 (17.5 Avg)\nRequired Level: 8\nRequired Strength: 48\nDurability: 32\nBase Weapon Speed: [0]\n+10 to Min Damage\n20% Increased Attack Speed\n+ (5 Per Character Level) 5-495 Attack Rating (Based On Character Level) (2 Items)"
     },
     {
-        "setName": "",
-        "name":"",
-        "part":"",
-        "type":"",
-        "kind": "",
-        "item": "",
-        "image": "",
-        "properties":""
+        "setName": "Isenhart's Armory",
+        "name":"Isenhart's Horns",
+        "part":"Helms",
+        "type":"Full Helm",
+        "kind": "Armor",
+        "item": "Set",
+        "image": "duskdeep",
+        "properties":"Defense: 23-26 (varies)\nRequired Level: 8\nRequired Strength: 41\nDurability: 30\nDamage Reduced by 2\n+6 to Dexterity\nAll Resistances +8 (2 Items)"
     },
     {
-        "setName": "",
-        "name":"",
-        "part":"",
-        "type":"",
-        "kind": "",
-        "item": "",
-        "image": "",
-        "properties":""
+        "setName": "Isenhart's Armory",
+        "name":"Isenhart's Case",
+        "part":"Chests",
+        "type":"Breast Plate",
+        "kind": "Armor",
+        "item": "Set",
+        "image": "breast_plate",
+        "properties":"Defense: 105-108 (varies)(Base Defense: 65-68)\nDefense: (107-303) - (110-306) (varies)(Base Defense: 65-68)\nRequired Level: 8\nRequired Strength: 30\nDurability: 50\nMagic Damage Reduced by 2\n+40 Defense\n+ (2 Per Character Level) 2-198 Defense (Based On Character Level) (2 Items)"
     },
     {
-        "setName": "",
-        "name":"",
-        "part":"",
-        "type":"",
-        "kind": "",
-        "item": "",
-        "image": "",
-        "properties":""
+        "setName": "Isenhart's Armory",
+        "name":"Isenhart's Parry",
+        "part":"Shields",
+        "type":"Gothic Shield",
+        "kind": "Armor",
+        "item": "Set",
+        "image": "the_ward",
+        "properties":"Defense: 70-75 (Base Defense: 30-35)\nChance to Block: Pal: 46%, Ama/Asn/Bar: 41%\nDru/Nec/Sor: 36%\nPaladin Smite Damage: 2 to 6\nRequired Level: 8\nRequired Strength: 60\nDurability: 40\nAttacker Takes Lightning Damage of 4\n+40 Defense\nAll Resistances +8 (2 Items)"
     }
 ]

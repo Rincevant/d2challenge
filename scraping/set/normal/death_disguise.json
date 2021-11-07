@@ -1,32 +1,32 @@
 [
     {
-        "setName": "",
-        "name":"",
-        "part":"",
-        "type":"",
-        "kind": "",
-        "item": "",
-        "image": "",
-        "properties":""
+        "setName": "Death's Disguise",
+        "name":"Death's Touch",
+        "part":"Swords",
+        "type":"War Sword",
+        "kind": "Weapon",
+        "item": "Set",
+        "image": "war_sword",
+        "properties":"One-Hand Damage: 10 to 25 (17.5 Avg)\nRequired Level: 6\nRequired Strength: 71\nRequired Dexterity: 45\nDurability: 44\nBase Weapon Speed: [0]\n+25% Enhanced Damage\n4% Life Stolen Per Hit\nAdds 25-75 Cold Damage, 3 sec. Duration (Normal) (2 Items)"
     },
     {
-        "setName": "",
-        "name":"",
-        "part":"",
-        "type":"",
-        "kind": "",
-        "item": "",
-        "image": "",
-        "properties":""
+        "setName": "Death's Disguise",
+        "name":"Death's Hand",
+        "part":"Gloves",
+        "type":"Leather Gloves",
+        "kind": "Armor",
+        "item": "Set",
+        "image": "gloves_l",
+        "properties":"Defense: 2-3 (varies)\nRequired Level: 6\nDurability: 12\nPoison Length Reduced by 75%\nPoison Resist 50%\n30% Increased Attack Speed (2 Items)"
     },
     {
-        "setName": "",
-        "name":"",
-        "part":"",
-        "type":"",
-        "kind": "",
-        "item": "",
-        "image": "",
-        "properties":""
+        "setName": "Death's Disguise",
+        "name":"Death's Guard",
+        "part":"Belts",
+        "type":"Sash",
+        "kind": "Armor",
+        "item": "Set",
+        "image": "sash_l",
+        "properties":"Defense: 22 (Base Defense: 2)\nRequired Level: 6\nDurability: 12\n8 boxes\nCannot be Frozen\n+20 Defense\nAll Resistances +15 (2 Items)"
     }
 ]

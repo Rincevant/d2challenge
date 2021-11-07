@@ -1,62 +1,62 @@
 [
     {
-        "setName": "",
-        "name":"",
-        "part":"",
-        "type":"",
-        "kind": "",
-        "item": "",
-        "image": "",
-        "properties":""
+        "setName": "Sigon's Complete Steel",
+        "name":"Sigon's Visor",
+        "part":"Helms",
+        "type":"Great Helm",
+        "kind": "Armor",
+        "item": "Set",
+        "image": "great_helm",
+        "properties":"Defense: 55-60 (varies)(Base Defense: 30-35)\nRequired Level: 6\nRequired Strength: 63\nDurability: 40\n+25 Defense\n+30 to Mana\n+ (8 Per Character Level) 8-792 To Attack Rating (Based On Character Level) (2 Items)"
     },
     {
-        "setName": "",
-        "name":"",
-        "part":"",
-        "type":"",
-        "kind": "",
-        "item": "",
-        "image": "",
-        "properties":""
+        "setName": "Sigon's Complete Steel",
+        "name":"Sigon's Shelter",
+        "part":"Chests",
+        "type":"Gothic Plate",
+        "kind": "Armor",
+        "item": "Set",
+        "image": "gothic_plate",
+        "properties":"Defense: 170 (Base Defense: 128 To 135)\nRequired Level: 6\nRequired Strength: 70\nDurability: 55\n+25% Enhanced Defense\nLightning Resist +30%\nAttacker Takes Damage of 20 (2 Items)"
     },
     {
-        "setName": "",
-        "name":"",
-        "part":"",
-        "type":"",
-        "kind": "",
-        "item": "",
-        "image": "",
-        "properties":""
+        "setName": "Sigon's Complete Steel",
+        "name":"Sigon's Sabot",
+        "part":"Boots",
+        "type":"Greaves",
+        "kind": "Armor",
+        "item": "Set",
+        "image": "plate_boots",
+        "properties":"Defense: 12-15 (varies)\nRequired Level: 6\nRequired Strength: 70\nDurability: 24\nAssassin Kick Damage: 10-20\n20% Faster Run/Walk\nCold Resist +40%\n+50 To Attack Rating (2 Items)\n+50% Better Chance To Find Magic Items (3 Items)"
     },
     {
-        "setName": "",
-        "name":"",
-        "part":"",
-        "type":"",
-        "kind": "",
-        "item": "",
-        "image": "",
-        "properties":""
+        "setName": "Sigon's Complete Steel",
+        "name":"Sigon's Guard",
+        "part":"Shields",
+        "type":"Tower Shield",
+        "kind": "Armor",
+        "item": "Set",
+        "image": "bverrit_keep",
+        "properties":"Defense: 22-25 (varies)\nChance to Block: Pal: 74%, Ama/Asn/Bar: 69%\nDru/Nec/Sor: 64%\nPaladin Smite Damage: 1 to 5\nRequired Level: 6\nRequired Strength: 75\nDurability: 60\n+1 to All Skills\n+20% Increased Chance To Block"
     },
     {
-        "setName": "",
-        "name":"",
-        "part":"",
-        "type":"",
-        "kind": "",
-        "item": "",
-        "image": "",
-        "properties":""
+        "setName": "Sigon's Complete Steel",
+        "name":"Sigon's Wrap",
+        "part":"Belts",
+        "type":"Plated Belt",
+        "kind": "Armor",
+        "item": "Set",
+        "image": "girdle_h",
+        "properties":"Defense: 8-11 (varies)\nDefense: (10-206) - (13-209) (varies)(Base Defense: 8-11)\nRequired Level: 6\nRequired Strength: 60\nDurability: 24\n16 boxes\nFire Resist +20%\n+20 to Life\n+ (2 Per Character Level) 2-198 To Defense (Based On Character Level) (2 Items)"
     },
     {
-        "setName": "",
-        "name":"",
-        "part":"",
-        "type":"",
-        "kind": "",
-        "item": "",
-        "image": "",
-        "properties":""
+        "setName": "Sigon's Complete Steel",
+        "name":"Sigon's Gage",
+        "part":"Gloves",
+        "type":"Gauntlets",
+        "kind": "Armor",
+        "item": "Set",
+        "image": "gaunlets_h",
+        "properties":"Defense: 12-15 (varies)\nRequired Level: 6\nRequired Strength: 60\nDurability: 24\n+20 to Attack Rating\n+10 to Strength\n30% Increased Attack Speed (2 Items)"
     }
 ]

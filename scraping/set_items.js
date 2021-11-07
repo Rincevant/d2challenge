@@ -1,6 +1,4 @@
 const Sequelize = require('sequelize');
-
-
 var dbname = "d2challenge"
 var username = "postgres"
 var password = "08082014"
@@ -24,36 +22,36 @@ db = new Sequelize(dbname, username, password, {
     }*/
 });
 
-const Unique = db.define('unique_items', {
-    kind: {
+const Set = db.define('set_items', {
+    setName: {
         type: Sequelize.STRING   
     },
-    part: {
+    name: {
         type: Sequelize.STRING      
     },
-    value: {
-        type: Sequelize.STRING
-    },
-    name : {
+    part: {
         type: Sequelize.STRING
     },
     type : {
         type: Sequelize.STRING
     },
-    properties: {
-        type: Sequelize.TEXT
+    kind : {
+        type: Sequelize.STRING
     },
     item: {
         type: Sequelize.STRING
-    },    
+    },
     image: {
-        type: Sequelize.STRING      
+        type: Sequelize.STRING
+    },    
+    properties: {
+        type: Sequelize.TEXT      
     }
 }, {
     timestamps: false
 });
 
-Unique.sync().then(res => {
+Set.sync().then(res => {
 })
 
-module.exports = Unique
+module.exports = Set

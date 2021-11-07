@@ -3,6 +3,17 @@
     src: url("../fonts/DiabloLight.ttf");
 }
 
+@font-face {
+    font-family: Formal;
+    src: url("../fonts/formal436bt.ttf");
+}
+
+@font-face {
+    font-family: Kodia;
+    src: url("../fonts/kodia.ttf");
+}
+
+
 ul {
     margin-top: 0;
     display: flex;
@@ -11,7 +22,7 @@ ul {
 }
 
 li {
-    font-family: DiabloLight;
+    font-family: Formal;
     color: #fcd89b;
     text-decoration: none;
     margin-left: 15px;

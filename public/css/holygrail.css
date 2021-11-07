@@ -3,6 +3,21 @@
     src: url("../fonts/DiabloLight.ttf");
 }
 
+@font-face {
+    font-family: Formal;
+    src: url("../fonts/formal436bt.ttf");
+}
+
+@font-face {
+    font-family: Kodia;
+    src: url("../fonts/kodia.ttf");
+}
+
+@font-face {
+    font-family: Iris;
+    src: url("../fonts/irisl.ttf");
+}
+
 #unique_content {    
     display: flex;
     justify-content: center;
@@ -22,6 +37,7 @@
     padding: 10px;
     background-color: rgb(21, 21, 27);
     border-radius: 10px;
+    border: 1px solid transparent;
     margin: 10px;  
     cursor: pointer;  
 }
@@ -56,9 +72,9 @@
 }
 
 .obj_name {
-    font-family: DiabloLight;
+    font-family: Kodia;
     text-align: center;
-    font-size: 0.9em;
+    font-size: 1em;
     font-weight: bold;
     color: rgb(179, 161, 107);
     margin-top: 10px;
@@ -67,16 +83,16 @@
 
 .obj_type {
     text-align: center;
-    font-family: DiabloLight;
-    font-size: 0.8em;
+    font-family: Formal;
+    font-size: 1em;
     font-weight: 400;
     color: #f0e7d8;
 }
 
 .obj_date{
     text-align: center;
-    font-family: DiabloLight;
-    font-size: 0.8em;
+    font-family: Formal;
+    font-size: 0.9em;
     font-weight: 400;
     color: #f0e7d8;
     margin-top: 10px;
@@ -110,19 +126,20 @@
 }
 
 p {
-    font-family: DiabloLight;
+    font-family: Kodia;
     margin-top: 10px;
     margin-bottom: 10px;
     font-weight: bold;
 }
 h3 {
-    font-family: DiabloLight;
+    font-family: Kodia;
     color: rgb(179, 161, 107);
 }
 
 table {
-    font-family: 'Cinzel', serif;
-    color: white;
+    font-family: Formal;
+    font-weight: 400;
+    color: #f0e7d8;
     width: 50%;
     margin: auto;
     margin-bottom: 30px;
@@ -133,7 +150,7 @@ table.striped>tbody>tr:nth-child(odd) {
 }
 
 h2 {
-    font-family: DiabloLight;
+    font-family: Kodia;
     font-size: 2em;
     font-weight: 400;
     color: #f0e7d8;

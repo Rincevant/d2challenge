@@ -1,52 +1,52 @@
 [
     {
-        "setName": "",
-        "name":"",
-        "part":"",
-        "type":"",
-        "kind": "",
-        "item": "",
-        "image": "",
-        "properties":""
+        "setName": "Tancred's Battlegear",
+        "name":"Tancred's Skull",
+        "part":"Helms",
+        "type":"Bone Helm",
+        "kind": "Armor",
+        "item": "Set",
+        "image": "wormskull",
+        "properties":"Defense: 33-36 (varies)\nRequired Level: 20\nRequired Strength: 25\nDurability: 40\n+10% Enhanced Damage\n+40 to Attack Rating\nAll Resistances +10 (2 Items)"
     },
     {
-        "setName": "",
-        "name":"",
-        "part":"",
-        "type":"",
-        "kind": "",
-        "item": "",
-        "image": "",
-        "properties":""
+        "setName": "Tancred's Battlegear",
+        "name":"Tancred's Spine",
+        "part":"Chests",
+        "type":"Full Plate Mail",
+        "kind": "Armor",
+        "item": "Set",
+        "image": "goldskin",
+        "properties":"Defense: 150-161 (varies)\nDefense: (152-348) - (163-359) (varies) (Base Defense: 150-161)\nRequired Level: 20\nRequired Strength: 80\nDurability: 70\n+40 to Life\n+15 to Strength\n+ (2 Per Character Level) 2-198 Defense (Based On Character Level) (2 Items)"
     },
     {
-        "setName": "",
-        "name":"",
-        "part":"",
-        "type":"",
-        "kind": "",
-        "item": "",
-        "image": "",
-        "properties":""
+        "setName": "Tancred's Battlegear",
+        "name":"Tancred's Hobnails",
+        "part":"Boots",
+        "type":"Boots",
+        "kind": "Armor",
+        "item": "Set",
+        "image": "leather_boots",
+        "properties":"Defense: 2-3 (varies)\nRequired Level: 20\nDurability: 12\nAssassin Kick Damage: 3-8\nHeal Stamina Plus 25%\n+10 to Dexterity\n30% Faster Run/Walk (2 Items)\n+10 To Strength (3 Items)"
     },
     {
-        "setName": "",
-        "name":"",
-        "part":"",
-        "type":"",
-        "kind": "",
-        "item": "",
-        "image": "",
-        "properties":""
+        "setName": "Tancred's Battlegear",
+        "name":"Tancred's Crowbill",
+        "part":"Axes",
+        "type":"Military Pick",
+        "kind": "Weapon",
+        "item": "Set",
+        "image": "mindrend",
+        "properties":"One-Hand Damage: 12 to 19 (15.5 Avg)\nRequired Level: 20\nRequired Strength: 49\nRequired Dexterity: 33\nDurability 26\nBase Weapon Speed: [-10]\n+80% Enhanced Damage\n+75 to Attack Rating\n+20 To Mana (2 Items)\n20% Increased Attack Speed (3 Items)"
     },
     {
-        "setName": "",
-        "name":"",
-        "part":"",
-        "type":"",
-        "kind": "",
-        "item": "",
-        "image": "",
-        "properties":""
+        "setName": "Tancred's Battlegear",
+        "name":"Tancred's Weird",
+        "part":"Amulet",
+        "type":"Amulet",
+        "kind": "Other",
+        "item": "Set",
+        "image": "amulet3",
+        "properties":"Required Level: 20\nDamage Reduced by 2\nMagic Damage Reduced by 1\n+78% Better Chance Of Getting Magic Items (2 Items)\n+60 To Attack Rating (3 Items)"
     }
 ]

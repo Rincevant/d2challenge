@@ -24,36 +24,30 @@ db = new Sequelize(dbname, username, password, {
     }*/
 });
 
-const Unique = db.define('unique_items', {
-    kind: {
+const Runewords = db.define('runewords', {
+    item: {
         type: Sequelize.STRING   
     },
-    part: {
+    originalRuneWords: {
         type: Sequelize.STRING      
     },
-    value: {
+    allowedItems: {
         type: Sequelize.STRING
     },
-    name : {
+    runeOrder : {
         type: Sequelize.STRING
     },
-    type : {
-        type: Sequelize.STRING
-    },
-    properties: {
+    completedStats : {
         type: Sequelize.TEXT
     },
-    item: {
-        type: Sequelize.STRING
-    },    
     image: {
-        type: Sequelize.STRING      
+        type: Sequelize.STRING
     }
 }, {
     timestamps: false
 });
 
-Unique.sync().then(res => {
+Runewords.sync().then(res => {
 })
 
-module.exports = Unique
+module.exports = Runewords

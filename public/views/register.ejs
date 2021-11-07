@@ -24,34 +24,49 @@
         <input type="password" name="password" id="password" placeholder="Password" required>
         <input type="confirm" name="confirm" id="confirm" placeholder="Confirm password" required>
 
-        <span class="formSpan">Your favorite class</span>
-        <select id="class" name="class">
-            <option value="none">None</option>
-            <option value="amazon">Amazon</option>
-            <option value="assassin">Assassin</option>
-            <option value="barbarian">Barbarian</option>
-            <option value="necromancer">Necromancer</option>
-            <option value="druid">Druid</option>
-            <option value="paladin">Paladin</option>
-            <option value="sorceress">Sorceress</option>
-        </select>  
+        <div style="display: flex; justify-content: space-between;">
+            <div style="display: flex; flex-direction: column; width: 49%;">
+                <span class="formSpan">Your favorite class</span>
+                <select id="class" name="class">
+                    <option value="none">None</option>
+                    <option value="amazon">Amazon</option>
+                    <option value="assassin">Assassin</option>
+                    <option value="barbarian">Barbarian</option>
+                    <option value="necromancer">Necromancer</option>
+                    <option value="druid">Druid</option>
+                    <option value="paladin">Paladin</option>
+                    <option value="sorceress">Sorceress</option>
+                </select>
+                
+                <span class="formSpan">Your fovorite gamemode</span>
+                <select id="gamemode" name="gamemode">
+                    <option value="softcore">Softcore</option>
+                    <option value="hardcore">Hardcore</option>
+                </select> 
+            </div>
+            
+            
+            <div style="display: flex; flex-direction: column; width: 49%;">
+                <span class="formSpan">Your platform</span>
+                <select id="platform" name="platform">
+                    <option value="none">None</option>
+                    <option value="pc">PC</option>
+                    <option value="playstation">Playstation</option>
+                    <option value="switch">Switch</option>
+                    <option value="xbox">Xbox</option>
+                </select> 
         
-        <span class="formSpan">Your platform</span>
-        <select id="platform" name="platform">
-            <option value="none">None</option>
-            <option value="pc">PC</option>
-            <option value="playstation">Playstation</option>
-            <option value="switch">Switch</option>
-            <option value="xbox">Xbox</option>
-        </select> 
-
-        <span class="formSpan">Your region</span>
-        <select id="region" name="region">
-            <option value="none">None</option>
-            <option value="europe">Europe</option>
-            <option value="america">America</option>
-            <option value="asia">Asia</option>
-        </select> 
+                <span class="formSpan">Your region</span>
+                <select id="region" name="region">
+                    <option value="none">None</option>
+                    <option value="europe">Europe</option>
+                    <option value="america">America</option>
+                    <option value="asia">Asia</option>
+                </select> 
+            </div>
+        </div>
+        
+        
 
         <button type="submit" class="register_submit"></button>
     </form>

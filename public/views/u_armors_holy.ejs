@@ -22,7 +22,7 @@
     <div id="unique_content">
         <% objets.forEach(function(objet) { %>
             
-            <div id=<%= objet.id %> class=<% if (objet.owned === true) { %>objetOwned<% }else { %> objet <% } %> onclick='obtain("<%= objet.id %>", "<%= objet.name %>")'>                   
+            <div id=<%= objet.id %> class=<% if (objet.owned === true) { %>objetOwned<% }else { %> objet <% } %> onclick='obtain("<%= objet.id %>", "<%= objet.kind %>", "<%= objet.part %>", "<%= objet.value %>", "<%= objet.name %>", "<%= objet.item %>")'>                   
                 <div class="tooltip">
                     <img src="/images/<%= objet.kind %>/<%= objet.image %>.png" class="obj_image">
                     <span class="obj_name"><%= objet.name %></span>

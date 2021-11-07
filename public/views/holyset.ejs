@@ -7,15 +7,52 @@
     <link rel="stylesheet" type="text/css" href="/css/global.css">
     <link rel="stylesheet" type="text/css" href="/css/footer.css">
     <link rel="stylesheet" type="text/css" href="/css/header.css">
-    <link rel="stylesheet" type="text/css" href="/css/holygrail.css"> 
+    <link rel="stylesheet" type="text/css" href="/css/holygrail.css">
+    <link rel="stylesheet" type="text/css" href="/css/menuholy.css"> 
+    <link rel="stylesheet" type="text/css" href="/css/set.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>  
     <title>Document</title>
 </head>
 <body>
     <%- include('partials/header') %>
 
-    SET
+    <%- include('partials/menuholy') %> 
+    
+    <h2>Set</h2>
 
-    <%- include('partials/footer') %>   
+    <% setName.forEach(function(name) { %>
+        <div class="topSetInfo">
+            <div style="display: flex;">
+                <h3 class="setTitle"><%= name %></h3>
+                <img src="/images/information.png" alt="information" class="info">
+            </div>
+        </div>
+
+        <div id="unique_content">
+            
+            <% objets.forEach(function(objet) { %>
+                
+                <% if(objet.setName === name){ %>
+                    <div id=<%= objet.id %> class=<% if (objet.owned === true) { %>objetOwned<% }else { %> objet <% } %> onclick='obtain("<%= objet.id %>", "<%= objet.name %>")'>                   
+                        <div class="tooltip">
+                            <img src="/images/<%= objet.kind %>/<%= objet.image %>.png" class="obj_image">
+                            <span class="obj_name"><%= objet.name %></span>
+                            <span class="obj_type"><%= objet.type %></span>
+                            <span class="obj_date"><% if (objet.dateOwned != null) { %> <%- objet.dateOwned %> <% } %></span>
+                            <span class="tooltiptext"><%- objet.properties %></span>
+                        </div>
+                    </div>   
+                <% } %>
+
+            <% }); %>   
+            
+        </div>
+    <% }); %>        
+
+    <%- include('partials/footer') %>
+    
+    <script src="/js/tooltipSetItems.js"></script>
+
+    <script src="/js/dateItems.js"></script> 
 </body>
 </html>

@@ -35,6 +35,8 @@ app.use("/login", authLogin);
 app.use("/register", authRegister);
 app.use("/holygrail", holygrail);
 
+
+
 app.listen(port, function() {
-    console.log('Our app is running on http://localhost:' + port);
+    console.log('Our app is running on http://localhost:' + port);    
 });

@@ -3,6 +3,11 @@
     src: url("../fonts/DiabloLight.ttf");
 }
 
+@font-face {
+    font-family: Kodia;
+    src: url("../fonts/kodia.ttf");
+}
+
 h1 {color: white; font-size: 4em;}
 
 #logo {
@@ -60,7 +65,7 @@ h1 {color: white; font-size: 4em;}
     position: absolute;
     display: flex;
     justify-content: right;
-    font-family: DiabloLight;
+    font-family: Kodia;
     color: #f0e7d8;
     width: 75%;
     margin-top: 50px;

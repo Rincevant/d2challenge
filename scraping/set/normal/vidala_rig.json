@@ -1,42 +1,42 @@
 [
     {
-        "setName": "",
-        "name":"",
-        "part":"",
-        "type":"",
-        "kind": "",
-        "item": "",
-        "image": "",
-        "properties":""
+        "setName": "Vidala's Rig",
+        "name":"Vidala's Barb",
+        "part":"Bows",
+        "type":"Long Battle Bow",
+        "kind": "Weapon",
+        "item": "Set",
+        "image": "long_battle_bow",
+        "properties":"Two-Hand Damage: 3 to 18 (10.5 Avg)\nRequired Level: 14\nRequired Strength: 40\nRequired Dexterity: 50\nBase Weapon Speed: [10]\nAdds 1-20 Lightning Damage\n+ (8 Per Character Level) 8-792 To Attack Rating (Based On Character Level) (2 Items)"
     },
     {
-        "setName": "",
-        "name":"",
-        "part":"",
-        "type":"",
-        "kind": "",
-        "item": "",
-        "image": "",
-        "properties":""
+        "setName": "Vidala's Rig",
+        "name":"Vidala's Ambush",
+        "part":"Chests",
+        "type":"Leather Armor",
+        "kind": "Armor",
+        "item": "Set",
+        "image": "leather_armor",
+        "properties":"Defense: 64-67 (varies) (Base Defense: 14-17)\nDefense: (66-311) - (69-314) (varies) (Base Defense: 14-17)\nRequired Level: 14\nRequired Strength: 15\nDurability: 24\n+50 Defense\n+11 to Dexterity\n+24% Fire Resist (2 Items)\n+ (2.5 Per Character Level) +2-247 Defense (Based On Character Level) (3 Items)"
     },
     {
-        "setName": "",
-        "name":"",
-        "part":"",
-        "type":"",
-        "kind": "",
-        "item": "",
-        "image": "",
-        "properties":""
+        "setName": "Vidala's Rig",
+        "name":"Vidala's Fetlock",
+        "part":"Boots",
+        "type":"Light Plated Boots",
+        "kind": "Armor",
+        "item": "Set",
+        "image": "plate_boots",
+        "properties":"Defense: 9-11 (varies)\nRequired Level: 14\nRequired Strength: 50\nDurability: 18\nAssassin Kick Damage: 8-16\n30% Faster Run/Walk\n+150 to Maximum Stamina\nAll Resistances +8 (2 Items)"
     },
     {
-        "setName": "",
-        "name":"",
-        "part":"",
-        "type":"",
-        "kind": "",
-        "item": "",
-        "image": "",
-        "properties":""
+        "setName": "Vidala's Rig",
+        "name":"Vidala's Snare",
+        "part":"Amulet",
+        "type":"Amulet",
+        "kind": "Other",
+        "item": "Set",
+        "image": "amulet2",
+        "properties":"Required Level: 14\nCold Resist 20%\n+15 To Life\n50% Better Chance Of Getting Magic Items (2 Items)"
     }
 ]

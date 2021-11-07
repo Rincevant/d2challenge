@@ -31,5 +31,15 @@ module.exports = {
             console.log(error)    
         }        
         return result   
+    },
+
+    async getAllUniqueOthers() {
+        let result
+        try {
+            result = await UniqueItems.findAll( { where: { kind: "Other" }} )       
+        } catch (error) {
+            console.log(error)    
+        }        
+        return result   
     }
 }

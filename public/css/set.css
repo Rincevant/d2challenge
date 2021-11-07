@@ -1,0 +1,77 @@
+@font-face {
+    font-family: Formal;
+    src: url("../fonts/formal436bt.ttf");
+}
+
+.tooltip {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+  
+.tooltip .tooltiptext {
+    visibility: hidden;    
+    background-color: rgb(11, 11, 12);
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px 10px;
+    position: absolute;
+    z-index: 1;
+    border : 1px solid #90ff00;
+}
+  
+.tooltip:hover .tooltiptext {
+    visibility: visible;
+}
+
+.tooltiptext {
+    margin-bottom: 32em;
+}
+
+.obj_name {
+    color: #90ff00;
+}
+
+.objetOwned {
+    border : 1px solid #90ff00;
+}
+
+.objet:hover {
+    border : 1px solid #90ff00;
+}
+
+h3 {
+    color : #90ff00;
+}
+
+.setTitle {
+    color: #f0e7d8;
+    font-family: Kodia;
+    font-size: 1.1em;
+    display: flex;
+    justify-content: center;
+    height: 100%;
+    align-items: center;
+    margin: auto;
+    margin-bottom: 10px;
+    margin-right: 10px;
+}
+
+
+.topSetInfo {
+    display: flex;
+    justify-content: left;
+    width: 50%;
+    margin: auto;
+}
+
+.info {
+    width: 30px;
+    height: 30px;
+}
+
+#unique_content{
+    justify-content: start;
+    width: 53%;
+}

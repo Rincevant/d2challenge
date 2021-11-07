@@ -1,32 +1,32 @@
 [
     {
-        "setName": "",
-        "name":"",
-        "part":"",
-        "type":"",
-        "kind": "",
-        "item": "",
-        "image": "",
-        "properties":""
+        "setName": "Infernal Tools",
+        "name":"Infernal Cranium",
+        "part":"Helms",
+        "type":"Cap",
+        "kind": "Armor",
+        "item": "Set",
+        "image": "war_bonnet",
+        "properties":"Defense: 3-5 (varies)\nDefense: (5-201) - (7-203) (varies)(Base Defense: 3-5)\nRequired Level: 5\nDurability: 12\n20% Damage Taken Goes to Mana\nAll Resistances +10\n+ (2 Per Character Level) 2-198 Defense (Based On Character Level) (2 Items)"
     },
     {
-        "setName": "",
-        "name":"",
-        "part":"",
-        "type":"",
-        "kind": "",
-        "item": "",
-        "image": "",
-        "properties":""
+        "setName": "Infernal Tools",
+        "name":"Infernal Sign",
+        "part":"Belts",
+        "type":"Heavy Belt",
+        "kind": "Armor",
+        "item": "Set",
+        "image": "heavy_belt",
+        "properties":"Defense: 31 (Base Defense: 6)\nRequired Level: 5\nRequired Strength: 45\nDurability: 18\n12 boxes\n+25 Defense\n+20 to Life\nPoison Resist +25% (2 Items)\nHalf Freeze Duration (3 Items)"
     },
     {
-        "setName": "",
-        "name":"",
-        "part":"",
-        "type":"",
-        "kind": "",
-        "item": "",
-        "image": "",
-        "properties":""
+        "setName": "Infernal Tools",
+        "name":"Infernal Torch",
+        "part":"Wands",
+        "type":"Grim Wand",
+        "kind": "Weapon",
+        "item": "Set",
+        "image": "grim_wand",
+        "properties":"One-Hand Damage: 13 to 14 (13.5 Avg)\nRequired Level: 5\nDurability: 15\nBase Weapon Speed: [0]\n+1 To Necromancer Skill Levels\n+8 to Min Damage\n150% Damage to Undead\n+ (10 Per Character Level) 10-990 Attack Rating (Based On Character Level) (2 Items)"
     }
 ]

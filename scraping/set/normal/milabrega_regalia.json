@@ -1,42 +1,42 @@
 [
     {
-        "setName": "",
-        "name":"",
-        "part":"",
-        "type":"",
-        "kind": "",
-        "item": "",
-        "image": "",
-        "properties":""
+        "setName": "Milabrega's Regalia",
+        "name":"Milabrega's Diadem",
+        "part":"Helms",
+        "type":"Crown",
+        "kind": "Armor",
+        "item": "Set",
+        "image": "crown",
+        "properties":"Defense: 25-45 (varies)\nRequired Level: 17\nRequired Strength: 55\nDurability: 50\n+15 to Mana\n+15 to Life\nCold Resist +40% (2 Items)"
     },
     {
-        "setName": "",
-        "name":"",
-        "part":"",
-        "type":"",
-        "kind": "",
-        "item": "",
-        "image": "",
-        "properties":""
+        "setName": "Milabrega's Regalia",
+        "name":"Milabrega's Robe",
+        "part":"Chests",
+        "type":"Ancient Armor",
+        "kind": "Armor",
+        "item": "Set",
+        "image": "victors_silk",
+        "properties":"Defense: 234 (Base Defense: 218-233)\nDefense: 468 (Base Defense: 218-233)\nRequired Level: 17\nRequired Strength: 100\nDurability: 60\nDamage Reduced by 2\nAttacker Takes Damage of 3\n+100% Enhanced Defense (2 Items)"
     },
     {
-        "setName": "",
-        "name":"",
-        "part":"",
-        "type":"",
-        "kind": "",
-        "item": "",
-        "image": "",
-        "properties":""
+        "setName": "Milabrega's Regalia",
+        "name":"Milabrega's Orb",
+        "part":"Shields",
+        "type":"Kite Shield",
+        "kind": "Armor",
+        "item": "Set",
+        "image": "steelclash",
+        "properties":"Defense: 44 (Base Defense: 16-18)\nDefense: 53 (Base Defense: 16-18)\nChance to Block: Pal: 38%, Ama/Asn/Bar: 33%\nDru/Nec/Sor: 28%\nPaladin Smite Damage: 2 to 5\nRequired Level: 17\nRequired Strength: 47\nDurability: 30\n+25 Defense\n20% Better Chance of Getting Magic Item\n+50 Life (2 Items)\n+50% Enhanced Defense (3 Items)"
     },
     {
-        "setName": "",
-        "name":"",
-        "part":"",
-        "type":"",
-        "kind": "",
-        "item": "",
-        "image": "",
-        "properties":""
+        "setName": "Milabrega's Regalia",
+        "name":"Milabrega's Rod",
+        "part":"Scepters",
+        "type":"War Scepter",
+        "kind": "Weapon",
+        "item": "Set",
+        "image": "war_scepter",
+        "properties":"One-Hand Damage: 15 To 25 (20 Avg)\nRequired Level: 17\nRequired Strength: 55\nDurability: 70\nBase Weapon Speed: [-10]\n+50% Enhanced Damage\n+50% Damage to Undead\n+1 to Paladin Skills\n+2 to Light Radius"
     }
 ]

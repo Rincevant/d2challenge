@@ -1,32 +1,32 @@
 [
     {
-        "setName": "",
-        "name":"",
-        "part":"",
-        "type":"",
-        "kind": "",
-        "item": "",
-        "image": "",
-        "properties":""
+        "setName": "Civerb's Vestments",
+        "name":"Civerb's Cudgel",
+        "part":"Scepters",
+        "type":"Grand Scepter",
+        "kind": "Weapon",
+        "item": "Set",
+        "image": "grand_scepter",
+        "properties":"One-Hand Damage: 8 to (36-140) (22-74 Avg)\nRequired Level: 9\nRequired Strength: 37\nDurability: 60\nBase Weapon Speed: [10]\n+ (1 Per Character Level) 1-99 To Maximum Damage (Based On Character Level)\n+17-23 to Max Damage(varies)\n+50% Damage To Undead\n+75 to Attack Rating"
     },
     {
-        "setName": "",
-        "name":"",
-        "part":"",
-        "type":"",
-        "kind": "",
-        "item": "",
-        "image": "",
-        "properties":""
+        "setName": "Civerb's Vestments",
+        "name":"Civerb's Icon",
+        "part":"Amulet",
+        "type":"Amulet",
+        "kind": "Other",
+        "item": "Set",
+        "image": "amulet1",
+        "properties":"Required Level: 9\nReplenish Life +4\nRegenerate Mana 40%\nCold Resist +25% (2 Items)\n+25 Defense (Complete Set)"
     },
     {
-        "setName": "",
-        "name":"",
-        "part":"",
-        "type":"",
-        "kind": "",
-        "item": "",
-        "image": "",
-        "properties":""
+        "setName": "Civerb's Vestments",
+        "name":"Civerb's Ward",
+        "part":"Shields",
+        "type":"Large Shield",
+        "kind": "Armor",
+        "item": "Set",
+        "image": "stormguild",
+        "properties":"Defense: 27-29 (varies)(Base Defense: 12-14)\nRequired Level: 9\nRequired Strength: 34\nDurability: 24\nChance to Block: Pal: 57%, Ama/Asn/Bar: 52%\nDru/Nec/Sor: 47%\nPaladin Smite Damage: 2 to 4\n+15 Defense\n+15% Increased Block\n+21-22 Mana (Civerb's Icon)(varies)\nPoison Resist +25-26% (Civerb's Cudgel)(varies)"
     }
 ]
