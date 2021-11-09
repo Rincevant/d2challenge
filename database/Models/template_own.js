@@ -1318,7 +1318,7 @@ module.exports =
                 }
             }
         },
-        "sets": {
+        "Set": {
             "Angelic Raiment": {
                 "Angelic Wings": {
                     "owned": false, "date": null

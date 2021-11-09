@@ -7,7 +7,7 @@
         "type": "Short Staff",
         "properties": "Two-Hand Damage: 1 To (7-8) (4-4.5 Avg)\nRequired Level: 5\nDurability: 20\nBase Weapon Speed: [-10]\n+50-60% Enhanced Damage (varies)\n+50% Damage To Undead\n20% Increased Attack Speed\n+30 To Mana\nFire Resist +50%\nAdds 4-6 Fire Damage\n+5 To Fire Bolt (Sorceress Only)\n+2 To Warmth (Sorceress Only)\n(Only Spawns In Patch 1.09 or later)",
         "item": "Unique",
-        "image" : "long_staff"
+        "image" : "short_staff"
     },
     {
         "kind": "Weapon",
@@ -15,7 +15,38 @@
         "value": "normal",
         "name": "Serpent Lord",
         "type": "Long Staff",
+        "properties": "Two-Hand Damage: 2 To (10-11) (6-6.5 Avg)\nRequired Level: 9\nDurability: 30\nBase Weapon Speed: [0]\n+30-40% Enhanced Damage (varies)\n+50% Damage To Undead\n+12 Poison Damage Over 3 Seconds\n100% Mana Stolen Per Hit (Yes that's correct!)\n-50% Target Defense\n+10 to Mana\nPoison Resist +50%\n-1 To Light Radius\n(Only Spawns In Patch 1.09 or later)",
         "item": "Unique",
         "image" : "long_staff"
+    },
+    {
+        "kind": "Weapon",
+        "part": "Staves",
+        "value": "normal",
+        "name": "Spire of Lazarus",
+        "type": "Gnarled Staff",
+        "properties": "Two-Hand Damage: 4 To 12 (8 Avg)\nRequired Level: 18\nDurability: 35\nBase Weapon Speed: [10]\n+50% Damage To Undead\nAdds 1-28 Lightning Damage\n+1 To Sorceress Skill Levels\n+2 To Lightning (Sorceress Only)\n+1 To Chain Lightning (Sorceress Only)\n+3 To Static Field (Sorceress Only)\nRegenerate Mana 43%\n+15 To Energy\nDamage Reduced By 5\nLightning Resist +75%\n(Only Spawns In Patch 1.09 or later)",
+        "item": "Unique",
+        "image" : "lazarus_spire"
+    },
+    {
+        "kind": "Weapon",
+        "part": "Staves",
+        "value": "normal",
+        "name": "The Salamander",
+        "type": "Battle Staff",
+        "properties": "Two-Hand Damage: 6 To 13 (9.5 Avg)\nRequired Level: 21\nDurability: 40\nBase Weapon Speed: [0]\n+50% Damage To Undead\nAdds 15-32 Fire Damage\nFire Resist +30%\n+2 To Fire Skills\n+3 To Warmth (Sorceress Only)\n+2 To Fire Ball (Sorceress Only)\n+1 To Fire Wall (Sorceress Only)\n(Only Spawns In Patch 1.09 or later)",
+        "item": "Unique",
+        "image" : "battle_staff"
+    },
+    {
+        "kind": "Weapon",
+        "part": "Staves",
+        "value": "normal",
+        "name": "The Iron Jang Bong",
+        "type": "War Staff",
+        "properties": "Two-Hand Damage: 24 To 56 (40 Avg)\nRequired Level: 28\nDurability: 50\nBase Weapon Speed: [20]\n+100% Enhanced Damage\n+50% Damage To Undead\n50% bonus to Attack Rating\n20% Faster Cast Rate\n+2 to Sorceress Skill Levels\n+3 To Frost Nova (Sorceress Only)\n+2 To Blaze (Sorceress Only)\n+2 To Nova (Sorceress Only)\n+30 Defense\n(Only Spawns In Patch 1.09 or later)",
+        "item": "Unique",
+        "image" : "war_staff"
     }
 ]

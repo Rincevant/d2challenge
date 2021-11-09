@@ -7,7 +7,7 @@
         "type": "Jo Staff",
         "properties": "Two-Hand Damage: 6 To 21 (13.5 Avg)\nRequired Level: 28\nRequired Strength: 25\nDurability: 20\nBase Weapon Speed:  [-10] \n+50% Damage To Undead\n+1 To All Skills\n30% Faster Cast Rate\nMagic Damage Reduced By 15\nAll Resistances +50\n+175 To Mana\n+80 To Life\nAttacker Takes Damage Of 15\n(Only Spawns In Patch 1.09 or later)",
         "item": "Unique",
-        "image" : "long_staff"
+        "image" : "short_staff"
     },
     {
         "kind": "Weapon",
@@ -15,7 +15,38 @@
         "value": "exceptional",
         "name": "Ribcracker",
         "type": "Quarterstaff",
+        "properties": "Two-Hand Damage: (54-62) To (143-169) (98.5-115.5 Avg)\nRequired Level: 31\nRequired Strength: 25\nDurability: 130\nBase Weapon Speed: [0]\n+200-300% Enhanced Damage (varies)\nAdds 30-65 Damage\n+50% Damage To Undead\n50% Chance Of Crushing Blow\n50% Increased Attack Speed\n50% Faster Hit Recovery\n+100% Enhanced Defense\n+100 Defense\n+15 To Dexterity\n(Only Spawns In Patch 1.09 or later)",
         "item": "Unique",
         "image" : "long_staff"
+    },
+    {
+        "kind": "Weapon",
+        "part": "Staves",
+        "value": "exceptional",
+        "name": "Chromatic Ire",
+        "type": "Cedar Staff",
+        "properties": "Two-Hand Damage: 11 To 32 (21.5 Avg)\nRequired Level: 35\nRequired Strength: 25\nDurability: 35\nBase Weapon Speed: [10]\n+50% Damage To Undead\n20% Faster Cast Rate\n+3 To Sorceress Skill Levels\nIncrease Maximum Life 20-25% (varies)\nAll Resistances +20-40(varies)\nAttacker Takes Lightning Damage Of 20\n+1 To Cold Mastery (Sorceress Only)\n+1 To Lightning Mastery (Sorceress Only)\n+1 To Fire Mastery (Sorceress Only)\n(Only Spawns In Patch 1.09 or later)",
+        "item": "Unique",
+        "image" : "lazarus_spire"
+    },
+    {
+        "kind": "Weapon",
+        "part": "Staves",
+        "value": "exceptional",
+        "name": "Warpspear",
+        "type": "Gothic Staff",
+        "properties": "Two-Hand Damage: 14 To 34 (24 Avg)\nRequired Level: 39\nRequired Strength: 25\nDurability: 40\nBase Weapon Speed: [0]\n+50% Damage To Undead\nIgnore Target's Defense\n+250 Defense Vs. Missiles\n+3 To Sorceress Skill Levels\n+3 To Energy Shield (Sorceress Only)\n+3 To Telekinesis (Sorceress Only)\n+3 To Teleport (Sorceress Only)\n(Only Spawns In Patch 1.09 or later)",
+        "item": "Unique",
+        "image" : "battle_staff"
+    },
+    {
+        "kind": "Weapon",
+        "part": "Staves",
+        "value": "exceptional",
+        "name": "Skull Collector",
+        "type": "Rune Staff",
+        "properties": "Two-Hand Damage: 24 To 58 (41 Avg)\nRequired Level: 41\nRequired Strength: 25\nDurability: 50\nBase Weapon Speed: [20]\n+50% Damage To Undead\n+20 To Mana After Each Kill\nIncrease Maximum Mana 20%\n+ (1 Per Character Level) 1-99% Better Chance Of Getting Magic Items (Based On Character Level)\n+2 To All Skills\n(Only Spawns In Patch 1.09 or later)",
+        "item": "Unique",
+        "image" : "skullcollector"
     }
 ]

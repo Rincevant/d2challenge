@@ -17,8 +17,21 @@ function obtain(id, kind, part, value, name, item) {
 }
 
 function findItemAndSet(kind, part, value, name, item, date) {
+    
+
+    if (item == "Unique"){
+        obtainUniqueItem(kind, part, value, name, date)
+    } else if (item == "Set") {
+        obtainSetItem()
+    }
+
+  
+}
+
+function obtainUniqueItem(kind, part, value, name, date) {
     var templateJSON = JSON.parse(localStorage.getItem("data")) 
-    console.log(kind, part, value, name, item, date)
+    console.log(kind, part, value, name, date)
+    
     var obtainValue = templateJSON[item][kind][part][value][name].owned
 
     if (obtainValue) {
@@ -29,5 +42,10 @@ function findItemAndSet(kind, part, value, name, item, date) {
         templateJSON[item][kind][part][value][name].date = date
     }
 
-    localStorage.setItem("data", JSON.stringify(templateJSON))    
+    localStorage.setItem("data", JSON.stringify(templateJSON))  
+}
+
+
+function obtainSetItem() {
+    console.log("Obtain Sets")
 }
