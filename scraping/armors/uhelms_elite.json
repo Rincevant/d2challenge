@@ -2,7 +2,7 @@
     {
         "kind": "Armor",
         "part": "Helms",
-        "value": "Elite Unique Armor",
+        "value": "elite",
         "name": "Harlequin Crest",
         "type": "Shako",
         "properties": "Defense: 98-141 (varies)\nRequired Level: 62\nRequired Strength: 50\nDurability: 12\n+2 To All Skills\n+ (1.5 Per Character Level) 1-148 To Life (Based On Character Level)\n+ (1.5 Per Character Level) 1-148 To Mana (Based On Character Level)\nDamage Reduced By 10%\n50% Better Chance of Getting Magic Items\n+2 To All Attributes\n(Only Spawns In Patch 1.09 or later)",
@@ -12,7 +12,7 @@
     {
         "kind": "Armor",
         "part": "Helms",
-        "value": "Elite Unique Armor",
+        "value": "elite",
         "name": "Steel Shade",
         "type": "Armet",
         "properties": "Defense: 300-345 (varies)(Base Defense: 105-149)\nRequired Level: 62\nRequired Strength: 109\nDurability: 24\n+100-130% Enhanced Defense (varies)\nReplenish Life +10-18 (varies)\n4-8% Mana Stolen Per Hit (varies)\n+5-11 Fire Absorb (varies)\n(Only Spawns In Patch 1.10 or later)",
@@ -22,7 +22,7 @@
     {
         "kind": "Armor",
         "part": "Helms",
-        "value": "Elite Unique Armor",
+        "value": "elite",
         "name": "Veil of Steel",
         "type": "Spired Helm",
         "properties": "Defense: 396 (Base Defense: 114-159)\nRequired Level: 73\nRequired Strength: 192\nDurability: 60\n+60% Enhanced Defense\n+140 To Defense\nAll Resistances +50\n+15 To Strength\n+15 To Vitality\n-4 To Light Radius\n(Only Spawns In Patch 1.09 or later)",
@@ -32,7 +32,7 @@
     {
         "kind": "Armor",
         "part": "Helms",
-        "value": "Elite Unique Armor",
+        "value": "elite",
         "name": "Nightwing's Veil",
         "type": "Spired Helm",
         "properties": "Defense: 304-352 (varies)(Base Defense: 114-159)\nRequired Level: 67\nRequired Strength: 96\nDurability: 40\n+90-120% Enhanced Defense (varies)\n+2 To All Skills\n+8-15% To Cold Skill Damage (varies)\n+10-20 To Dexterity (varies)\n+5-9 Cold Absorb (varies)\nHalf Freeze Duration\nRequirements -50%\n(Only Spawns In Patch 1.10 or later)",
@@ -42,7 +42,7 @@
     {
         "kind": "Armor",
         "part": "Helms",
-        "value": "Elite Unique Armor",
+        "value": "elite",
         "name": "Andariel's Visage",
         "type": "Demonhead",
         "properties": "Defense: 310-387 (varies)(Base Defense: 101-154)\nRequired Level: 83\nRequired Strength: 102\nDurability: 20\n+100-150% Enhanced Defense (varies)\n+2 To All Skills\n20% Increased Attack Speed\n8-10% Life Stolen Per Hit (varies)\n+25-30 To Strength (varies)\n+10% To Maximum Poison Resist\nFire Resist -30%\nPoison Resist +70%\n15% Chance To Cast Level 15 Poison Nova When Struck\nLevel 3 Venom (20 charges)\n(Ladder Only)\n(Only Spawns In Patch 1.10 or later)",
@@ -52,7 +52,7 @@
     {
         "kind": "Armor",
         "part": "Helms",
-        "value": "Elite Unique Armor",
+        "value": "elite",
         "name": "Crowned of Ages",
         "type": "Corona",
         "properties": "Defense: 349-399 (varies)(Base Defense: 111-165)\nRequired Level: 82\nRequired Strength: 174\n+50% Enhanced Defense\n+100-150 Defense (varies)\n+1 To All Skills\nDamage Reduced By 10-15% (varies)\nAll Resistances +20-30 (varies)\n+30% Faster Hit Recovery\nSocketed (1-2) (varies)\nIndestructible\n(Only Spawns In Patch 1.10 or later)",
@@ -62,7 +62,7 @@
     {
         "kind": "Armor",
         "part": "Helms",
-        "value": "Elite Unique Armor",
+        "value": "elite",
         "name": "Giant Skull",
         "type": "Bone Visage",
         "properties": "Defense: 350-477 (varies)(Base Defense: 100-157)\nRequired Level: 65\nRequired Strength: 106\nDurability: 40\n+250-320 Defense (varies)\n10% Chance Of Crushing Blow\nKnockback\n+25-35 to Strength (varies)\nSocketed (1-2) (varies)\n(Only Spawns In Patch 1.10 or later)",

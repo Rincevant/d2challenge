@@ -2,7 +2,7 @@
     {
         "kind": "Weapon",
         "part": "Spears",
-        "value": "Elite Unique Weapon",
+        "value": "elite",
         "name": "Arioc's Needle",
         "type": "Hyperion Spear",
         "properties": "Two-Hand Damage: (98-115) To (333-392) (215.5-253.5 Avg)\nRequired Level: 81\nRequired Strength: 155\nRequired Dexterity: 120\nDurability: 30\nBase Weapon Speed: [-10]\n+180-230% Enhanced Damage (varies)\n50% Deadly Strike\n+394 Poison Damage Over 10 Seconds\n+30% Increased Attack Speed\n+2-4 To All Skills (varies)\nIgnore Target's Defense\n(Only Spawns In Patch 1.10 or later)",
@@ -12,7 +12,7 @@
     {
         "kind": "Weapon",
         "part": "Spears",
-        "value": "Elite Unique Weapon",
+        "value": "elite",
         "name": "Viperfork",
         "type": "Mancatcher",
         "properties": "Two-Hand Damage: (121-142) To (266-312) (193.5-227 Avg)\nRequired Level: 71\nRequired Strength: 132\nRequired Dexterity: 134\nDurability: 28\nBase Weapon Speed: [-20]\n+190-240% Enhanced Damage (varies)\n+200-250 To Attack Rating (varies)\n+50% Increased Attack Speed\n+325 Poison Damage Over 10 Seconds\nPoison Resist +30-50% (varies)\n15% Chance To Cast Level 9 Poison Explosion On Striking\n(Only Spawns In Patch 1.10 or later)",
@@ -22,7 +22,7 @@
     {
         "kind": "Weapon",
         "part": "Spears",
-        "value": "Elite Unique Weapon",
+        "value": "elite",
         "name": "Steel Pillar",
         "type": "War Pike",
         "properties": "Two-Hand Damage: (102-118) To (551-640) (326.5-379 Avg)\nRequired Level: 69\nRequired Strength: 165\nRequired Dexterity: 106\nBase Weapon Speed: [20]\n+210-260% Enhanced Damage (varies)\n25% Chance of Crushing Blow\n-20% Target Defense\n+25% Increased Attack Speed\n+50-80% Enhanced Defense (varies)\nIndestructible\n(Only Spawns In Patch 1.10 or later)",

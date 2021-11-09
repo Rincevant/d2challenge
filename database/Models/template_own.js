@@ -1,13 +1,13 @@
 module.exports =
     {
-        "uniques": {
-            "armor": {
-                "chests": {
-                    "Normal": {
+        "Unique": {
+            "Armor": {
+                "Chests": {
+                    "normal": {
                         "Greyform": {
                             "owned": false, "date": null
                         },
-                        "Blinkbat\'s Form": {
+                        "Blinkbat's Form": {
                             "owned": false, "date": null
                         },
                         "The Centurion": {
@@ -50,7 +50,7 @@ module.exports =
                             "owned": false, "date": null
                         }
                     },
-                    "Exceptional": {
+                    "exceptional": {
                         "The Spirit Shroud": {
                             "owned": false, "date": null
                         },
@@ -69,16 +69,16 @@ module.exports =
                         "Spirit Forge": {
                             "owned": false, "date": null
                         },
-                        "Duriel\'s Shell": {
+                        "Duriel's Shell": {
                             "owned": false, "date": null
                         },
                         "Shaftstop": {
                             "owned": false, "date": null
                         },
-                        "Skullder\'s Ire": {
+                        "Skullder's Ire": {
                             "owned": false, "date": null
                         },
-                        "Que-Hegan\'s Wisdom": {
+                        "Que-Hegan's Wisdom": {
                             "owned": false, "date": null
                         },
                         "Toothrow": {
@@ -87,7 +87,7 @@ module.exports =
                         "Guardian Angel": {
                             "owned": false, "date": null
                         },
-                        "Atma\'s Wail": {
+                        "Atma's Wail": {
                             "owned": false, "date": null
                         },
                         "Black Hades": {
@@ -97,14 +97,14 @@ module.exports =
                             "owned": false, "date": null
                         }
                     },
-                    "Elite": {
-                        "Ormus\' Robes": {
+                    "elite": {
+                        "Ormus' Robes": {
                             "owned": false, "date": null
                         },
-                        "The Gladiator\'s Bane": {
+                        "The Gladiator's Bane": {
                             "owned": false, "date": null
                         },
-                        "Arkaine\'s Valor": {
+                        "Arkaine's Valor": {
                             "owned": false, "date": null
                         },
                         "Leviathan": {
@@ -113,17 +113,41 @@ module.exports =
                         "Steel Carapace": {
                             "owned": false, "date": null
                         },
-                        "Templar\'s Might": {
+                        "Templar's Might": {
                             "owned": false, "date": null
                         },
-                        "Tyrael\'s Might": {
+                        "Tyrael's Might": {
                             "owned": false, "date": null
                         }
                     }
                 },
-                "helms": {
+                "Helms": {
                     "normal": {
-                        "Biggin\'s Bonnet": {
+                        "Jalal's Mane": {
+                            "owned": false, "date": null
+                        },
+                        "Cerebus' Bite": {
+                            "owned": false, "date": null
+                        },
+                        "Ravenlore": {
+                            "owned": false, "date": null
+                        },
+                        "Spirit Keeper": {
+                            "owned": false, "date": null
+                        },
+                        "Arreat's Face": {
+                            "owned": false, "date": null
+                        },
+                        "Demonhorn's Edge": {
+                            "owned": false, "date": null
+                        },
+                        "Halaberd's Reign": {
+                            "owned": false, "date": null
+                        },
+                        "Wolfhowl": {
+                            "owned": false, "date": null
+                        },
+                        "Biggin's Bonnet": {
                             "owned": false, "date": null
                         },
                         "Tarnhelm": {
@@ -170,12 +194,12 @@ module.exports =
                         "Crowned of Thieves": {
                             "owned": false, "date": null
                         },
-                        "Blackhorn\'s Face": {
+                        "Blackhorn's Face": {
                             "owned": false, "date": null
                         }
                     },
                     "elite": {
-                        "Andariel\'s Visage": {
+                        "Andariel's Visage": {
                             "owned": false, "date": null
                         },
                         "Crowned of Ages": {
@@ -187,7 +211,7 @@ module.exports =
                         "Harlequin Crest": {
                             "owned": false, "date": null
                         },
-                        "Nightwing\'s Veil": {
+                        "Nightwing's Veil": {
                             "owned": false, "date": null
                         },
                         "Steel Shade": {
@@ -198,17 +222,7 @@ module.exports =
                         }
                     }
                 },
-                "circlet": {
-                    "elite": {
-                        "Kira\'s Guardian": {
-                            "owned": false, "date": null
-                        },
-                        "Griffon\'s Eye": {
-                            "owned": false, "date": null
-                        }
-                    }
-                },
-                "glove": {
+                "Gloves": {
                     "normal": {
                         "The Hand of Broc": {
                             "owned": false, "date": null
@@ -244,7 +258,7 @@ module.exports =
                         }
                     },
                     "elite": {
-                        "Dracul\'s Grasp": {
+                        "Dracul's Grasp": {
                             "owned": false, "date": null
                         },
                         "Soul Drainer": {
@@ -255,7 +269,7 @@ module.exports =
                         }
                     }
                 },
-                "belts": {
+                "Belts": {
                     "normal": {
                         "Lenymo": {
                             "owned": false, "date": null
@@ -280,13 +294,13 @@ module.exports =
                         "Razortail": {
                             "owned": false, "date": null
                         },
-                        "Gloom\'s Trap": {
+                        "Gloom's Trap": {
                             "owned": false, "date": null
                         },
                         "Snowclash": {
                             "owned": false, "date": null
                         },
-                        "Thundergod\'s Vigor": {
+                        "Thundergod's Vigor": {
                             "owned": false, "date": null
                         }
                     },
@@ -294,15 +308,15 @@ module.exports =
                         "Arachnid Mesh": {
                             "owned": false, "date": null
                         },
-                        "Nosferatu\'s Coil": {
+                        "Nosferatu's Coil": {
                             "owned": false, "date": null
                         },
-                        "Verdungo\'s Hearty Cord": {
+                        "Verdungo's Hearty Cord": {
                             "owned": false, "date": null
                         }
                     }
                 },
-                "boots": {
+                "Boots": {
                     "normal": {
                         "Hotspur": {
                             "owned": false, "date": null
@@ -349,8 +363,26 @@ module.exports =
                         }
                     }
                 },
-                "shields": {
+                "Shields": {
                     "normal": {
+                        "Herald Of Zakarum": {
+                            "owned": false, "date": null
+                        },
+                        "Alma Negra": {
+                            "owned": false, "date": null
+                        },
+                        "Dragonscale": {
+                            "owned": false, "date": null
+                        },
+                        "Homunculus": {
+                            "owned": false, "date": null
+                        },
+                        "Boneflame": {
+                            "owned": false, "date": null
+                        },
+                        "Darkforce Spawn": {
+                            "owned": false, "date": null
+                        },
                         "Pelta Lunata": {
                             "owned": false, "date": null
                         },
@@ -380,7 +412,7 @@ module.exports =
                         "Visceratuant": {
                             "owned": false, "date": null
                         },
-                        "Moser\'s Blessed Circle": {
+                        "Moser's Blessed Circle": {
                             "owned": false, "date": null
                         },
                         "Stormchaser": {
@@ -389,16 +421,16 @@ module.exports =
                         "Lance Guard": {
                             "owned": false, "date": null
                         },
-                        "Tiamat\'s Rebuke": {
+                        "Tiamat's Rebuke": {
                             "owned": false, "date": null
                         },
                         "Lidless Wall": {
                             "owned": false, "date": null
                         },
-                        "Gerke\'s Sanctuary": {
+                        "Gerke's Sanctuary": {
                             "owned": false, "date": null
                         },
-                        "Radament\'s Sphere": {
+                        "Radament's Sphere": {
                             "owned": false, "date": null
                         }
                     },
@@ -409,10 +441,10 @@ module.exports =
                         "Stormshield": {
                             "owned": false, "date": null
                         },
-                        "Head Hunter\'s Glory": {
+                        "Head Hunter's Glory": {
                             "owned": false, "date": null
                         },
-                        "Medusa\'s Gaze": {
+                        "Medusa's Gaze": {
                             "owned": false, "date": null
                         },
                         "Spike Thorn": {
@@ -424,8 +456,8 @@ module.exports =
                     }
                 }
             },
-            "weapons": {
-                "axes": {
+            "Weapon": {
+                "Axes": {
                     "normal": {
                         "The Gnasher": {
                             "owned": false, "date": null
@@ -462,19 +494,19 @@ module.exports =
                         "Coldkill": {
                             "owned": false, "date": null
                         },
-                        "Butcher\'s Pupil": {
+                        "Butcher's Pupil": {
                             "owned": false, "date": null
                         },
                         "Islestrike": {
                             "owned": false, "date": null
                         },
-                        "Pompeii\'s Wrath": {
+                        "Pompeii's Wrath": {
                             "owned": false, "date": null
                         },
                         "Guardian Naga": {
                             "owned": false, "date": null
                         },
-                        "Warlord\'s Trust": {
+                        "Warlord's Trust": {
                             "owned": false, "date": null
                         },
                         "Spellsteel": {
@@ -491,7 +523,7 @@ module.exports =
                         }
                     },
                     "elite": {
-                        "Razor\'s Edge": {
+                        "Razor's Edge": {
                             "owned": false, "date": null
                         },
                         "Rune Master": {
@@ -509,16 +541,19 @@ module.exports =
                         "Hellslayer": {
                             "owned": false, "date": null
                         },
-                        "Messerschmidt\'s Reaver": {
+                        "Messerschmidt's Reaver": {
                             "owned": false, "date": null
                         },
-                        "Executioner\'s Justice": {
+                        "Executioner's Justice": {
                             "owned": false, "date": null
                         }
                     }
                 },
-                "bows": {
+                "Bows": {
                     "normal": {
+                        "Blood Raven's Charge": {
+                            "owned": false, "date": null
+                        },
                         "Pluckeye": {
                             "owned": false, "date": null
                         },
@@ -528,7 +563,7 @@ module.exports =
                         "Raven Claw": {
                             "owned": false, "date": null
                         },
-                        "Rogue\'s Bow": {
+                        "Rogue's Bow": {
                             "owned": false, "date": null
                         },
                         "Stormstrike": {
@@ -541,6 +576,9 @@ module.exports =
                             "owned": false, "date": null
                         },
                         "Blastbark": {
+                            "owned": false, "date": null
+                        },
+                        "Lycander's Aim": {
                             "owned": false, "date": null
                         }
                     },
@@ -582,7 +620,7 @@ module.exports =
                         }
                     }
                 },
-                "crossbows": {
+                "Crossbows": {
                     "normal": {
                         "Leadcrow": {
                             "owned": false, "date": null
@@ -620,7 +658,7 @@ module.exports =
                         }
                     }
                 },
-                "daggers": {
+                "Daggers": {
                     "normal": {
                         "Gull": {
                             "owned": false, "date": null
@@ -642,7 +680,7 @@ module.exports =
                         "Heart Carver": {
                             "owned": false, "date": null
                         },
-                        "Blackbog\'s Sharp": {
+                        "Blackbog's Sharp": {
                             "owned": false, "date": null
                         },
                         "Stormspike": {
@@ -661,7 +699,7 @@ module.exports =
                         }
                     }
                 },
-                "maces": {
+                "Maces": {
                     "normal": {
                         "Felloak": {
                             "owned": false, "date": null
@@ -675,7 +713,7 @@ module.exports =
                         "Bloodrise": {
                             "owned": false, "date": null
                         },
-                        "The General\'s Tan Do Li Ga": {
+                        "The General's Tan Do Li Ga": {
                             "owned": false, "date": null
                         },
                         "Ironstone": {
@@ -701,7 +739,7 @@ module.exports =
                         "Moonfall": {
                             "owned": false, "date": null
                         },
-                        "Baezil\'s Vortex": {
+                        "Baezil's Vortex": {
                             "owned": false, "date": null
                         },
                         "Earthshaker": {
@@ -710,15 +748,15 @@ module.exports =
                         "Bloodtree Stump": {
                             "owned": false, "date": null
                         },
-                        "The Gavel of Pain": {
+                        "The Gavel Of Pain": {
                             "owned": false, "date": null
                         }
                     },
                     "elite": {
-                        "Nord\'s Tenderizer": {
+                        "Nord's Tenderizer": {
                             "owned": false, "date": null
                         },
-                        "Baranar\'s Star": {
+                        "Baranar's Star": {
                             "owned": false, "date": null
                         },
                         "Demon Limb": {
@@ -727,13 +765,13 @@ module.exports =
                         "Stormlash": {
                             "owned": false, "date": null
                         },
-                        "Horizon\'s Tornado": {
+                        "Horizon's Tornado": {
                             "owned": false, "date": null
                         },
                         "Stone Crusher": {
                             "owned": false, "date": null
                         },
-                        "Schaefer\'s Hammer": {
+                        "Schaefer's Hammer": {
                             "owned": false, "date": null
                         },
                         "Windhammer": {
@@ -747,9 +785,9 @@ module.exports =
                         }
                     }
                 },
-                "polearms": {
+                "Polearms": {
                     "normal": {
-                        "Dimoak\'s Hew": {
+                        "Dimoak's Hew": {
                             "owned": false, "date": null
                         },
                         "Steelgoad": {
@@ -775,7 +813,7 @@ module.exports =
                         "Blackleach Blade": {
                             "owned": false, "date": null
                         },
-                        "Athena\'s Wrath": {
+                        "Athena's Wrath": {
                             "owned": false, "date": null
                         },
                         "Pierre Tombale Couant": {
@@ -784,7 +822,7 @@ module.exports =
                         "Husoldal Evo": {
                             "owned": false, "date": null
                         },
-                        "Grim\'s Burning Dead": {
+                        "Grim's Burning Dead": {
                             "owned": false, "date": null
                         }
                     },
@@ -792,7 +830,7 @@ module.exports =
                         "Bonehew": {
                             "owned": false, "date": null
                         },
-                        "The Reaper\'s Toll": {
+                        "The Reaper's Toll": {
                             "owned": false, "date": null
                         },
                         "Tomb Reaver": {
@@ -803,7 +841,7 @@ module.exports =
                         }
                     }
                 },
-                "scepters": {
+                "Scepters": {
                     "normal": {
                         "Knell Striker": {
                             "owned": false, "date": null
@@ -816,7 +854,7 @@ module.exports =
                         }
                     },
                     "exceptional": {
-                        "Zakarum\'s Hand": {
+                        "Zakarum's Hand": {
                             "owned": false, "date": null
                         },
                         "The Fetid Sprinkler": {
@@ -827,10 +865,10 @@ module.exports =
                         }
                     },
                     "elite": {
-                        "Astreon\'s Iron Ward": {
+                        "Astreon's Iron Ward": {
                             "owned": false, "date": null
                         },
-                        "Heaven\'s Light": {
+                        "Heaven's Light": {
                             "owned": false, "date": null
                         },
                         "The Redeemer": {
@@ -838,8 +876,14 @@ module.exports =
                         }
                     }
                 },
-                "spears": {
+                "Spears": {
                     "normal": {
+                        "Stoneraven": {
+                            "owned": false, "date": null
+                        },
+                        "Lycander's Flank": {
+                            "owned": false, "date": null
+                        },
                         "The Dragon Chang": {
                             "owned": false, "date": null
                         },
@@ -874,7 +918,7 @@ module.exports =
                         }
                     },
                     "elite": {
-                        "Arioc\'s Needle": {
+                        "Arioc's Needle": {
                             "owned": false, "date": null
                         },
                         "Steel Pillar": {
@@ -885,7 +929,7 @@ module.exports =
                         }
                     }
                 },
-                "staves": {
+                "Staves": {
                     "normal": {
                         "Bane Ash": {
                             "owned": false, "date": null
@@ -921,17 +965,17 @@ module.exports =
                         }
                     },
                     "elite": {
-                        "Mang Song\'s Lesson": {
+                        "Mang Song's Lesson": {
                             "owned": false, "date": null
                         },
-                        "Ondal\'s Wisdom": {
+                        "Ondal's Wisdom": {
                             "owned": false, "date": null
                         }
                     }
                 },
-                "swords": {
+                "Swords": {
                     "normal": {
-                        "Rixot\'s Keen": {
+                        "Rixot's Keen": {
                             "owned": false, "date": null
                         },
                         "Blood Crescent": {
@@ -943,13 +987,13 @@ module.exports =
                         "Gleamscythe": {
                             "owned": false, "date": null
                         },
-                        "Griswold\'s Edge": {
+                        "Griswold's Edge": {
                             "owned": false, "date": null
                         },
                         "Hellplague": {
                             "owned": false, "date": null
                         },
-                        "Culwen\'s Point": {
+                        "Culwen's Point": {
                             "owned": false, "date": null
                         },
                         "Shadowfang": {
@@ -958,7 +1002,7 @@ module.exports =
                         "Soulflay": {
                             "owned": false, "date": null
                         },
-                        "Kinemil\'s Awl": {
+                        "Kinemil's Awl": {
                             "owned": false, "date": null
                         },
                         "Blacktongue": {
@@ -981,10 +1025,10 @@ module.exports =
                         "Hexfire": {
                             "owned": false, "date": null
                         },
-                        "Blade of Ali Baba": {
+                        "Blade Of Ali Baba": {
                             "owned": false, "date": null
                         },
-                        "Ginther\'s Rift": {
+                        "Ginther's Rift": {
                             "owned": false, "date": null
                         },
                         "Headstriker": {
@@ -1042,8 +1086,17 @@ module.exports =
                         }
                     }
                 },
-                "wands": {
+                "Wands": {
                     "normal": {
+                        "The Oculus": {
+                            "owned": false, "date": null
+                        },
+                        "Death's Fathom": {
+                            "owned": false, "date": null
+                        },
+                        "Eschuta's Temper": {
+                            "owned": false, "date": null
+                        },
                         "Torch of Iro": {
                             "owned": false, "date": null
                         },
@@ -1053,7 +1106,7 @@ module.exports =
                         "Gravenspine": {
                             "owned": false, "date": null
                         },
-                        "Ume\'s Lament": {
+                        "Ume's Lament": {
                             "owned": false, "date": null
                         }
                     },
@@ -1075,12 +1128,20 @@ module.exports =
                         "Boneshade": {
                             "owned": false, "date": null
                         },
-                        "Death\'s Web": {
+                        "Death's Web": {
                             "owned": false, "date": null
                         }
                     }
                 },
-                "throwing": {
+                "Throwing": {
+                    "normal": {
+                        "Titan's Revenge": {
+                            "owned": false, "date": null
+                        },
+                        "Thunderstroke": {
+                            "owned": false, "date": null
+                        }
+                    },
                     "exceptional": {
                         "Deathbit": {
                             "owned": false, "date": null
@@ -1099,21 +1160,50 @@ module.exports =
                         "Warshrike": {
                             "owned": false, "date": null
                         },
-                        "Demon\'s Arch": {
+                        "Demon's Arch": {
                             "owned": false, "date": null
                         },
                         "Wraith Flight": {
                             "owned": false, "date": null
                         },
-                        "Gargoyle\'s Bite": {
+                        "Gargoyle's Bite": {
                             "owned": false, "date": null
                         }
                     }
-                }
+                },
+                "Fists" : {
+                    "normal": {
+                        "Stoneraven": {
+                            "owned": false, "date": null
+                        },
+                        "Bartuc's Cut-Throat": {
+                            "owned": false, "date": null
+                        },
+                        "Firelizard's Talons": {
+                            "owned": false, "date": null
+                        },
+                        "Jade Talon": {
+                            "owned": false, "date": null
+                        },
+                        "Shadow Killer": {
+                            "owned": false, "date": null
+                        }
+                    }
+                } 
             },
-            "others": {
-                "jewelry": {
-                    "rings": {
+            "Other": {                
+                "Circlet": {
+                    "normal": {
+                        "Kira's Guardian": {
+                            "owned": false, "date": null
+                        },
+                        "Griffon's Eye": {
+                            "owned": false, "date": null
+                        }
+                    }
+                },                
+                "Rings": {
+                    "normal": {
                         "Nagelring": {
                             "owned": false, "date": null
                         },
@@ -1129,20 +1219,22 @@ module.exports =
                         "Raven Frost": {
                             "owned": false, "date": null
                         },
-                        "Bul-Kathos\' Wedding Band": {
+                        "Bul-Kathos' Wedding Band": {
                             "owned": false, "date": null
                         },
                         "Carrion Wind": {
                             "owned": false, "date": null
                         },
-                        "Nature\'s Peace": {
+                        "Nature's Peace": {
                             "owned": false, "date": null
                         },
                         "Wisp Projector": {
                             "owned": false, "date": null
                         }
-                    },
-                    "amulets": {
+                    },                        
+                },
+                "Amulets": {
+                    "normal": {
                         "Nokozan Relic": {
                             "owned": false, "date": null
                         },
@@ -1152,10 +1244,10 @@ module.exports =
                         "The Mahim-Oak Curio": {
                             "owned": false, "date": null
                         },
-                        "Saracen\'s Chance": {
+                        "Saracen's Chance": {
                             "owned": false, "date": null
                         },
-                        "The Cat\'s Eye": {
+                        "The Cat's Eye": {
                             "owned": false, "date": null
                         },
                         "The Rising Sun": {
@@ -1164,29 +1256,29 @@ module.exports =
                         "Crescent Moon": {
                             "owned": false, "date": null
                         },
-                        "Atma\'s Scarab": {
+                        "Atma's Scarab": {
                             "owned": false, "date": null
                         },
-                        "Highlord\'s Wrath": {
+                        "Highlord's Wrath": {
                             "owned": false, "date": null
                         },
-                        "Mara\'s Kaleidoscope": {
+                        "Mara's Kaleidoscope": {
                             "owned": false, "date": null
                         },
-                        "Seraph\'s Hymn": {
+                        "Seraph's Hymn": {
                             "owned": false, "date": null
                         },
                         "Metalgrid": {
                             "owned": false, "date": null
                         }
-                    }
+                    }                    
                 },
-                "charms": {
-                    "all": {
+                "Charms": {
+                    "normal": {
                         "Annihilus": {
                             "owned": false, "date": null
                         },
-                        "Gheed\'s Fortune": {
+                        "Gheed's Fortune": {
                             "owned": false, "date": null
                         },
                         "Hellfire Torch": {
@@ -1194,7 +1286,7 @@ module.exports =
                         }
                     }
                 },
-                "rainbow facet jewel": {
+                "Jewels": {
                     "level up": {
                         "Cold": {
                             "owned": false, "date": null
@@ -1223,103 +1315,6 @@ module.exports =
                             "owned": false, "date": null
                         }
                     }
-                },
-                "classes": {
-                    "amazon": {
-                        "Lycander\'s Aim": {
-                            "owned": false, "date": null
-                        },
-                        "Titan\'s Revenge": {
-                            "owned": false, "date": null
-                        },
-                        "Lycander\'s Flank": {
-                            "owned": false, "date": null
-                        },
-                        "Blood Raven\'s Charge": {
-                            "owned": false, "date": null
-                        },
-                        "Thunderstroke": {
-                            "owned": false, "date": null
-                        },
-                        "Stoneraven": {
-                            "owned": false, "date": null
-                        }
-                    },
-                    "assasin": {
-                        "Bartuc\'s Cut-Throat": {
-                            "owned": false, "date": null
-                        },
-                        "Firelizard\'s Talons": {
-                            "owned": false, "date": null
-                        },
-                        "Jade Talon": {
-                            "owned": false, "date": null
-                        },
-                        "Shadow Killer": {
-                            "owned": false, "date": null
-                        }
-                    },
-                    "barbarian": {
-                        "Arreat\'s Face": {
-                            "owned": false, "date": null
-                        },
-                        "Demonhorn\'s Edge": {
-                            "owned": false, "date": null
-                        },
-                        "Halaberd\'s Reign": {
-                            "owned": false, "date": null
-                        },
-                        "Wolfhowl": {
-                            "owned": false, "date": null
-                        }
-                    },
-                    "druid": {
-                        "Jalal\'s Mane": {
-                            "owned": false, "date": null
-                        },
-                        "Cerebus\' Bite": {
-                            "owned": false, "date": null
-                        },
-                        "Ravenlore": {
-                            "owned": false, "date": null
-                        },
-                        "Spirit Keeper": {
-                            "owned": false, "date": null
-                        }
-                    },
-                    "necromancer": {
-                        "Homunculus": {
-                            "owned": false, "date": null
-                        },
-                        "Boneflame": {
-                            "owned": false, "date": null
-                        },
-                        "Darkforce Spawn": {
-                            "owned": false, "date": null
-                        }
-                    },
-                    "paladin": {
-                        "Herald of Zakarum": {
-                            "owned": false, "date": null
-                        },
-                        "Alma Negra": {
-                            "owned": false, "date": null
-                        },
-                        "Dragonscale": {
-                            "owned": false, "date": null
-                        }
-                    },
-                    "sorceress": {
-                        "The Oculus": {
-                            "owned": false, "date": null
-                        },
-                        "Death\'s Fathom": {
-                            "owned": false, "date": null
-                        },
-                        "Eschuta\'s Temper": {
-                            "owned": false, "date": null
-                        }
-                    }
                 }
             }
         },
@@ -1338,17 +1333,17 @@ module.exports =
                     "owned": false, "date": null
                 }
             },
-            "Arcanna\'s Tricks": {
-                "Arcanna\'s Sign": {
+            "Arcanna's Tricks": {
+                "Arcanna's Sign": {
                     "owned": false, "date": null
                 },
-                "Arcanna\'s Head": {
+                "Arcanna's Head": {
                     "owned": false, "date": null
                 },
-                "Arcanna\'s Flesh": {
+                "Arcanna's Flesh": {
                     "owned": false, "date": null
                 },
-                "Arcanna\'s Deathwand": {
+                "Arcanna's Deathwand": {
                     "owned": false, "date": null
                 }
             },
@@ -1366,75 +1361,75 @@ module.exports =
                     "owned": false, "date": null
                 }
             },
-            "Berserker\'s Arsenal": {
-                "Berserker\'s Hatchet": {
+            "Berserker's Arsenal": {
+                "Berserker's Hatchet": {
                     "owned": false, "date": null
                 },
-                "Berserker\'s Hauberk": {
+                "Berserker's Hauberk": {
                     "owned": false, "date": null
                 },
-                "Berserker\'s Headgear": {
+                "Berserker's Headgear": {
                     "owned": false, "date": null
                 }
             },
-            "Cathan\'s Traps": {
-                "Cathan\'s Seal": {
+            "Cathan's Traps": {
+                "Cathan's Seal": {
                     "owned": false, "date": null
                 },
-                "Cathan\'s Sigil": {
+                "Cathan's Sigil": {
                     "owned": false, "date": null
                 },
-                "Cathan\'s Visage": {
+                "Cathan's Visage": {
                     "owned": false, "date": null
                 },
-                "Cathan\'s Mesh": {
+                "Cathan's Mesh": {
                     "owned": false, "date": null
                 },
-                "Cathan\'s Rule": {
+                "Cathan's Rule": {
                     "owned": false, "date": null
                 }
             },
-            "Civerb\'s Vestments": {
-                "Civerb\'s Cudgel": {
+            "Civerb's Vestments": {
+                "Civerb's Cudgel": {
                     "owned": false, "date": null
                 },
-                "Civerb\'s Ward": {
+                "Civerb's Ward": {
                     "owned": false, "date": null
                 },
-                "Civerb\'s Icon": {
+                "Civerb's Icon": {
                     "owned": false, "date": null
                 }
             },
-            "Cleglaw\'s Brace": {
-                "Cleglaw\'s Tooth": {
+            "Cleglaw's Brace": {
+                "Cleglaw's Tooth": {
                     "owned": false, "date": null
                 },
-                "Cleglaw\'s Claw": {
+                "Cleglaw's Claw": {
                     "owned": false, "date": null
                 },
-                "Cleglaw\'s Pincers": {
+                "Cleglaw's Pincers": {
                     "owned": false, "date": null
                 }
             },
-            "Death\'s Disguise": {
-                "Death\'s Touch": {
+            "Death's Disguise": {
+                "Death's Touch": {
                     "owned": false, "date": null
                 },
-                "Death\'s Guard": {
+                "Death's Guard": {
                     "owned": false, "date": null
                 },
-                "Death\'s Hand": {
+                "Death's Hand": {
                     "owned": false, "date": null
                 }
             },
-            "Hsaru\'s Defense": {
-                "Hsarus\' Iron Stay": {
+            "Hsaru's Defense": {
+                "Hsarus' Iron Stay": {
                     "owned": false, "date": null
                 },
-                "Hsarus\' Iron Fist": {
+                "Hsarus' Iron Fist": {
                     "owned": false, "date": null
                 },
-                "Hsarus\' Iron Heel": {
+                "Hsarus' Iron Heel": {
                     "owned": false, "date": null
                 }
             },
@@ -1449,289 +1444,289 @@ module.exports =
                     "owned": false, "date": null
                 }
             },
-            "Iratha\'s Finery": {
-                "Iratha\'s Coil": {
+            "Iratha's Finery": {
+                "Iratha's Coil": {
                     "owned": false, "date": null
                 },
-                "Iratha\'s Cuff": {
+                "Iratha's Cuff": {
                     "owned": false, "date": null
                 },
-                "Iratha\'s Cord": {
+                "Iratha's Cord": {
                     "owned": false, "date": null
                 },
-                "Iratha\'s Collar": {
+                "Iratha's Collar": {
                     "owned": false, "date": null
                 }
             },
-            "Isenhart\'s Armory": {
-                "Isenhart\'s Lightbrand": {
+            "Isenhart's Armory": {
+                "Isenhart's Lightbrand": {
                     "owned": false, "date": null
                 },
-                "Isenhart\'s Case": {
+                "Isenhart's Case": {
                     "owned": false, "date": null
                 },
-                "Isenhart\'s Horns": {
+                "Isenhart's Horns": {
                     "owned": false, "date": null
                 },
-                "Isenhart\'s Parry": {
+                "Isenhart's Parry": {
                     "owned": false, "date": null
                 }
             },
-            "Milabrega\'s Regalia": {
-                "Milabrega\'s Rod": {
+            "Milabrega's Regalia": {
+                "Milabrega's Rod": {
                     "owned": false, "date": null
                 },
-                "Milabrega\'s Robe": {
+                "Milabrega's Robe": {
                     "owned": false, "date": null
                 },
-                "Milabrega\'s Diadem": {
+                "Milabrega's Diadem": {
                     "owned": false, "date": null
                 },
-                "Milabrega\'s Orb": {
+                "Milabrega's Orb": {
                     "owned": false, "date": null
                 }
             },
-            "Sigon\'s Complete Steel": {
-                "Sigon\'s Shelter": {
+            "Sigon's Complete Steel": {
+                "Sigon's Shelter": {
                     "owned": false, "date": null
                 },
-                "Sigon\'s Visor": {
+                "Sigon's Visor": {
                     "owned": false, "date": null
                 },
-                "Sigon\'s Guard": {
+                "Sigon's Guard": {
                     "owned": false, "date": null
                 },
-                "Sigon\'s Gage": {
+                "Sigon's Gage": {
                     "owned": false, "date": null
                 },
-                "Sigon\'s Sabot": {
+                "Sigon's Sabot": {
                     "owned": false, "date": null
                 },
-                "Sigon\'s Wrap": {
+                "Sigon's Wrap": {
                     "owned": false, "date": null
                 }
             },
-            "Tancred\'s Battlegear": {
-                "Tancred\'s Skull": {
+            "Tancred's Battlegear": {
+                "Tancred's Skull": {
                     "owned": false, "date": null
                 },
-                "Tancred\'s Weird": {
+                "Tancred's Weird": {
                     "owned": false, "date": null
                 },
-                "Tancred\'s Hobnails": {
+                "Tancred's Hobnails": {
                     "owned": false, "date": null
                 },
-                "Tancred\'s Spine": {
+                "Tancred's Spine": {
                     "owned": false, "date": null
                 },
-                "Tancred\'s Crowbill": {
+                "Tancred's Crowbill": {
                     "owned": false, "date": null
                 }
             },
-            "Vidala\'s Rig": {
-                "Vidala\'s Snare": {
+            "Vidala's Rig": {
+                "Vidala's Snare": {
                     "owned": false, "date": null
                 },
-                "Vidala\'s Ambush": {
+                "Vidala's Ambush": {
                     "owned": false, "date": null
                 },
-                "Vidala\'s Fetlock": {
+                "Vidala's Fetlock": {
                     "owned": false, "date": null
                 },
-                "Vidala\'s Barb": {
+                "Vidala's Barb": {
                     "owned": false, "date": null
                 }
             },
-            "Aldur\'s Watchtower": {
-                "Aldur\'s Rhythm": {
+            "Aldur's Watchtower": {
+                "Aldur's Rhythm": {
                     "owned": false, "date": null
                 },
-                "Aldur\'s Stony Gaze": {
+                "Aldur's Stony Gaze": {
                     "owned": false, "date": null
                 },
-                "Aldur\'s Deception": {
+                "Aldur's Deception": {
                     "owned": false, "date": null
                 },
-                "Aldur\'s Advance": {
+                "Aldur's Advance": {
                     "owned": false, "date": null
                 }
             },
-            "Bul-Kathos\' Children": {
-                "Bul-Kathos\' Sacred Charge": {
+            "Bul-Kathos' Children": {
+                "Bul-Kathos' Sacred Charge": {
                     "owned": false, "date": null
                 },
-                "Bul-Kathos\' Tribal Guardian": {
+                "Bul-Kathos' Tribal Guardian": {
                     "owned": false, "date": null
                 }
             },
-            "Cow King\'s Leathers": {
-                "Cow King\'s Horns": {
+            "Cow King's Leathers": {
+                "Cow King's Horns": {
                     "owned": false, "date": null
                 },
-                "Cow King\'s Hide": {
+                "Cow King's Hide": {
                     "owned": false, "date": null
                 },
-                "Cow King\'s Hooves": {
+                "Cow King's Hooves": {
                     "owned": false, "date": null
                 }
             },
-            "Griswold\'s Legacy": {
-                "Griswold\'s Redemption": {
+            "Griswold's Legacy": {
+                "Griswold's Redemption": {
                     "owned": false, "date": null
                 },
-                "Griswold\'s Valor": {
+                "Griswold's Valor": {
                     "owned": false, "date": null
                 },
-                "Griswold\'s Heart": {
+                "Griswold's Heart": {
                     "owned": false, "date": null
                 },
-                "Griswold\'s Honor": {
+                "Griswold's Honor": {
                     "owned": false, "date": null
                 }
             },
-            "Heaven\'s Brethren": {
-                "Dangoon\'s Teaching": {
+            "Heaven's Brethren": {
+                "Dangoon's Teaching": {
                     "owned": false, "date": null
                 },
-                "Haemosu\'s Adamant": {
+                "Haemosu's Adamant": {
                     "owned": false, "date": null
                 },
-                "Taebaek\'s Glory": {
+                "Taebaek's Glory": {
                     "owned": false, "date": null
                 },
-                "Ondal\'s Almighty": {
+                "Ondal's Almighty": {
                     "owned": false, "date": null
                 }
             },
-            "Hwanin\'s Majesty": {
-                "Hwanin\'s Justice": {
+            "Hwanin's Majesty": {
+                "Hwanin's Justice": {
                     "owned": false, "date": null
                 },
-                "Hwanin\'s Refuge": {
+                "Hwanin's Refuge": {
                     "owned": false, "date": null
                 },
-                "Hwanin\'s Splendor": {
+                "Hwanin's Splendor": {
                     "owned": false, "date": null
                 },
-                "Hwanin\'s Blessing": {
+                "Hwanin's Blessing": {
                     "owned": false, "date": null
                 }
             },
             "Immortal King": {
-                "Immortal King\'s Stone Crusher": {
+                "Immortal King's Stone Crusher": {
                     "owned": false, "date": null
                 },
-                "Immortal King\'s Will": {
+                "Immortal King's Will": {
                     "owned": false, "date": null
                 },
-                "Immortal King\'s Soul Cage": {
+                "Immortal King's Soul Cage": {
                     "owned": false, "date": null
                 },
-                "Immortal King\'s Detail": {
+                "Immortal King's Detail": {
                     "owned": false, "date": null
                 },
-                "Immortal King\'s Forge": {
+                "Immortal King's Forge": {
                     "owned": false, "date": null
                 },
-                "Immortal King\'s Pillar": {
+                "Immortal King's Pillar": {
                     "owned": false, "date": null
                 }
             },
-            "M\'avina\'s Battle Hymn": {
-                "M\'avina\'s Caster": {
+            "M'avina's Battle Hymn": {
+                "M'avina's Caster": {
                     "owned": false, "date": null
                 },
-                "M\'avina\'s Embrace": {
+                "M'avina's Embrace": {
                     "owned": false, "date": null
                 },
-                "M\'avina\'s false Sight": {
+                "M'avina's false Sight": {
                     "owned": false, "date": null
                 },
-                "M\'avina\'s Tenet": {
+                "M'avina's Tenet": {
                     "owned": false, "date": null
                 },
-                "M\'avina\'s Icy Clutch": {
+                "M'avina's Icy Clutch": {
                     "owned": false, "date": null
                 }
             },
-            "Naj\'s Ancient Vestige": {
-                "Naj\'s Circlet": {
+            "Naj's Ancient Vestige": {
+                "Naj's Circlet": {
                     "owned": false, "date": null
                 },
-                "Naj\'s Light Plate": {
+                "Naj's Light Plate": {
                     "owned": false, "date": null
                 },
-                "Naj\'s Puzzler": {
+                "Naj's Puzzler": {
                     "owned": false, "date": null
                 }
             },
-            "Natalya\'s Odium": {
-                "Natalya\'s Mark": {
+            "Natalya's Odium": {
+                "Natalya's Mark": {
                     "owned": false, "date": null
                 },
-                "Natalya\'s Shadow": {
+                "Natalya's Shadow": {
                     "owned": false, "date": null
                 },
-                "Natalya\'s Totem": {
+                "Natalya's Totem": {
                     "owned": false, "date": null
                 },
-                "Natalya\'s Soul": {
+                "Natalya's Soul": {
                     "owned": false, "date": null
                 }
             },
-            "Orphan\'s Call": {
-                "Whitstan\'s Guard": {
+            "Orphan's Call": {
+                "Whitstan's Guard": {
                     "owned": false, "date": null
                 },
-                "Guillaume\'s Face": {
+                "Guillaume's Face": {
                     "owned": false, "date": null
                 },
-                "Wilhelm\'s Pride": {
+                "Wilhelm's Pride": {
                     "owned": false, "date": null
                 },
-                "Magnus\' Skin": {
+                "Magnus' Skin": {
                     "owned": false, "date": null
                 }
             },
-            "Sander\'s Folly": {
-                "Sander\'s Superstition": {
+            "Sander's Folly": {
+                "Sander's Superstition": {
                     "owned": false, "date": null
                 },
-                "Sander\'s Paragon": {
+                "Sander's Paragon": {
                     "owned": false, "date": null
                 },
-                "Sander\'s Taboo": {
+                "Sander's Taboo": {
                     "owned": false, "date": null
                 },
-                "Sander\'s Riprap": {
+                "Sander's Riprap": {
                     "owned": false, "date": null
                 }
             },
-            "Sazabi\'s Grand Tribute": {
-                "Sazabi\'s Cobalt Redeemer": {
+            "Sazabi's Grand Tribute": {
+                "Sazabi's Cobalt Redeemer": {
                     "owned": false, "date": null
                 },
-                "Sazabi\'s Ghost Liberator": {
+                "Sazabi's Ghost Liberator": {
                     "owned": false, "date": null
                 },
-                "Sazabi\'s Mental Sheath": {
+                "Sazabi's Mental Sheath": {
                     "owned": false, "date": null
                 }
             },
-            "Tal Rasha\'s Wrappings": {
-                "Tal Rasha\'s Adjudication": {
+            "Tal Rasha's Wrappings": {
+                "Tal Rasha's Adjudication": {
                     "owned": false, "date": null
                 },
-                "Tal Rasha\'s Lidless Eye": {
+                "Tal Rasha's Lidless Eye": {
                     "owned": false, "date": null
                 },
-                "Tal Rasha\'s Guardianship": {
+                "Tal Rasha's Guardianship": {
                     "owned": false, "date": null
                 },
-                "Tal Rasha\'s Horadric Crest": {
+                "Tal Rasha's Horadric Crest": {
                     "owned": false, "date": null
                 },
-                "Tal Rasha\'s Fine Spun Cloth": {
+                "Tal Rasha's Fine Spun Cloth": {
                     "owned": false, "date": null
                 }
             },
@@ -1752,20 +1747,20 @@ module.exports =
                     "owned": false, "date": null
                 }
             },
-            "Trang-Oul\'s Avatar": {
-                "Trang-Oul\'s Guise": {
+            "Trang-Oul's Avatar": {
+                "Trang-Oul's Guise": {
                     "owned": false, "date": null
                 },
-                "Trang-Oul\'s Scales": {
+                "Trang-Oul's Scales": {
                     "owned": false, "date": null
                 },
-                "Trang-Oul\'s Girth": {
+                "Trang-Oul's Girth": {
                     "owned": false, "date": null
                 },
-                "Trang-Oul\'s Claws": {
+                "Trang-Oul's Claws": {
                     "owned": false, "date": null
                 },
-                "Trang-Oul\'s Wing": {
+                "Trang-Oul's Wing": {
                     "owned": false, "date": null
                 }
             }

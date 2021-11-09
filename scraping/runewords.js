@@ -26,22 +26,28 @@ db = new Sequelize(dbname, username, password, {
 
 const Runewords = db.define('runewords', {
     item: {
-        type: Sequelize.STRING   
+        type: Sequelize.STRING,
+        allowNull: false   
     },
     originalRuneWords: {
-        type: Sequelize.STRING      
+        type: Sequelize.STRING,
+        allowNull: false         
     },
     allowedItems: {
-        type: Sequelize.STRING
+        type: Sequelize.STRING,
+        allowNull: false   
     },
     runeOrder : {
-        type: Sequelize.STRING
+        type: Sequelize.STRING,
+        allowNull: false   
     },
     completedStats : {
-        type: Sequelize.TEXT
+        type: Sequelize.TEXT,
+        allowNull: false   
     },
     image: {
-        type: Sequelize.STRING
+        type: Sequelize.STRING,
+        allowNull: false   
     }
 }, {
     timestamps: false

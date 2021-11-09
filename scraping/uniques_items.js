@@ -26,28 +26,36 @@ db = new Sequelize(dbname, username, password, {
 
 const Unique = db.define('unique_items', {
     kind: {
-        type: Sequelize.STRING   
+        type: Sequelize.STRING,
+        allowNull: false      
     },
     part: {
-        type: Sequelize.STRING      
+        type: Sequelize.STRING,
+        allowNull: false         
     },
     value: {
-        type: Sequelize.STRING
+        type: Sequelize.STRING,
+        allowNull: false   
     },
     name : {
-        type: Sequelize.STRING
+        type: Sequelize.STRING,
+        allowNull: false   
     },
     type : {
-        type: Sequelize.STRING
+        type: Sequelize.STRING,
+        allowNull: false   
     },
     properties: {
-        type: Sequelize.TEXT
+        type: Sequelize.TEXT,
+        allowNull: false   
     },
     item: {
-        type: Sequelize.STRING
+        type: Sequelize.STRING,
+        allowNull: false   
     },    
     image: {
-        type: Sequelize.STRING      
+        type: Sequelize.STRING,
+        allowNull: false       
     }
 }, {
     timestamps: false

@@ -2,7 +2,7 @@
     {
         "kind": "Weapon",
         "part": "Swords",
-        "value": "Elite Unique Weapon",
+        "value": "elite",
         "name": "Djinn Slayer",
         "type": "Ataghan",
         "properties": "One-Hand Damage: (75-88) To (133-156) (104-122 Avg)\nRequired Level: 65\nRequired Strength: 138\nRequired Dexterity: 95\nDurability: 22\nBase Weapon Speed: [-20]\n+190-240% Enhanced Damage (varies)\n+100-150% Damage To Demons (varies)\nAdds 250-500 Fire Damage\n3-6% Mana Stolen Per Hit (varies)\n+3-7 Lightning Absorb (varies)\n+200-300 To Attack Rating Against Demons (varies)\nSocketed (1-2) (varies)\n(Ladder Only)\n(Only Spawns In Patch 1.10 or later)",
@@ -12,7 +12,7 @@
     {
         "kind": "Weapon",
         "part": "Swords",
-        "value": "Elite Unique Weapon",
+        "value": "elite",
         "name": "Bloodmoon",
         "type": "Elegant Blade",
         "properties": "One-Hand Damage: (102-118) To (139-162) (120.5-140 Avg)\nRequired Level: 61\nRequired Strength: 109\nRequired Dexterity: 122\nDurability: 32\nBase Weapon Speed: [-10]\n+210-260% Enhanced Damage (varies)\n10-15% Life Stolen Per Hit (varies)\n50% Chance of Open Wounds\n+7-13 Life After Each Kill (varies)\nLevel 15 Blood Golem (9 charges)\n(Only Spawns In Patch 1.10 or later)",
@@ -22,7 +22,7 @@
     {
         "kind": "Weapon",
         "part": "Swords",
-        "value": "Elite Unique Weapon",
+        "value": "elite",
         "name": "Lightsabre",
         "type": "Phase Blade",
         "properties": "One-Hand Damage: (87-103) To (117-135) (102-119 Avg)\nRequired Level: 58\nRequired Strength: 25\nRequired Dexterity: 136\nBase Weapon Speed: [-30]\n+150-200% Enhanced Damage (varies)\nAdds 10-30 Damage\nAdds 60-120 Magic Damage\nAdds 1-200 Lightning Damage\n5-7% Mana Stolen Per Hit (varies)\n5% Chance To Cast Level 14-20 Chain Lightning On Attack (varies)\n20% Increased Attack Speed\nIgnore Target's Defense\nLightning Absorb 25%\n+7 To Light Radius\n(Only Spawns In Patch 1.10 or later)",
@@ -32,7 +32,7 @@
     {
         "kind": "Weapon",
         "part": "Swords",
-        "value": "Elite Unique Weapon",
+        "value": "elite",
         "name": "Azurewrath",
         "type": "Phase Blade",
         "properties": "One-Hand Damage: (102-114) To (115-129) (108.5-121.5 Avg)\nRequired Level: 85\nRequired Strength: 25\nRequired Dexterity: 136\nBase Weapon Speed: [-30]\n+230-270% Enhanced Damage (varies)\n+30% Increased Attack Speed\nAdds 250-500 Magic Damage\nAdds 250-500 Cold Damage, 10 sec. Duration (Normal)\n+1 To All Skills\n+5-10 To All Attributes (varies)\nLevel 10-13 Sanctuary Aura When Equipped (varies)\n+3 To Light Radius\n(Ladder Only)\n(Only Spawns In Patch 1.10 or later)",
@@ -42,7 +42,7 @@
     {
         "kind": "Weapon",
         "part": "Swords",
-        "value": "Elite Unique Weapon",
+        "value": "elite",
         "name": "Frostwind",
         "type": "Cryptic Sword",
         "properties": "One-Hand Damage: (14-16) To (215-254) (114.5-135 Avg)\nRequired Level: 70\nRequired Strength: 99\nRequired Dexterity: 109\nBase Weapon Speed: [-10]\n+180-230% Enhanced Damage (varies)\nAdds 237-486 Cold Damage, 6 sec. Duration (Normal)\n+7-14 To Arctic Blast* (varies)\nFreezes Target +4\nCold Absorb 7-15% (varies)\nHalf Freeze Duration\n+25% Increased Attack Speed\n(Only Spawns In Patch 1.10 or later)",
@@ -52,7 +52,7 @@
     {
         "kind": "Weapon",
         "part": "Swords",
-        "value": "Elite Unique Weapon",
+        "value": "elite",
         "name": "Flamebellow",
         "type": "Balrog Blade",
         "properties": "One-Hand Damage: (40-51) To (202-255) (121-153 Avg)\nTwo-Hand Damage: (148-187) To (318-401) (233-294 Avg)\nRequired Level: 71\nRequired Strength: 185\nRequired Dexterity: 87\nBase Weapon Speed: [0]\n+170-240% Enhanced Damage (varies)\nAdds 233-482 Fire Damage\n+3 To Fire Skills\n+12-18 To Inferno* (varies)\n+10-20 To Strength (varies)\n+5-10 To Vitality (varies)\n12% Chance To Cast Level 16 Firestorm On Striking\nFire Absorb 20-30% (varies)\n(Only Spawns In Patch 1.10 or later)",
@@ -62,7 +62,7 @@
     {
         "kind": "Weapon",
         "part": "Swords",
-        "value": "Elite Unique Weapon",
+        "value": "elite",
         "name": "Doombringer",
         "type": "Champion Sword",
         "properties": "One-Hand Damage: (97-114) To (251-289) (174-201.5 Avg)\nTwo-Hand Damage: (228-278) To (332-390) (280-334 Avg)\nRequired Level: 69\nRequired Strength: 163\nRequired Dexterity: 103\nBase Weapon Speed: [-10]\n+180-250% Enhanced Damage (varies)\nAdds 30-100 Damage\n8% Chance To Cast Level 3 Weaken On Striking\n40% Bonus To Attack Rating\nIncrease Maximum Life 20%\n5-7% Life Stolen Per Hit (varies)\nIndestructible\n(Only Spawns In Patch 1.09 or later)",
@@ -72,7 +72,7 @@
     {
         "kind": "Weapon",
         "part": "Swords",
-        "value": "Elite Unique Weapon",
+        "value": "elite",
         "name": "The Grandfather",
         "type": "Colossus Blade",
         "properties": "One-Hand Damage: (62-87) To (164-474) (113-280.5 Avg)\nTwo-Hand Damage: (145-203) To (289-649) (217-426 Avg)\nRequired Level: 81\nRequired Strength: 189\nRequired Dexterity: 110\nBase Weapon Speed: [5]\n+150-250% Enhanced Damage (varies)\n+ (2.5 Per Character Level) 2-247 To Maximum Damage (Based On Character Level)\n+50% Bonus To Attack Rating\n+80 To Life\n+20 To All Attributes\nIndestructible\n(Only Spawns In Patch 1.09 or later)",

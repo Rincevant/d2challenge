@@ -24,28 +24,36 @@ db = new Sequelize(dbname, username, password, {
 
 const Set = db.define('set_items', {
     setName: {
-        type: Sequelize.STRING   
+        type: Sequelize.STRING,
+        allowNull: false      
     },
     name: {
-        type: Sequelize.STRING      
+        type: Sequelize.STRING,
+        allowNull: false         
     },
     part: {
-        type: Sequelize.STRING
+        type: Sequelize.STRING,
+        allowNull: false   
     },
     type : {
-        type: Sequelize.STRING
+        type: Sequelize.STRING,
+        allowNull: false   
     },
     kind : {
-        type: Sequelize.STRING
+        type: Sequelize.STRING,
+        allowNull: false   
     },
     item: {
-        type: Sequelize.STRING
+        type: Sequelize.STRING,
+        allowNull: false   
     },
     image: {
-        type: Sequelize.STRING
+        type: Sequelize.STRING,
+        allowNull: false   
     },    
     properties: {
-        type: Sequelize.TEXT      
+        type: Sequelize.TEXT,
+        allowNull: false         
     }
 }, {
     timestamps: false

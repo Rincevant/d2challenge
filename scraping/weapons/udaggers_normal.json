@@ -2,7 +2,7 @@
     {
         "kind": "Weapon",
         "part": "Daggers",
-        "value": "Normal Unique Weapon",
+        "value": "normal",
         "name": "Gull",
         "type": "Dagger",
         "properties": "One-Hand Damage: 2 To 19 (10.5 Avg)\nRequired Level: 4\nDurability: 16\nBase Weapon Speed: [-20]\nAdds 1-15 damage\n100% Better Chance of Getting Magic Item\n-5 to Mana\n(Only Spawns In Patch 1.09 or later)",
@@ -12,7 +12,7 @@
     {
         "kind": "Weapon",
         "part": "Daggers",
-        "value": "Normal Unique Weapon",
+        "value": "normal",
         "name": "The Diggler",
         "type": "Dirk",
         "properties": "One-Hand Damage: 4 To 13 (8.5 Avg)\nRequired Level: 11\nRequired Dexterity: 25\nDurability: 20\nBase Weapon Speed: [0]\n+50% Enhanced Damage\nIgnore Target's Defense\n30% Increased Attack Speed\nCold Resist +25%\nFire Resist +25%\n+10 To Dexterity\n(Only Spawns In Patch 1.09 or later)",
@@ -22,7 +22,7 @@
     {
         "kind": "Weapon",
         "part": "Daggers",
-        "value": "Normal Unique Weapon",
+        "value": "normal",
         "name": "The Jade Tan Do",
         "type": "Kris",
         "properties": "One-Hand Damage: 2 To 11 (6.5 Avg)\nRequired Level: 19\nRequired Dexterity: 45\nDurability: 24\nBase Weapon Speed: [-20]\n+100-150 to Attack Rating (varies)\n+180 Poison Damage Over 4 Seconds\nPoison Resist +95%\n+20% To Maximum Poison Resist\nCannot Be Frozen\n(Only Spawns In Patch 1.09 or later)",
@@ -32,7 +32,7 @@
     {
         "kind": "Weapon",
         "part": "Daggers",
-        "value": "Normal Unique Weapon",
+        "value": "normal",
         "name": "Spectral Shard",
         "type": "Blade",
         "properties": "One-Hand Damage: 4 To 15 (9.5 Avg)\nRequired Level: 25\nRequired Strength: 35\nRequired Dexterity: 51\nDurability: 24\nBase Weapon Speed: [-10]\n50% Faster Cast Rate\n+55 To Attack Rating\nAll Resistances +10\n+50 To Mana\n(Only Spawns In Patch 1.09 or later)",

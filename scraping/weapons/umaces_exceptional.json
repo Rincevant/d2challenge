@@ -2,7 +2,7 @@
     {
         "kind": "Weapon",
         "part": "Maces",
-        "value": "Exceptionnal Unique Weapon",
+        "value": "exceptional",
         "name": "Dark Clan Crusher",
         "type": "Cudgel",
         "properties": "One-Hand Damage: 17 To 61 (39 Avg)\nRequired Level: 34\nRequired Strength: 25\nDurability: 24\nBase Weapon Speed: [-10]\n+195% Enhanced Damage\n+200% Damage To Demons\n+50% Damage To Undead\n+200 To Attack Rating Against Demons\n+20-25% Bonus To Attack Rating (varies)\n+15 Life After Each Demon Kill\n+2 To Druid Skill Levels\n(Only Spawns In Patch 1.09 or later)",
@@ -12,7 +12,7 @@
     {
         "kind": "Weapon",
         "part": "Maces",
-        "value": "Exceptionnal Unique Weapon",
+        "value": "exceptional",
         "name": "Fleshrender",
         "type": "Barbed Club",
         "properties": "One-Hand Damage: (64-74) To (107-125) (85.5-99.5 Avg)\nRequired Level: 38\nRequired Strength: 30\nDurability: 56\nBase Weapon Speed: [0]\n+130-200% Enhanced Damage (varies)\nAdds 35-50 Damage\n+50% Damage To Undead\n20% Deadly Strike\n20% Chance of Crushing Blow\n25% Chance of Open Wounds\n+1 To Druid Skills\n+2 To Shape Shifting Skills (Druid Only)\nPrevent Monster Heal\n(Only Spawns In Patch 1.09 or later)",
@@ -22,7 +22,7 @@
     {
         "kind": "Weapon",
         "part": "Maces",
-        "value": "Exceptionnal Unique Weapon",
+        "value": "exceptional",
         "name": "Sureshrill Frost",
         "type": "Flanged Mace",
         "properties": "One-Hand Damage: (42-47) To (67-74) (54.5-60.5 Avg)\nRequired Level: 39\nRequired Strength: 61\nDurability: 60\nBase Weapon Speed: [0]\n+150-180% Enhanced Damage (varies)\nAdds 5-10 Damage\n+50% Damage To Undead\nAdds 63-112 Cold Damage, 5 sec. Cold Duration (Normal)\nFreezes Target +3\nLevel 9 Frozen Orb (50 Charges)\nCannot Be Frozen\n(Only Spawns In Patch 1.09 or later)",
@@ -32,7 +32,7 @@
     {
         "kind": "Weapon",
         "part": "Maces",
-        "value": "Exceptionnal Unique Weapon",
+        "value": "exceptional",
         "name": "Moonfall",
         "type": "Jagged Star",
         "properties": "One-Hand Damage: (54-60) To (83-92) (68.5-76 Avg)\nRequired Level: 42\nRequired Strength: 74\nDurability: 72\nBase Weapon Speeds: [10]\n+120-150% Enhanced Damage (varies)\nAdds 10-15 Damage\n+50% Damage To Undead\nAdds 55-115 Fire Damage\n5% Chance To Cast Level 6 Meteor On Striking\nLevel 11 Meteor (60 Charges)\nMagic Damage Reduced By 9-12 (varies)\n+2 To Light Radius\n(Only Spawns In Patch 1.09 or later)",
@@ -42,7 +42,7 @@
     {
         "kind": "Weapon",
         "part": "Maces",
-        "value": "Exceptionnal Unique Weapon",
+        "value": "exceptional",
         "name": "Baezil's Vortex",
         "type": "Knout",
         "properties": "One-Hand Damage: (33-39) To (91-105) (62-72 Avg)\nRequired Level: 45\nRequired Strength: 82\nRequired Dexterity: 73\nDurability: 30\nBase Weapon Speed: [-10]\n+160-200% Enhanced Damage (varies)\n+50% Damage To Undead\nAdds 1-150 Lightning Damage\n20% Increased Attack Speed\n5% Chance To Cast Level 8 Nova On Striking\nLevel 15 Nova (80 Charges)\nLightning Resist +25%\n+100 To Mana\n(Only Spawns In Patch 1.09 or later)",
@@ -52,7 +52,7 @@
     {
         "kind": "Weapon",
         "part": "Maces",
-        "value": "Exceptionnal Unique Weapon",
+        "value": "exceptional",
         "name": "Earthshaker",
         "type": "Battle Hammer",
         "properties": "One-Hand Damage: 98 To 162 (130 Avg)\nRequired Level: 43\nRequired Strength: 100\nDurability: 105\nBase Weapon Speed: [20]\n+180% Enhanced Damage\n+50% Damage To Undead\n5% Chance To Cast Level 7 Fissure On Striking\n+30% Increased Attack Speed\nHit Blinds Target\nKnockback\n+3 To Elemental Skills (Druid Only)\n(Only Spawns In Patch 1.09 or later)",
@@ -62,7 +62,7 @@
     {
         "kind": "Weapon",
         "part": "Maces",
-        "value": "Exceptionnal Unique Weapon",
+        "value": "exceptional",
         "name": "Bloodtree Stump",
         "type": "War Club",
         "properties": "Two-Hand Damage: (148-169) To (218-249) (183-209 Avg)\nRequired Level: 48\nRequired Strength: 124\nDurability: 100\nBase Weapon Speed: [10]\n+180-220% Enhanced Damage (varies)\n+50% Damage To Undead\n50% Chance Of Crushing Blow\nAll Resistances +20\n+25 To Strength\n+2 To Masteries (Barbarian Only)\n+3 To Mace Masteries (Barbarian Only)\n(Only Spawns In Patch 1.09 or later)",
@@ -72,7 +72,7 @@
     {
         "kind": "Weapon",
         "part": "Maces",
-        "value": "Exceptionnal Unique Weapon",
+        "value": "exceptional",
         "name": "The Gavel Of Pain",
         "type": "Martel de Fer",
         "properties": "Two-Hand Damage: (152-170) To (257-287) (204.5-228 Avg)\nRequired Level: 45\nRequired Strength: 169\nBase Weapon Speed: [20]\n+130-160% Enhanced Damage (varies)\nAdds 12-30 Damage\n+50% Damage To Undead\n5% Chance To Cast Level 1 Iron Maiden When Struck\n5% Chance To Cast Level 1 Amplify Damage On Striking\nLevel 8 Amplify Damage (3 Charges)\nAttacker Takes Damage of 26\nIndestructible\n(Only Spawns In Patch 1.09 or later)",

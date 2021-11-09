@@ -110,7 +110,7 @@ async function addUniqueToDB(objet) {
         item : objet.item,
         image : objet.image
     }
-
+    //console.log(newObjet)
     try {
         result = await UniqueItem.create(newObjet)        
     } catch (error) {

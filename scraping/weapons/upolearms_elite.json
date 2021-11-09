@@ -2,7 +2,7 @@
     {
         "kind": "Weapon",
         "part": "Polearms",
-        "value": "Elite Unique Weapon",
+        "value": "elite",
         "name": "Bonehew",
         "type": "Ogre Axe",
         "properties": "Two-Hand Damage: (103-117) To (536-609) (319.5-363 Avg)\nRequired Level: 64\nRequired Strength: 195\nRequired Dexterity: 75\nDurability: 50\nBase Weapon Speed: [0]\n+270-320% Enhanced Damage (varies)\nLevel 14 Corpse Explosion (30 charges)\nPrevent Monster Heal\n30% Increased Attack Speed\n50% Chance To Cast Level 16 Bone Spear On Striking\nSocketed (2)\n(Only Spawns In Patch 1.10 or later)",
@@ -12,7 +12,7 @@
     {
         "kind": "Weapon",
         "part": "Polearms",
-        "value": "Elite Unique Weapon",
+        "value": "elite",
         "name": "The Reaper's Toll",
         "type": "Thresher",
         "properties": "Two-Hand Damage: (34-40) To (408-479) (221-259.5 Avg)\nRequired Level: 75\nRequired Strength: 114\nRequired Dexterity: 89\nDurability: 65\nBase Weapon Speed: [-10]\n+190-240% Enhanced Damage (varies)\nIgnore Target's Defense\nAdds 4-44 Cold Damage, Duration 0-2 Sec.\n11-15% Life Stolen Per Hit (varies)\n33% Deadly Strike\n33% Chance To Cast Level 1 Decrepify On Striking\nRequirements -25%\n(Ladder Only)\n(Only Spawns In Patch 1.10 or later)",
@@ -22,7 +22,7 @@
     {
         "kind": "Weapon",
         "part": "Polearms",
-        "value": "Elite Unique Weapon",
+        "value": "elite",
         "name": "Tomb Reaver",
         "type": "Cryptic Axe",
         "properties": "Two-Hand Damage: (99-125) To (450-570) (274.5-347.5 Avg)\nRequired Level: 84\nRequired Strength: 165\nRequired Dexterity: 103\nDurability: 65\nBase Weapon Speed: [10]\n+200-280% Enhanced Damage (varies)\n+150-230% Damage To Undead (varies)\n+60% Increased Attack Speed\n+250-350 To Attack Rating Against Undead (varies)\nAll Resistances +30-50 (varies)\n10% Reanimate As: Returned*\n+10-14 Life After Each Kill (varies)\n+50-80% Better Chance of Getting Magic Items (varies)\n+4 To Light Radius\nSocketed (1-3) (varies)\n(Ladder Only)\n(Only Spawns In Patch 1.10 or later)",
@@ -32,7 +32,7 @@
     {
         "kind": "Weapon",
         "part": "Polearms",
-        "value": "Elite Unique Weapon",
+        "value": "elite",
         "name": "Stormspire",
         "type": "Giant Thresher",
         "properties": "Two-Hand Damage: (100-140) To (285-399) (192.5-269.5 Avg)\nRequired Level: 70\nRequired Strength: 188\nRequired Dexterity: 140\nBase Weapon Speed: [-10]\n150-250% Enhanced Damage (varies)\nAdds 1-237 Lightning Damage\n2% Chance To Cast Level 20 Charged Bolt When Struck\n5% Chance To Cast Level 5 Chain Lightning When Struck\n30% Increased Attack Speed\nLightning Resist +50%\n+10 To Strength\nAttacker Takes Lightning Damage of 27\nIndestructible\n(Only Spawns In Patch 1.10 or later)",

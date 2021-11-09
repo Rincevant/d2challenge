@@ -1,7 +1,8 @@
 [
     {
         "kind": "Weapon",
-        "class": "Sorceress",
+        "part": "Wands",
+        "value": "normal",
         "name": "The Oculus",
         "type": "Swirling Crystal",
         "properties": "One-Hand Damage: 18 To 42 (30 Avg)\nRequired Level: 42\nDurability: 50\nBase Weapon Speed: [10]\n(Sorceress Only)\n+3 To Sorceress Skill Levels\n+5 To Mana After Each Kill\nAll Resistances +20\n25% Chance To Cast Level 1 Teleport When Struck\n+30% Faster Cast Rate\n+20 To Vitality\n+20 To Energy\n+20% Enhanced Defense\n50% Better Chance Of Getting Magic Items\n(Only Spawns In Patch 1.09 or later)",
@@ -10,7 +11,8 @@
     },
     {
         "kind": "Weapon",
-        "class": "Sorceress",
+        "part": "Wands",
+        "value": "normal",
         "name": "Eschuta's Temper",
         "type": "Eldritch Orb",
         "properties": "One-Hand Damage: 18 To 50 (34 Avg)\nRequired Level: 72\nDurability: 30\nBase Weapon Speed: [-10]\n(Sorceress Only)\n+1-3 To Sorceress Skill Levels (varies)\n+40% Faster Cast Rate\n+10-20% To Fire Skill Damage (varies)\n+10-20% To Lightning Skill Damage (varies)\n+20-30 To Energy (varies)\n(Only Spawns In Patch 1.10 or later)",
@@ -19,7 +21,8 @@
     },
     {
         "kind": "Weapon",
-        "class": "Sorceress",
+        "part": "Wands",
+        "value": "normal",
         "name": "Death's Fathom",
         "type": "Dimensional Shard",
         "properties": "One-Hand Damage: 30 To 53 (41.5 Avg)\nRequired Level: 73\nDurability: 50\nBase Weapon Speed: [10]\n(Sorceress Only)\n+3 To Sorceress Skill Levels\n+20% Faster Cast Rate\n+15-30% To Cold Skill Damage (varies)\nLightning Resist +25-40% (varies)\nFire Resist +25-40% (varies)\n(Ladder Only)\n(Only Spawns In Patch 1.10 or later)",

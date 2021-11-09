@@ -2,7 +2,7 @@
     {
         "kind": "Weapon",
         "part": "Crossbows",
-        "value": "Exceptionnal Unique Weapon",
+        "value": "exceptional",
         "name": "Langer Briser",
         "type": "Arbalest",
         "properties": "Two-Hand Damage: (37-42) To (82-111) (59.5-76.5 Avg)\nRequired Level: 32\nRequired Strength: 52\nRequired Dexterity: 61\nBase Weapon Speed: [-10]\n+170-200% Enhanced Damage (varies)\n+10-30 To Maximum Damage (varies)\n33% Chance Of Open Wounds\nAdds 1-212 Lightning Damage\n+30 To Life\nKnockback\n30-60% Better Chance Of Getting Magic Items (varies)\n(Only Spawns In Patch 1.09 or later)",
@@ -12,7 +12,7 @@
     {
         "kind": "Weapon",
         "part": "Crossbows",
-        "value": "Exceptionnal Unique Weapon",
+        "value": "exceptional",
         "name": "Pus Spitter",
         "type": "Siege Crossbow",
         "properties": "Two-Hand Damage: (50-64) To (105-134) (77.5-99 Avg)\nRequired Level: 36\nRequired Strength: 32\nRequired Dexterity: 28\nBase Weapon Speed: [0]\n+150-220% Enhanced Damage (varies)\n+150 Poison Damage Over 8 Seconds\nRequirements -60%\n9% Chance To Cast Level 6 Poison Nova When Struck\n4% Chance To Cast Level 1 Lower Resist On Striking\n+ (5 Per Character Level) 5-495 To Attack Rating (Based On Character Level)\n10% Increased Attack Speed\n+2 To Necromancer Skill Levels\n(Only Spawns In Patch 1.09 or later)",
@@ -22,7 +22,7 @@
     {
         "kind": "Weapon",
         "part": "Crossbows",
-        "value": "Exceptionnal Unique Weapon",
+        "value": "exceptional",
         "name": "Buriza-Do Kyanon",
         "type": "Ballista",
         "properties": "Two-Hand Damage: (82-99) To (139-412) (110.5-255.5 Avg)\nRequired Level: 41\nRequired Strength: 110\nRequired Dexterity: 80\nBase Weapon Speed: [10]\n+150-200% Enhanced Damage (varies)\n+ (2.5 Per Character Level) 2-247 To Maximum Damage (Based On Character Level)\nAdds 32-196 Cold Damage - 8 Second Duration\nPiercing Attack (100)\nFreezes Target +3\n+75-150 Defense(varies)\n+35 to Dexterity\n80% Increased Attack Speed\n(Only Spawns In Patch 1.09 or later)",
@@ -32,7 +32,7 @@
     {
         "kind": "Weapon",
         "part": "Crossbows",
-        "value": "Exceptionnal Unique Weapon",
+        "value": "exceptional",
         "name": "Demon Machine",
         "type": "Chu-Ko-Nu",
         "properties": "Two-Hand Damage: 31 To 137 (84 Avg)\nRequired Level: 49\nRequired Strength: 80\nRequired Dexterity: 95\nBase Weapon Speed: [-60]\n+123% Enhanced Damage\n+66 To Maximum Damage\nFires Explosive Bolts [Level 6]\n+632 To Attack Rating\nPiercing Attack (66)\n+321 Defense\n+36 To Mana\n(Only Spawns In Patch 1.10 or later)",

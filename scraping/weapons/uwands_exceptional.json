@@ -2,7 +2,7 @@
     {
         "kind": "Weapon",
         "part": "Wands",
-        "value": "Exceptionnal Unique Weapon",
+        "value": "exceptional",
         "name": "Suicide Branch",
         "type": "Burnt Wand",
         "properties": "One-Hand Damage: 8 To 18 (13 Avg)\nRequired Level: 33\nRequired Strength: 25\nDurability: 15\nBase Weapon Speed: [0]\n+50% Damage To Undead\n+1 To All Skills\n50% Faster Cast Rate\nIncrease Maximum Mana 10%\nAll Resistances +10\n+40 To Life\nAttacker Takes Damage of 25\n(Only Spawns In Patch 1.09 or later)",
@@ -12,7 +12,7 @@
     {
         "kind": "Weapon",
         "part": "Wands",
-        "value": "Exceptionnal Unique Weapon",
+        "value": "exceptional",
         "name": "Carin Shard",
         "type": "Petrified Wand",
         "properties": "One-Hand Damage: 8 To 24 (16 Avg)\nRequired Level: 35\nRequired Strength: 25\nDurability: 15\nBase Weapon Speed: [10]\n+50% Damage To Undead\n+ (1.25 Per Character Level) 1-123 To Mana (Based On Character Level)\n+ (1.25 Per Character Level) 1-123 To Life (Based On Character Level)\n+1 To Necromancer Skill Levels\n+2 To Summoning Skills (Necromancer Only)\n10% Faster Cast Rate\n30% Faster Hit Recovery\nReplenish Life +5\n(Only Spawns In Patch 1.09 or later)",
@@ -22,7 +22,7 @@
     {
         "kind": "Weapon",
         "part": "Wands",
-        "value": "Exceptionnal Unique Weapon",
+        "value": "exceptional",
         "name": "Arm of King Leoric",
         "type": "Tomb Wand",
         "properties": "One-Hand Damage: 10 To 22 (16 Avg)\nRequired Level: 36\nRequired Strength: 25\nDurability: 15\nBase Weapon Speed: [-20]\n+50% Damage To Undead\n10% Chance To Cast Level 2 Bone Prison When Struck\n5% Chance To Cast Level 10 Bone Spirit When Struck\n+ (1.25 Per Character Level) 1-123 To Mana (Based On Character Level)\n10% Faster Cast Rate\n+2 To Terror (Necromancer Only)\n+2 To Raise Skeletal Mage (Necromancer Only)\n+3 To Skeleton Mastery (Necromancer Only)\n+3 To Raise Skeleton (Necromancer Only)\n+2 To Summoning Skills (Necromancer Only)\n+2 To Poison And Bone Skills (Necromancer Only)\n(Only Spawns In Patch 1.09 or later)",
@@ -32,7 +32,7 @@
     {
         "kind": "Weapon",
         "part": "Wands",
-        "value": "Exceptionnal Unique Weapon",
+        "value": "exceptional",
         "name": "Blackhand Key",
         "type": "Grave Wand",
         "properties": "One-Hand Damage: 13 To 29 (21 Avg)\nRequired Level: 41\nRequired Strength: 25\nDurability: 15\nBase Weapon Speed: [0]\n+50% Damage To Undead\n+2 To Necromancer Skill Levels\n+1 To Curses (Necromancer Only)\n20% Damage Taken Goes To Mana\n30% Faster Cast Rate\nFire Resist +37%\n+50 To Life\nLevel 13 Grim Ward (30 Charges)\n-2 To Light Radius\n(Only Spawns In Patch 1.09 or later)",

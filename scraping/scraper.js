@@ -6,7 +6,7 @@ var index = 4
 
 var indexValueItem = false
 var valueItem = [ 'normal' , 'exceptional', 'elite' ]
-var itemValue = [    'Normal Unique Weapon',    'Exceptionnal Unique Weapon',    'Elite Unique Weapon' ]
+var itemValue = [    'normal',    'exceptional',    'elite' ]
 
 var urlsArmor = [
     'http://classic.battle.net/diablo2exp/items/'+valueItem[indexValueItem]+'/uhelms.shtml',
@@ -79,9 +79,9 @@ scrapper()
 function scrapper() {
     
     
-    scraper.get('http://www.d2tomb.com/setitems1.shtml').then(function(tableData) {    
+    scraper.get('http://classic.battle.net/diablo2exp/items/normal/ustaves.shtml').then(function(tableData) {    
 
-        console.log(tableData.length)
+        console.log(tableData)
         var objects = tableData[11]
     
         var listObjects = []
@@ -91,30 +91,30 @@ function scrapper() {
             
             var objet = {} 
             
-            //objet.kind = kind[index]
+            objet.kind = "Weapon"
     
-            //objet.part = part['Amazon Only']
+            objet.part = "Staves"
         
-            //objet.value = itemValue[indexValueItem]
+            objet.value = "normal"
             
-            //objet.name = element['false'].split('\n')[false]
+            objet.name = element['0'].split('\n')[0]
         
-            //objet.type = element['false'].split('\n')[1]
+            objet.type = element['0'].split('\n')[1]
         
-            //objet.properties = element['1']
+            objet.properties = element['1']
     
-            //objet.item = 'Unique'    
+            objet.item = 'Unique'    
 
-            objet.item = 'Rune Words'
-            objet.originalRuneWords = element['1.11 Rune Words']
-            objet.allowedItems = element['Allowed Items']
-            objet.runeOrder = element['Rune Order']
-            objet.completedStats = element['Completed Stats']
+            //objet.item = 'Rune Words'
+            //objet.originalRuneWords = element['1.11 Rune Words']
+            //objet.allowedItems = element['Allowed Items']
+            //objet.runeOrder = element['Rune Order']
+            //objet.completedStats = element['Completed Stats']
         
             listObjects.push(objet)
         });          
     
-        //writeFrile(listObjects)
+        writeFrile(listObjects)
         
     });   
    
@@ -123,7 +123,7 @@ function scrapper() {
 function writeFrile(listObjects) {
     // stringify JSON Object
     var jsonContent = JSON.stringify(listObjects);
-    fs.writeFile('runewords-111.json', jsonContent, 'utf8', function (err) {
+    fs.writeFile('ustaves_normal.json', jsonContent, 'utf8', function (err) {
         if (err) {
             console.log("An error occured while writing JSON Object to File.");
             return console.log(err);

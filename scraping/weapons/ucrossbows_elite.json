@@ -2,7 +2,7 @@
     {
         "kind": "Weapon",
         "part": "Crossbows",
-        "value": "Elite Unique Weapon",
+        "value": "elite",
         "name": "Hellrack",
         "type": "Colossus Crossbow",
         "properties": "Two-Hand Damage: (89-105) To (254-300) (171.5-202.5 Avg)\nRequired Level: 76\nRequired Strength: 163\nRequired Dexterity: 77\nBase Weapon Speed: [10]\n+180-230% Enhanced Damage (varies)\n100-150% Bonus To Attack Rating (varies)\nAdds 63-324 Fire Damage\nAdds 63-324 Lightning Damage\nAdds 63-324 Cold Damage\n+20% Increased Attack Speed\nLevel 18 Immolation Arrow (150 charges)\nSocketed (2)\n(Only Spawns In Patch 1.10 or later)",
@@ -12,7 +12,7 @@
     {
         "kind": "Weapon",
         "part": "Crossbows",
-        "value": "Elite Unique Weapon",
+        "value": "elite",
         "name": "Gut Siphon",
         "type": "Demon Crossbow",
         "properties": "Two-Hand Damage: (67-83) To (104-128) (85.5-105.5 Avg)\nRequired Level: 71\nRequired Strength: 141\nRequired Dexterity: 98\nBase Weapon Speed: [-60]\n+160-220% Enhanced Damage (varies)\nPiercing Attack [33]\n12-18% Life Stolen Per Hit (varies)\n33% Chance of Open Wounds\nSlows Target by 25%\n(Only Spawns In Patch 1.10 or later)",
