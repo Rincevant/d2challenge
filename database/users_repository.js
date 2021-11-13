@@ -55,14 +55,19 @@ module.exports = {
         return result   
     },
 
-    async addUserToDatabase(username, hashPassword, email) {
+    async addUserToDatabase(username, hashPassword, email, classes, gamemode, platform, region) {
+        console.log(username, hashPassword, email)
+        
         var newUser = {
             username : username,
             password : hashPassword,
             email : email,
+            favoriteClass : classes,
+            favoriteGameMode : gamemode,
+            platform : platform,
+            region : region,
             isadmin : false,
-            avatar : "mii_default",
-            background_color : "#eb1320"
+            avatar : null
         }
 
         try {
@@ -70,7 +75,7 @@ module.exports = {
         } catch (error) {
             
         }
-
+        
         return result
     },
 

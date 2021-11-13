@@ -1,32 +1,32 @@
 [
     {
-        "setName": "",
-        "name":"",
-        "part":"",
-        "type":"",
-        "kind": "",
-        "item": "",
-        "image": "",
-        "properties":""
+        "setName": "Cow King's Leathers",
+        "name":"Cow King's Horns",
+        "part":"Helms",
+        "type":"War Hat",
+        "kind": "Armor",
+        "item": "Set",
+        "image": "cap_hat",
+        "properties":"Defense : 120-128 (varies)(Base Defense: 45-53)\nRequired Level: 25\nRequired Strength: 20\nDurability: 12\n+75 Defense\nHalf Freeze Duration\nAttacker Takes Damage of 10\n35% Damage Taken Goes To Mana"
     },
     {
-        "setName": "",
-        "name":"",
-        "part":"",
-        "type":"",
-        "kind": "",
-        "item": "",
-        "image": "",
-        "properties":""
+        "setName": "Cow King's Leathers",
+        "name":"Cow King's Hide",
+        "part":"Chests",
+        "type":"Studded Leather",
+        "kind": "Armor",
+        "item": "Set",
+        "image": "studded_leather",
+        "properties":"Defense: 57 (Base Defense: 32-35)\nRequired Level: 18\nRequired Strength: 27\nDurability: 32\n+60% Enhanced Defense\n18% Chance To Cast Level 5 Chain Lightning When Struck\nAll Resistances +18\n+30 To Life"
     },
     {
-        "setName": "",
-        "name":"",
-        "part":"",
-        "type":"",
-        "kind": "",
-        "item": "",
-        "image": "",
-        "properties":""
+        "setName": "Cow King's Leathers",
+        "name":"Cow King's Hooves",
+        "part":"Boots",
+        "type":"Heavy Boots",
+        "kind": "Armor",
+        "item": "Set",
+        "image": "heavy_boots",
+        "properties":"Defense: 30-41 (varies)(Base Defense: 5-6)\nRequired Level: 13\nRequired Strength: 18\nDurability: 14\nAssassin Kick Damage: 4-10\n+25-35 Defense (varies)\n+30% Faster Run/Walk\nAdds 25-35 Fire Damage\n+20 To Dexterity\n25% Better Chance of Getting Magic Items"
     }
 ]

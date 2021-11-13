@@ -33,7 +33,7 @@
             <% objets.forEach(function(objet) { %>
                 
                 <% if(objet.setName === name){ %>
-                    <div id=<%= objet.id %> class=<% if (objet.owned === true) { %>objetOwned<% }else { %> objet <% } %> onclick='obtain("<%= objet.id %>", "<%= objet.name %>")'>                   
+                    <div id=<%= objet.name.toLowerCase().replace(/\s/g, "_") %> class=<% if (objet.owned === true) { %>objetOwned<% }else { %> objet <% } %> onclick='obtain("<%= objet.id %>", "<%= objet.kind %>", "<%= objet.part %>", "<%= objet.setName %>", "<%= objet.name %>", "<%= objet.item %>")'>               
                         <div class="tooltip">
                             <img src="/images/<%= objet.kind %>/<%= objet.image %>.png" class="obj_image">
                             <span class="obj_name"><%= objet.name %></span>
@@ -47,12 +47,17 @@
             <% }); %>   
             
         </div>
-    <% }); %>        
+    <% }); %>       
+    
+    <div id="btnSave" onclick="saveHolyGrail()">
+    </div>
 
     <%- include('partials/footer') %>
     
     <script src="/js/tooltipSetItems.js"></script>
 
     <script src="/js/dateItems.js"></script> 
+
+    <script src="/js/loadSet.js"></script>
 </body>
 </html>

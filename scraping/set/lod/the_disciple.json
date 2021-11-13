@@ -1,52 +1,52 @@
 [
     {
-        "setName": "",
-        "name":"",
-        "part":"",
-        "type":"",
-        "kind": "",
-        "item": "",
-        "image": "",
-        "properties":""
+        "setName": "The Disciple",
+        "name":"Telling of Beads",
+        "part":"Amulet",
+        "type":"Amulet",
+        "kind": "Other",
+        "item": "Set",
+        "image": "amulet2",
+        "properties":"Required Level: 30\n+1 To All Skills\nPoison Resist +35-50% (varies)\nCold Resist +18%\nAttacker Takes Damage of 8-10 (varies)"
     },
     {
-        "setName": "",
-        "name":"",
-        "part":"",
-        "type":"",
-        "kind": "",
-        "item": "",
-        "image": "",
-        "properties":""
+        "setName": "The Disciple",
+        "name":"Laying of Hands",
+        "part":"Gloves",
+        "type":"Bramble Mitts",
+        "kind": "Armor",
+        "item": "Set",
+        "image": "gloves_l",
+        "properties":"Defense: 79-87 (varies)(Base Defense: 54-62)\nRequired Level: 63\nRequired Strength: 50\nDurability: 12\n+25 Defense\n+20% Increased Attack Speed\n+350% Damage To Demons\nFire Resist +50%\n10% Chance To Cast Level 3 Holy Bolt On Striking"
     },
     {
-        "setName": "",
-        "name":"",
-        "part":"",
-        "type":"",
-        "kind": "",
-        "item": "",
-        "image": "",
-        "properties":""
+        "setName": "The Disciple",
+        "name":"Dark Adherent",
+        "part":"Chests",
+        "type":"Dusk Shroud",
+        "kind": "Armor",
+        "item": "Set",
+        "image": "quilted_armor",
+        "properties":"Defense: 666-882 (varies)(Base Defense: 361-467)\nRequired Level: 49\nRequired Strength: 77\nDurability: 20\n+305-415 Defense (varies)\nFire Resist +24%\n25% Chance To Cast Level 3 Nova When Struck\nAdds 24-34 Poison Damage Over 2 Seconds"
     },
     {
-        "setName": "",
-        "name":"",
-        "part":"",
-        "type":"",
-        "kind": "",
-        "item": "",
-        "image": "",
-        "properties":""
+        "setName": "The Disciple",
+        "name":"Rite of Passage",
+        "part":"Boots",
+        "type":"Demonhide Boots",
+        "kind": "Armor",
+        "item": "Set",
+        "image": "leather_boots",
+        "properties":"Defense: 53-60 (varies)(Base Defense: 28-35)\nRequired Level: 29\nRequired Strength: 20\nDurability: 12\nAssassin Kick Damage: 26-46\n+25 Defense\n30% Faster Run/Walk\n+15-25 Maximum Stamina (varies)\nHalf Freeze Duration"
     },
     {
-        "setName": "",
-        "name":"",
-        "part":"",
-        "type":"",
-        "kind": "",
-        "item": "",
-        "image": "",
-        "properties":""
+        "setName": "The Disciple",
+        "name":"Credendum",
+        "part":"Belts",
+        "type":"Mithril Coil",
+        "kind": "Armor",
+        "item": "Set",
+        "image": "belt_m",
+        "properties":"Defense: 108-115 (varies)(Base Defense: 58-65)\nRequired Level: 65\nRequired Strength: 106\n Durability: 16\n16 boxes\n+50 Defense\nAll Resistances +15\n+10 To Dexterity\n+10 To Strength"
     }
 ]

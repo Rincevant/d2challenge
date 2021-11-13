@@ -1,22 +1,22 @@
 [
     {
-        "setName": "",
-        "name":"",
-        "part":"",
-        "type":"",
-        "kind": "",
-        "item": "",
-        "image": "",
-        "properties":""
+        "setName": "Bul-Kathos' Children",
+        "name":"Bul-Kathos' Sacred Charge",
+        "part":"Swords",
+        "type":"Colossus Blade",
+        "kind": "Weapon",
+        "item": "Set",
+        "image": "the_patriarch",
+        "properties":"One Handed Damage: 75 To 195 (135 Avg)\nTwo Handed Damage: 174 To 345 (259.5 Avg)\nRequired Level: 63\nRequired Strength: 189\nRequired Dexterity: 110\nDurability: 50\nBase Weapon Speed: [5]\n+200% Enhanced Damage\n35% Chance of Crushing Blow\nAll Resistances +20\n+20% Increased Attack Speed\nKnockback"
     },
     {
-        "setName": "",
-        "name":"",
-        "part":"",
-        "type":"",
-        "kind": "",
-        "item": "",
-        "image": "",
-        "properties":""
+        "setName": "Bul-Kathos' Children",
+        "name":"Bul-Kathos' Tribal Guardian",
+        "part":"Swords",
+        "type":"Mythical Sword",
+        "kind": "Weapon",
+        "item": "Set",
+        "image": "war_sword",
+        "properties":"One Handed Damage: 120 To 150 (135 Avg)\nRequired Level: 66\nRequired Strength: 147\nRequired Dexterity: 124\nDurability: 44\nBase Weapon Speed: [0]\n+200% Enhanced Damage\n+50 Poison Damage Over 2 Seconds\nFire Resist +50%\n+20 To Strength\n+20% Increased Attack Speed"
     }
 ]

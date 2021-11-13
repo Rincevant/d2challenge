@@ -42,7 +42,7 @@ router.get('/runewords', async (req, res) => {
 router.get('/set', async (req, res) => {
   console.log('Request for holygrail page set');
   var objets = await SetItems.getAllSet()
-  var setName = ["Angelic Raiment", "Arcanna's Tricks", "Artic Gear", "Berserker's Arsenal", "Cathan's traps", "Civerb's Vestments", "Cleglaw's Brace", "Death's Disguise", "Hsarus's Defense", "Infernal Tools", "Irathas's Finery", "Isenhart's Horns", "Milabrega's Regalia", "Sigon's Complete Steel", "Tancred's Battlegear", "Vidala's Rig"]
+  var setName = ["Angelic Raiment", "Arcanna's Tricks", "Artic Gear", "Berserker's Arsenal", "Cathan's traps", "Civerb's Vestments", "Cleglaw's Brace", "Death's Disguise", "Hsarus's Defense", "Infernal Tools", "Irathas's Finery", "Isenhart's Armory", "Milabrega's Regalia", "Sigon's Complete Steel", "Tancred's Battlegear", "Vidala's Rig"]
   res.render('holyset', {objets:objets, setName:setName});
 });
 

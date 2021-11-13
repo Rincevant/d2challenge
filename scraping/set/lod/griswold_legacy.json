@@ -1,42 +1,42 @@
 [
     {
-        "setName": "",
-        "name":"",
-        "part":"",
-        "type":"",
-        "kind": "",
-        "item": "",
-        "image": "",
-        "properties":""
+        "setName": "Griswold's Legacy",
+        "name":"Griswold's Heart",
+        "part":"Chests",
+        "type":"Ornate Plate",
+        "kind": "Armor",
+        "item": "Set",
+        "image": "corpsemourn",
+        "properties":"Defense: 917-950 (varies) (Base Defense 417-450)\nRequired Level: 45\nRequired Strength: 102\nDurability: 60\n+500 Defense\nRequirements -40%\n+20 To Strength\n+2 To Defensive Aura Skills (Paladin Only)\nSocketed (3)"
     },
     {
-        "setName": "",
-        "name":"",
-        "part":"",
-        "type":"",
-        "kind": "",
-        "item": "",
-        "image": "",
-        "properties":""
+        "setName": "Griswold's Legacy",
+        "name":"Griswold's Valor",
+        "part":"Helms",
+        "type":"Corona",
+        "kind": "Armor",
+        "item": "Set",
+        "image": "crown",
+        "properties":"Defense: 249-290 (varies) (Base Defense: 111-165)\nRequired Level: 69\nRequired Strength: 105\nDurability: 50\n+50-75% Enhanced Defense (varies)\nAll Resistances +5\n20-30% Better Chance Of Getting Magic Items (varies)\nRequirements -40%\n+ (0.25 Per Character Level) 0-24 Absorbs Cold Damage (Based On Character Level)\nSocketed (2)\n+2 To Offensive Auras (Paladin Only) (2 Items)"
     },
     {
-        "setName": "",
-        "name":"",
-        "part":"",
-        "type":"",
-        "kind": "",
-        "item": "",
-        "image": "",
-        "properties":""
+        "setName": "Griswold's Legacy",
+        "name":"Griswold's Redemption",
+        "part":"Maces",
+        "type":"Caduceus",
+        "kind": "Weapon",
+        "item": "Set",
+        "image": "war_scepter",
+        "properties":"Damage: (111-125) To (129-146) (120-135.5 Avg)\nDamage: (121-135) To (149-166) (135-150.5 Avg)\nDamage: (131-145) To (169-186) (150-165.5 Avg)\nRequired Level: 66\nRequired Strength: 78\nRequired Dexterity: 56\nDurability: 70\nBase Weapon Speed: [-10]\n+200-240% Enhanced Damage (varies)\n+250% Damage To Undead\nRequirements -20%\n40% Increased Attack Speed\nSocketed (3-4) (varies)\n+2 To Combat Skills (Paladin Only) (2 Items)\nAdds 10-20 Damage (3 Items)\nAdds 10-20 Damage (Complete Set)"
     },
     {
-        "setName": "",
-        "name":"",
-        "part":"",
-        "type":"",
-        "kind": "",
-        "item": "",
-        "image": "",
-        "properties":""
+        "setName": "Griswold's Legacy",
+        "name":"Griswold's Honor",
+        "part":"Shields",
+        "type":"Vortex Shield",
+        "kind": "Armor",
+        "item": "Set",
+        "image": "crown_shield",
+        "properties":"Defense: 290-333 (varies)(Base Defense: 182-225)\nRequired Level: 68\nRequired Strength: 148\nDurability: 90\nChance to Block: 69%\nPaladin Smite Damage: 5 To 87\n(Paladin Only)\n65% Faster Block Rate\n20% Increased Chance of Blocking\n+108 Defense\nAll Resistances +45\nSocketed (3)"
     }
 ]

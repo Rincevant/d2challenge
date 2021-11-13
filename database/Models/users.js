@@ -3,10 +3,24 @@ const db = require('../connexion')
 
 const Users = db.define('users', {
     username: {
-        type: Sequelize.STRING   
+        type: Sequelize.STRING,
+        allowNull: false         
     },
     email: {
-        type: Sequelize.STRING      
+        type: Sequelize.STRING,
+        allowNull: false                
+    },
+    favoriteClass: {
+        type: Sequelize.STRING
+    },
+    favoriteGameMode: {
+        type: Sequelize.STRING
+    },
+    platform: {
+        type: Sequelize.STRING
+    },
+    region: {
+        type: Sequelize.STRING
     },
     country: {
         type: Sequelize.STRING
@@ -18,7 +32,8 @@ const Users = db.define('users', {
         type: Sequelize.DATE
     },
     password: {
-        type: Sequelize.STRING
+        type: Sequelize.STRING,
+        allowNull: false      
     },
     isadmin: {
         type: Sequelize.BOOLEAN

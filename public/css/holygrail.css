@@ -158,4 +158,18 @@ h2 {
     margin-top: 20px;
 }
 
+#btnSave {
+    display: none;
+    position: fixed;
+    right: 10%;
+    bottom: 10%;
+    height: 6%;
+    width: 6%;
+    background-image: url('../images/saveoff.jpg');
+    background-size: cover;
+    cursor: pointer;
+}
 
+#btnSave:hover {
+    background-image: url('../images/saveon.jpg');
+}

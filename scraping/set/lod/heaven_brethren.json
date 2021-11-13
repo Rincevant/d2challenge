@@ -1,42 +1,42 @@
 [
     {
-        "setName": "",
-        "name":"",
-        "part":"",
-        "type":"",
-        "kind": "",
-        "item": "",
-        "image": "",
-        "properties":""
+        "setName": "Heaven's Brethren",
+        "name":"Haemosu's Adamant",
+        "part":"Chests",
+        "type":"Cuirass",
+        "kind": "Armor",
+        "item": "Set",
+        "image": "haemosus_adament",
+        "properties":"Defense: 688-702 (varies)(Base Defense: 188-202)\nRequired Level: 44\nRequired Strength: 52\nDurability: 50\n+500 Defense\n+40 Defense Vs. Melee\n+35 Defense Vs. Missile\nRequirements -20%\n+75 To Life"
     },
     {
-        "setName": "",
-        "name":"",
-        "part":"",
-        "type":"",
-        "kind": "",
-        "item": "",
-        "image": "",
-        "properties":""
+        "setName": "Heaven's Brethren",
+        "name":"Dangoon's Teaching",
+        "part":"Maces",
+        "type":"Reinforced Mace",
+        "kind": "Weapon",
+        "item": "Set",
+        "image": "dangoons_teaching",
+        "properties":"Damage: 41 To (50-197) (45.5-119 Avg)\nRequired Level: 68\nRequired Strength: 145\nRequired Dexterity: 46\nDurability: 60\nBase Weapon Speed: [0]\n+ (1.5 Per Character Level) +1-148 To Maximum Damage (Based on Character Level)\n+50% Damage To Undead\n+40% Increased Attack Speed\n10% Chance To Cast Level 3 Frost Nova On Striking\nAdds 20-30 Fire Damage"
     },
     {
-        "setName": "",
-        "name":"",
-        "part":"",
-        "type":"",
-        "kind": "",
-        "item": "",
-        "image": "",
-        "properties":""
+        "setName": "Heaven's Brethren",
+        "name":"Taebaek's Glory",
+        "part":"Shields",
+        "type":"Ward",
+        "kind": "Armor",
+        "item": "Set",
+        "image": "heavens_taebaek",
+        "properties":"Defense: 203-220 (varies)(Base Defense: 153-170)\nRequired Level: 81\nRequired Strength: 185\nChance to Block: Pal: 79% Ama/Asn/Bar: 74% Dru/Nec/Sor: 69%\nPaladin Smite Damage: 11 to 35\n+50 Defense\n+25% Increased Chance Of Blocking\nLightning Resist +30%\nIndestructible\n30% Faster Block Rate\n+100 To Mana\nAttacker Takes Damage of 30"
     },
     {
-        "setName": "",
-        "name":"",
-        "part":"",
-        "type":"",
-        "kind": "",
-        "item": "",
-        "image": "",
-        "properties":""
+        "setName": "Heaven's Brethren",
+        "name":"Ondal's Almighty",
+        "part":"Helms",
+        "type":"Spired Helm",
+        "kind": "Armor",
+        "item": "Set",
+        "image": "ondals_almighty",
+        "properties":"Defense: 164-209 (varies)(Base Defense: 114-159)\nRequired Level: 69\nRequired Strength: 116\nDurability: 40\n10% Chance To Cast Level 3 Weaken On Striking\n24% Faster Hit Recovery\nRequirements -40%\n+50 Defense\n+15 To Dexterity\n+10 To Strength"
     }
 ]

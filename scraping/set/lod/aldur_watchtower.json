@@ -1,42 +1,42 @@
 [
     {
-        "setName": "",
-        "name":"",
-        "part":"",
-        "type":"",
-        "kind": "",
-        "item": "",
-        "image": "",
-        "properties":""
+        "setName": "Aldur's Watchtower",
+        "name":"Aldur's Stony Gaze",
+        "part":"Helms",
+        "type":"Hunter's Guise",
+        "kind": "Armor",
+        "item": "Set",
+        "image": "antlers",
+        "properties":"Defense: 157-171 (varies) (Base Defense: 67-81)\nRequired Level: 36\nRequired Strength: 56\nDurability: 20\n(Druid Only)\n+90 Defense\n25% Faster Hit Recovery\nRegenerate Mana 17%\nCold Resist +40-50% (varies)\nSocketed (2)\n+5 To Light Radius\n+15 To Energy (2 Item)\n+15 To Energy (3 Items)\n+15 To Energy (Completed Set)"
     },
     {
-        "setName": "",
-        "name":"",
-        "part":"",
-        "type":"",
-        "kind": "",
-        "item": "",
-        "image": "",
-        "properties":""
+        "setName": "Aldur's Watchtower",
+        "name":"Aldur's Advance",
+        "part":"Boots",
+        "type":"Battle Boots",
+        "kind": "Armor",
+        "item": "Set",
+        "image": "light_plate_boots",
+        "properties":"Defense: 39-47 (varies)\nRequired Level: 45\nRequired Strength: 95\nAssassin Kick Damage: 37-64\nIndestructible\n40% Faster Run/Walk\n+180 Maximum Stamina\n10% Damage Taken Goes To Mana\nHeal Stamina Plus +32%\n+50 To Life\nFire Resist +40-50% (varies)\n+15 To Dexterity (2 Item)\n+15 To Dexterity (3 Items)\n+15 To Dexterity (Completed Set)"
     },
     {
-        "setName": "",
-        "name":"",
-        "part":"",
-        "type":"",
-        "kind": "",
-        "item": "",
-        "image": "",
-        "properties":""
+        "setName": "Aldur's Watchtower",
+        "name":"Aldur's Deception",
+        "part":"Chests",
+        "type":"Shadow Plate",
+        "kind": "Armor",
+        "item": "Set",
+        "image": "full_plate_mail",
+        "properties":"Defense: 746-857 (varies)(Base Defense: 446-557)\nRequired Level: 76\nRequired Strength: 115\nDurability: 70\n+300 Defense\nRequirements -50%\nLightning Resist +40-50% (varies)\n+15 To Dexterity\n+20 To Strength\n+1 To Elemental Skills (Druid Only)\n+1 To Shape Shifting Skills (Druid Only)\n+15 To Vitality (2 Item)\n+15 To Vitality (3 Items)\n+15 To Vitality (Completed Set)"
     },
     {
-        "setName": "",
-        "name":"",
-        "part":"",
-        "type":"",
-        "kind": "",
-        "item": "",
-        "image": "",
-        "properties":""
+        "setName": "Aldur's Watchtower",
+        "name":"Aldur's Rhythm",
+        "part":"Maces",
+        "type":"Jagged Star",
+        "kind": "Weapon",
+        "item": "Set",
+        "image": "bloodrise",
+        "properties":"One-Hand Damage: 60 To 93 (76.5 Avg)\nRequired Level: 42\nRequired Strength: 74\nDurability: 72\nBase Weapon Speed: [10]\n+200% Damage To Demons\n+50% Damage To Undead\nAdds 40-62 Damage\nAdds 50-75 Lightning Damage\n30% Increased Attack Speed\n10% Life Stolen Per Hit\n5% Mana Stolen Per Hit\nSocketed (2-3) (varies)\n+15 To Strength (2 Item)\n+15 To Strength (3 Items)\n+15 To Strength (Completed Set)"
     }
 ]

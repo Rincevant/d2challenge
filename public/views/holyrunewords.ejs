@@ -22,7 +22,7 @@
     <div id="unique_content">
         <% objets.forEach(function(objet) { %>
             
-            <div id=<%= objet.id %> class=<% if (objet.owned === true) { %>objetOwned<% }else { %> objet <% } %> onclick='obtain("<%= objet.id %>", "<%= objet.name %>")'>                   
+            <div id=<%= objet.originalRuneWords.toLowerCase().replace(/\s/g, "_") %> class=<% if (objet.owned === true) { %>objetOwned<% }else { %> objet <% } %> onclick='obtain("<%= objet.id %>", "<%= objet.kind %>", "<%= objet.part %>", "<%= objet.value %>", "<%= objet.originalRuneWords %>", "<%= objet.item %>")'>                   
                 <div class="tooltip">
                     <img src="/images/Runewords/<%= objet.image %>.png" class="obj_image">
                     <span class="obj_name"><%= objet.originalRuneWords %></span>
@@ -35,10 +35,15 @@
         <% }); %>        
     </div>
 
+    <div id="btnSave" onclick="saveHolyGrail()">
+    </div>
+
     <%- include('partials/footer') %>  
     
     <script src="/js/tooltipItems.js"></script>
 
-    <script src="/js/dateItems.js"></script> 
+    <script src="/js/dateItems.js"></script>  
+    
+    <script src="/js/loadRunewords.js"></script>
 </body>
 </html>

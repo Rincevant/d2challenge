@@ -1764,5 +1764,172 @@ module.exports =
                     "owned": false, "date": null
                 }
             }
+        },
+        "Runeword": {
+            "Ancient's Pledge": {
+                "owned": false, "date": null
+            },
+            "Black": {
+                "owned": false, "date": null
+            },
+            "Fury": {
+                "owned": false, "date": null
+            },
+            "Holy Thunder": {
+                "owned": false, "date": null
+            },
+            "Honor": {
+                "owned": false, "date": null
+            },
+            "King's Grace": {
+                "owned": false, "date": null
+            },
+            "Leaf": {
+                "owned": false, "date": null
+            },
+            "Lionheart": {
+                "owned": false, "date": null
+            },
+            "Lore": {
+                "owned": false, "date": null
+            },
+            "Malice": {
+                "owned": false, "date": null
+            },
+            "Melody": {
+                "owned": false, "date": null
+            },
+            "Memory": {
+                "owned": false, "date": null
+            },
+            "Nadir": {
+                "owned": false, "date": null
+            },
+            "Radiance": {
+                "owned": false, "date": null
+            },
+            "Rhyme": {
+                "owned": false, "date": null
+            },
+            "Silence": {
+                "owned": false, "date": null
+            },
+            "Smoke": {
+                "owned": false, "date": null
+            },
+            "Stealth": {
+                "owned": false, "date": null
+            },
+            "Steel": {
+                "owned": false, "date": null
+            },
+            "Strength": {
+                "owned": false, "date": null
+            },
+            "Venom": {
+                "owned": false, "date": null
+            },
+            "Wealth": {
+                "owned": false, "date": null
+            },
+            "White": {
+                "owned": false, "date": null
+            },
+            "Zephyr": {
+                "owned": false, "date": null
+            },
+            "Bone (Necromancer)": {
+                "owned": false, "date": null
+            },
+            "Enlightenment (Sorceress)": {
+                "owned": false, "date": null
+            },
+            "Myth (Barbarian)": {
+                "owned": false, "date": null
+            },
+            "Peace (Amazon)": {
+                "owned": false, "date": null
+            },
+            "Principle (Paladin)": {
+                "owned": false, "date": null
+            },
+            "Rain (Druid)": {
+                "owned": false, "date": null
+            },
+            "Treachery (Assassin)": {
+                "owned": false, "date": null
+            },
+            "Beast": {
+                "owned": false, "date": null
+            },
+            "Bramble": {
+                "owned": false, "date": null
+            },
+            "Breath of the Dying": {
+                "owned": false, "date": null
+            },
+            "Call To Arms": {
+                "owned": false, "date": null
+            },
+            "Chains of Honor": {
+                "owned": false, "date": null
+            },
+            "Chaos": {
+                "owned": false, "date": null
+            },
+            "Crescent Moon": {
+                "owned": false, "date": null
+            },
+            "Delirium": {
+                "owned": false, "date": null
+            },
+            "Doom": {
+                "owned": false, "date": null
+            },
+            "Duress": {
+                "owned": false, "date": null
+            },
+            "Enigma": {
+                "owned": false, "date": null
+            },
+            "Eternity": {
+                "owned": false, "date": null
+            },
+            "Exile": {
+                "owned": false, "date": null
+            },
+            "Famine": {
+                "owned": false, "date": null
+            },
+            "Gloom": {
+                "owned": false, "date": null
+            },
+            "Hand of Justice": {
+                "owned": false, "date": null
+            },
+            "Heart of the Oak": {
+                "owned": false, "date": null
+            },
+            "Kingslayer": {
+                "owned": false, "date": null
+            },
+            "Passion": {
+                "owned": false, "date": null
+            },
+            "Prudence": {
+                "owned": false, "date": null
+            },
+            "Sanctuary": {
+                "owned": false, "date": null
+            },
+            "Splendor": {
+                "owned": false, "date": null
+            },
+            "Stone": {
+                "owned": false, "date": null
+            },
+            "Wind": {
+                "owned": false, "date": null
+            }
         }
     }

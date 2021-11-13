@@ -25,7 +25,7 @@
     },
     {
         "item": "Rune Words",
-        "originalRuneWords": "Call To Arms*",
+        "originalRuneWords": "Call To Arms",
         "allowedItems": "5 Socket Weapons",
         "runeOrder": "Amn + Ral + Mal + Ist + Ohm",
         "completedStats": "+1 To All Skills\n+40% Increased Attack Speed\n+250-290% Enhanced Damage (varies)\nAdds 5-30 Fire Damage\n7% Life Stolen Per Hit\n+2-6 To Battle Command (varies)*\n+1-6 To Battle Orders (varies)*\n+1-4 To Battle Cry (varies)*\nPrevent Monster Heal\nReplenish Life +12\n30% Better Chance of Getting Magic Items",
