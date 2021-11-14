@@ -6,7 +6,7 @@ async function saveHolyGrail() {
         var customHeader = { "Authorization": "Bearer " + token }  
         
         $.ajax({
-            url: 'http://localhost:8080/saveTemplate',
+            url: 'https://d2challenge.herokuapp.com/saveTemplate',
             headers: customHeader,
             dataType: 'text',
             type: 'post',
