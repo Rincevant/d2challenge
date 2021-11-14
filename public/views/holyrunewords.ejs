@@ -24,7 +24,7 @@
             
             <div id=<%= objet.originalRuneWords.toLowerCase().replace(/\s/g, "_") %> class=<% if (objet.owned === true) { %>objetOwned<% }else { %> objet <% } %> onclick='obtain("<%= objet.id %>", "<%= objet.kind %>", "<%= objet.part %>", "<%= objet.value %>", "<%= objet.originalRuneWords %>", "<%= objet.item %>")'>                   
                 <div class="tooltip">
-                    <img src="/images/Runewords/<%= objet.image %>.png" class="obj_image">
+                    <img src="/images/RuneWords/<%= objet.image %>.png" class="obj_image">
                     <span class="obj_name"><%= objet.originalRuneWords %></span>
                     <span class="obj_type"><%= objet.runeOrder %></span>
                     <span class="obj_date"><% if (objet.dateOwned != null) { %> <%- objet.dateOwned %> <% } %></span>
