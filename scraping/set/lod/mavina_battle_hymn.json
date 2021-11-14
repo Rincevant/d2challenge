@@ -1,52 +1,52 @@
 [
     {
-        "setName": "",
-        "name":"",
-        "part":"",
-        "type":"",
-        "kind": "",
-        "item": "",
-        "image": "",
-        "properties":""
+        "setName": "M'avina's Battle Hymn",
+        "name":"M'avina's True Sight",
+        "part":"Other",
+        "type":"Diadem",
+        "kind": "Other",
+        "item": "Set",
+        "image": "diadem",
+        "properties":"Defense: 200-210(varies) (Base Defense: 50-60)\nRequired Level: 64\nDurability: 20\n+150 Defense\nReplenish Life +10\n+25 To Mana\n+30% Increased Attack Speed\n+1 To All Skills (2 Items)\n50% Bonus To Attack Rating (3 Items)\nAll Resistances +25 (4 Items)"
     },
     {
-        "setName": "",
-        "name":"",
-        "part":"",
-        "type":"",
-        "kind": "",
-        "item": "",
-        "image": "",
-        "properties":""
+        "setName": "M'avina's Battle Hymn",
+        "name":"M'avina's Caster",
+        "part":"Bows",
+        "type":"Grand Matron Bow",
+        "kind": "Weapon",
+        "item": "Set",
+        "image": "reflex_bow",
+        "properties":"Damage: 40 To 207 (123.5 Avg)\nRequired Level: 70\nRequired Strength: 108\nRequired Dexterity: 152\nBase Weapon Speed: [10]\n(Amazon Only)\n+188% Enhanced Damage\n+40% Increased Attack Speed\n+50 To Attack Rating\nFires Magic Arrows [Level 1]\nAdds 114-377 Magic Damage (2 Items)\n10% Chance To Cast Level 15 Nova On Striking (3 Items)\n+2 To Bow and Crossbow Skills (Amazon Only) (4 Items)"
     },
     {
-        "setName": "",
-        "name":"",
-        "part":"",
-        "type":"",
-        "kind": "",
-        "item": "",
-        "image": "",
-        "properties":""
+        "setName": "M'avina's Battle Hymn",
+        "name":"M'avina's Embrace",
+        "part":"Chests",
+        "type":"Kraken Shell",
+        "kind": "Armor",
+        "item": "Set",
+        "image": "field_plate",
+        "properties":"Defense: (771-1163) - (877-1269) (varies)(Base Defense: 417-523)\nRequired Level: 70\nRequired Strength: 122\nDurability: 48\nRequirements -30%\n10% Chance To Cast Level 3 Glacial Spike When Struck\nMagic Damage Reduced By 5-12 (varies)\n+ (4 Per Character Level) 4-396 Defense (Based On Character Level)\n+2 To Passive And Magic Skills (Amazon Only)\n+350 Defense\n+30% Faster Hit Recovery (3 Items)"
     },
     {
-        "setName": "",
-        "name":"",
-        "part":"",
-        "type":"",
-        "kind": "",
-        "item": "",
-        "image": "",
-        "properties":""
+        "setName": "M'avina's Battle Hymn",
+        "name":"M'avina's Icy Clutch",
+        "part":"Gloves",
+        "type":"Battle Gauntlets",
+        "kind": "Armor",
+        "item": "Set",
+        "image": "light_gauntlets",
+        "properties":"Defense: 84-97 (varies)(Base Defense: 39-47)\nRequired Level: 32\nRequired Strength: 88\nDurability: 18\n+45-50 Defense (varies)\n6-18 Cold Damage, 6 sec. Duration (Normal)\nHalf Freeze Duration\n56% Extra Gold From Monsters\n+10 To Strength\n+15 To Dexterity\nAdds 131-252 Cold Damage, 4 sec. Duration (Normal) (4 Items)\n+20% To Cold Skill Damage (Complete Set)"
     },
     {
-        "setName": "",
-        "name":"",
-        "part":"",
-        "type":"",
-        "kind": "",
-        "item": "",
-        "image": "",
-        "properties":""
+        "setName": "M'avina's Battle Hymn",
+        "name":"M'avina's Tenet",
+        "part":"Belts",
+        "type":"Sharkskin Belt",
+        "kind": "Armor",
+        "item": "Set",
+        "image": "light_belt",
+        "properties":"Defense: 81-86 (varies)(Base Defense: 31-36)\nRequired Level: 45\nRequired Strength: 20\nDurability: 14\n16 boxes\n+50 Defense\n+20% Faster Run/Walk\n+5 To Light Radius\n5% Mana Stolen Per Hit\nAll Resistances +25 (4 Items)"
     }
 ]

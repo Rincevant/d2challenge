@@ -1,52 +1,52 @@
 [
     {
-        "setName": "",
-        "name":"",
-        "part":"",
-        "type":"",
-        "kind": "",
-        "item": "",
-        "image": "",
-        "properties":""
+        "setName": "Trang-Oul's Avatar",
+        "name":"Trang-Oul's Guise",
+        "part":"Helms",
+        "type":"Bone Visage",
+        "kind": "Armor",
+        "item": "Set",
+        "image": "wormskull",
+        "properties":"Defense: 180-257 (varies)(Base Defense: 100-157)\nRequired Level: 65\nRequired Strength: 106\nDurability: 40\n25% Faster Hit Recovery\nReplenish Life +5\n+80-100 Defense (varies)\n+150 To Mana\nAttacker Takes Damage of 20"
     },
     {
-        "setName": "",
-        "name":"",
-        "part":"",
-        "type":"",
-        "kind": "",
-        "item": "",
-        "image": "",
-        "properties":""
+        "setName": "Trang-Oul's Avatar",
+        "name":"Trang-Oul's Scales",
+        "part":"Chests",
+        "type":"Chaos Armor",
+        "kind": "Armor",
+        "item": "Set",
+        "image": "full_plate_mail",
+        "properties":"Defense: 857 (Base Defense: 315-343)\nRequired Level: 49\nRequired Strength: 84\nDurability: 70\n+150% Enhanced Defense\nRequirements -40%\n40% Faster Run/Walk\nPoison Resist +40%\n+100 Defense vs. Missile\n+2 To Summoning Skills (Necromancer Only)\nLightning Resist +50% (3 Items)\nDamage Reduced By 25% (Complete Set)"
     },
     {
-        "setName": "",
-        "name":"",
-        "part":"",
-        "type":"",
-        "kind": "",
-        "item": "",
-        "image": "",
-        "properties":""
+        "setName": "Trang-Oul's Avatar",
+        "name":"Trang-Oul's Wing",
+        "part":"Shields",
+        "type":"Cantor Trophy",
+        "kind": "Weapon",
+        "item": "Set",
+        "image": "gargoyle_head",
+        "properties":"Defense: 175-189 (varies)(Base Defense: 50-64)\nRequired Level: 54\nRequired Strength: 50\nDurability: 20\nChance to Block: 60%\n(Necromancer Only)\n+125 Defense\n+30% Increased Chance Of Blocking\nPoison Resist +40%\nFire Resist +38-45% (varies)\n+15 To Dexterity\n+25 To Strength\n+2 To Poison And Bone Skills (Necromancer Only)\n-25% To Enemy Poison Resistance (3 Items)\nReplenish Life +15 (4 Items)"
     },
     {
-        "setName": "",
-        "name":"",
-        "part":"",
-        "type":"",
-        "kind": "",
-        "item": "",
-        "image": "",
-        "properties":""
+        "setName": "Trang-Oul's Avatar",
+        "name":"Trang-Oul's Girth",
+        "part":"Belts",
+        "type":"Troll Belt",
+        "kind": "Armor",
+        "item": "Set",
+        "image": "heavy_belt",
+        "properties":"Defense: 134-166 (varies)(Base Defense: 59-66)\nRequired Level: 62\nRequired Strength: 91\nDurability: 18\n16 boxes\n+75-100 Defense (varies)\nRequirements -40%\nCannot Be Frozen\nReplenish Life +5\n+25-50 To Mana (varies)\n+30 Maximum Stamina\n+66 To Life\nCold Resist +40% (3 Items)"
     },
     {
-        "setName": "",
-        "name":"",
-        "part":"",
-        "type":"",
-        "kind": "",
-        "item": "",
-        "image": "",
-        "properties":""
+        "setName": "Trang-Oul's Avatar",
+        "name":"Trang-Oul's Claws",
+        "part":"Gloves",
+        "type":"Heavy Bracers",
+        "kind": "Armor",
+        "item": "Set",
+        "image": "bracers_m",
+        "properties":"Defense: 67-74 (varies)(Base Defense: 37-44)\nRequired Level: 45\nRequired Strength: 58\nDurability: 16\n+20% Faster Cast Rate\nCold Resist +30%\n+30 Defense\n+25% Poison Skill Damage\n+2 To Curses (Necromancer Only)"
     }
 ]

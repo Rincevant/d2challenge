@@ -1,42 +1,42 @@
 [
     {
-        "setName": "",
-        "name":"",
-        "part":"",
-        "type":"",
-        "kind": "",
-        "item": "",
-        "image": "",
-        "properties":""
+        "setName": "Sander's Folly",
+        "name":"Sander's Paragon",
+        "part":"Helms",
+        "type":"Cap",
+        "kind": "Armor",
+        "item": "Set",
+        "image": "war_bonnet",
+        "properties":"Defense: (4-102) - (6-104)(varies) (Base Defense: 3-5)\nRequired Level: 25\nDurability: 12\n+ (1 Per Character Level) 1-99 Defense (Based on Character Level)\nAttacker Takes Damage of 8\n35% Better Chance of Getting Magic Items"
     },
     {
-        "setName": "",
-        "name":"",
-        "part":"",
-        "type":"",
-        "kind": "",
-        "item": "",
-        "image": "",
-        "properties":""
+        "setName": "Sander's Folly",
+        "name":"Sander's Superstition",
+        "part":"Wands",
+        "type":"Bone Wand",
+        "kind": "Weapon",
+        "item": "Set",
+        "image": "gravenspine",
+        "properties":"Damage: 5 To 12 (8.5 Avg)\nRequired Level: 25\nDurability: 15\nBase Weapon Speed: [-20]\n+75% Enhanced Damage\n+50% Damage To Undead\n+20% Faster Cast Rate\n+25 To Mana\n8% Mana Stolen Per Hit\n25-75 Cold Damage, 2 sec. Duration (Normal)"
     },
     {
-        "setName": "",
-        "name":"",
-        "part":"",
-        "type":"",
-        "kind": "",
-        "item": "",
-        "image": "",
-        "properties":""
+        "setName": "Sander's Folly",
+        "name":"Sander's Taboo",
+        "part":"Gloves",
+        "type":"Heavy Gloves",
+        "kind": "Armor",
+        "item": "Set",
+        "image": "heavy_gloves",
+        "properties":"Defense: 25-31 (varies)(Base Defense: 5-6)\nRequired Level: 28\nDurability: 14\nAdds 9-11 Poison Damage Over 3 Seconds\n+20-25 Defense\n+40 To Life\n+20% Increased Attack Speed"
     },
     {
-        "setName": "",
-        "name":"",
-        "part":"",
-        "type":"",
-        "kind": "",
-        "item": "",
-        "image": "",
-        "properties":""
+        "setName": "Sander's Folly",
+        "name":"Sander's Riprap",
+        "part":"Boots",
+        "type":"Heavy Boots",
+        "kind": "Armor",
+        "item": "Set",
+        "image": "heavy_boots",
+        "properties":"Defense: 5-6 (varies)\nRequired Level: 20\nRequired Strength: 18\nDurability: 14\nAssassin Kick Damage: 4-10\n+40% Faster Run/Walk\n+100 To Attack Rating\n+10 To Dexterity\n+5 To Strength"
     }
 ]

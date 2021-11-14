@@ -1,32 +1,32 @@
 [
     {
-        "setName": "",
-        "name":"",
-        "part":"",
-        "type":"",
-        "kind": "",
-        "item": "",
-        "image": "",
-        "properties":""
+        "setName": "Naj's Ancient Vestige",
+        "name":"Naj's Circlet",
+        "part":"Helms",
+        "type":"Circlet",
+        "kind": "Armor",
+        "item": "Set",
+        "image": "circlet",
+        "properties":"Defense: 95-105(varies) (Base Defense: 20-30)\nRequired Level: 28\nDurability: 35\n+75 Defense\n+25-35 Fire Damage\n12% Chance To Cast Level 5 Chain Lightning When Struck\n+15 To Strength\n+5 To Light Radius"
     },
     {
-        "setName": "",
-        "name":"",
-        "part":"",
-        "type":"",
-        "kind": "",
-        "item": "",
-        "image": "",
-        "properties":""
+        "setName": "Naj's Ancient Vestige",
+        "name":"Naj's Light Plate",
+        "part":"Chests",
+        "type":"Hellforge Plate",
+        "kind": "Armor",
+        "item": "Set",
+        "image": "plate_mail",
+        "properties":"Defense: 721-830 (varies)(Base Defense: 421-530)\nRequired Level: 71\nRequired Strength: 79\nDurability: 60\n+300 Defense\nRequirements -60%\n45% Damage Taken Goes To Mana\n+1 To All Skills\nAll Resistances +25\n+65 To Life"
     },
     {
-        "setName": "",
-        "name":"",
-        "part":"",
-        "type":"",
-        "kind": "",
-        "item": "",
-        "image": "",
-        "properties":""
+        "setName": "Naj's Ancient Vestige",
+        "name":"Naj's Puzzler",
+        "part":"Staves",
+        "type":"Elder Staff",
+        "kind": "Weapon",
+        "item": "Set",
+        "image": "lazarus_spire",
+        "properties":"Damage: 200 To 232 (216 Avg)\nRequired Level: 78\nRequired Strength: 44\nRequired Dexterity: 37\nDurability: 35\nBase Weapon Speed: [0]\n+150% Enhanced Damage\n+50% Damage To Undead\nAdds 6-45 Lightning Damage\n+30% Faster Cast Rate\n+1 To All Skills\n+70 To Mana\n+35 To Energy\nLevel 11 Teleport (69 Charges)"
     }
 ]

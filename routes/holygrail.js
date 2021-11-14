@@ -46,11 +46,4 @@ router.get('/set', async (req, res) => {
   res.render('holyset', {objets:objets, setName:setName});
 });
 
-
-router.get('/', async (req, res) => {
-  console.log('Request for holygrail page recieved');  
-  var objets = await UniqueItems.getAllUnique()
-  res.render('holygrail', {objets:objets});
-});
-
 module.exports = router

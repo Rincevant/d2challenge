@@ -1,42 +1,42 @@
 [
     {
-        "setName": "",
-        "name":"",
-        "part":"",
-        "type":"",
-        "kind": "",
-        "item": "",
-        "image": "",
-        "properties":""
+        "setName": "Hwanin's Majesty",
+        "name":"Hwanin's Splendor",
+        "part":"Helms",
+        "type":"Grand Crown",
+        "kind": "Armor",
+        "item": "Set",
+        "image": "crown_of_thieves",
+        "properties":"Defense: 228 (varies)(Base Defense: 78-113)\nRequired Level: 45\nRequired Strength: 103\nDurability: 50\n+100% Enhanced Defense\nReplenish Life +20\nMagic Damage Reduced By 10\nCold Resist +37%"
     },
     {
-        "setName": "",
-        "name":"",
-        "part":"",
-        "type":"",
-        "kind": "",
-        "item": "",
-        "image": "",
-        "properties":""
+        "setName": "Hwanin's Majesty",
+        "name":"Hwanin's Justice",
+        "part":"Polearms",
+        "type":"Bill",
+        "kind": "Weapon",
+        "item": "Set",
+        "image": "voulge",
+        "properties":"Damage: 42 To 159 (100.5 Avg)\nRequired Level: 28\nRequired Strength: 95\nBase Weapon Speed: [0]\n+200% Enhanced Damage\nAdds 5-25 Lightning Damage\n40% Increased Attack Speed\n+330 To Attack Rating\nIndestructible\n10% Chance To Cast Level 3 Ice Blast On Striking"
     },
     {
-        "setName": "",
-        "name":"",
-        "part":"",
-        "type":"",
-        "kind": "",
-        "item": "",
-        "image": "",
-        "properties":""
+        "setName": "Hwanin's Majesty",
+        "name":"Hwanin's Refuge",
+        "part":"Chests",
+        "type":"Tigulated Mail",
+        "kind": "Armor",
+        "item": "Set",
+        "image": "scale_mail",
+        "properties":"Defense: 376-390 (Base Defense: 176-190)\nRequired Level: 30\nRequired Strength: 86\nDurability: 36\n+200 Defense\n10% Chance To Cast Level 3 Static Field When Struck\nPoison Resist +27%\n+100 To Life"
     },
     {
-        "setName": "",
-        "name":"",
-        "part":"",
-        "type":"",
-        "kind": "",
-        "item": "",
-        "image": "",
-        "properties":""
+        "setName": "Hwanin's Majesty",
+        "name":"Hwanin's Blessing",
+        "part":"Belts",
+        "type":"Belt",
+        "kind": "Armor",
+        "item": "Set",
+        "image": "belt_m",
+        "properties":"Defense: 6-153 (varies)(Base Defense: 5)\nRequired Level: 35\nRequired Strength: 25\nDurability: 16\n12 boxes\n+ (1.5 Per Character Level) 1-148 Defense (Based on Character Level)\nAdds 3-33 Lightning Damage\nPrevent Monster Heal\n12% Damage Taken Goes To Mana"
     }
 ]

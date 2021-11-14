@@ -1,42 +1,42 @@
 [
     {
-        "setName": "",
-        "name":"",
-        "part":"",
-        "type":"",
-        "kind": "",
-        "item": "",
-        "image": "",
-        "properties":""
+        "setName": "Orphan's Call",
+        "name":"Guillaume's Face",
+        "part":"Helms",
+        "type":"Winged Helm",
+        "kind": "Armor",
+        "item": "Set",
+        "image": "great_helm",
+        "properties":"Defense: 217 (Base Defense: 85-98)\nRequired Level: 34\nRequired Strength: 115\nDurability: 40\n+120% Enhanced Defense\n+30% Faster Hit Recovery\n15% Deadly Strike\n35% Chance of Crushing Blow\n+15 To Strength"
     },
     {
-        "setName": "",
-        "name":"",
-        "part":"",
-        "type":"",
-        "kind": "",
-        "item": "",
-        "image": "",
-        "properties":""
+        "setName": "Orphan's Call",
+        "name":"Whitstan's Guard",
+        "part":"Shields",
+        "type":"Round Shield",
+        "kind": "Armor",
+        "item": "Set",
+        "image": "mosers_blessed_circle",
+        "properties":"Defense: 154 (Base Defense: 47-55)\nRequired Level: 29\nRequired Strength: 53\nDurability: 64\nChance To Block: Pal: 97% Ama/Asn/Bar: 92% Dru/Nec/Sor: 87%\nPaladin Smite Damage: 7 to 14\n+175% Enhanced Defense\nHalf Freeze Duration\n40% Faster Block Rate\n+55% Increased Chance Of Blocking\n+5 To Light Radius"
     },
     {
-        "setName": "",
-        "name":"",
-        "part":"",
-        "type":"",
-        "kind": "",
-        "item": "",
-        "image": "",
-        "properties":""
+        "setName": "Orphan's Call",
+        "name":"Magnus' Skin",
+        "part":"Gloves",
+        "type":"Sharkskin Gloves",
+        "kind": "Armor",
+        "item": "Set",
+        "image": "heavy_gloves",
+        "properties":"Defense: 60 (Base Defense: 33-39)\nRequired Level: 37\nRequired Strength: 20\nDurability: 14\n+50% Enhanced Defense\n+20% Increased Attack Speed\n+100 To Attack Rating\n+3 To Light Radius\nFire Resist +15%"
     },
     {
-        "setName": "",
-        "name":"",
-        "part":"",
-        "type":"",
-        "kind": "",
-        "item": "",
-        "image": "",
-        "properties":""
+        "setName": "Orphan's Call",
+        "name":"Wilhelm's Pride",
+        "part":"Belts",
+        "type":"Battle Belt",
+        "kind": "Armor",
+        "item": "Set",
+        "image": "heavy_belt",
+        "properties":"Defense: 75 (Base Defense: 37-42)\nRequired Level: 42\nRequired Strength: 88\nDurability: 18\n16 boxes\n+75% Enhanced Defense\n5% Life Stolen Per Hit\n5% Mana Stolen Per Hit\nCold Resist +10%"
     }
 ]

@@ -1,52 +1,52 @@
 [
     {
-        "setName": "",
-        "name":"",
-        "part":"",
-        "type":"",
-        "kind": "",
-        "item": "",
-        "image": "",
-        "properties":""
+        "setName": "Tal Rasha's Wrappings",
+        "name":"Tal Rasha's Lidless Eye",
+        "part":"Wands",
+        "type":"Swirling Crystal",
+        "kind": "Weapon",
+        "item": "Set",
+        "image": "dragon_stone",
+        "properties":"Damage: 18 To 42 (30 Avg)\nRequired Level: 65\nDurability: 50\nBase Weapon Speed: [10]\n(Sorceress Only)\n20% Faster Cast Rate\n+77 To Mana\n+57 To Life\n+10 To Energy\n+1-2 To Lightning Mastery (Sorceress Only) (varies)\n+1-2 To Fire Mastery (Sorceress Only) (varies)\n+1-2 To Cold Mastery (Sorceress Only) (varies)\n+1 To Sorceress Skill Levels (2 Items)\n-15% To Enemy Fire Resistance (3 Items)\n-15% To Enemy Lightning Resistance (4 Items)\n+15% To Cold Skills Damage (Complete Set)"
     },
     {
-        "setName": "",
-        "name":"",
-        "part":"",
-        "type":"",
-        "kind": "",
-        "item": "",
-        "image": "",
-        "properties":""
+        "setName": "Tal Rasha's Wrappings",
+        "name":"Tal Rasha's Horadric Crest",
+        "part":"Helms",
+        "type":"Death Mask",
+        "kind": "Armor",
+        "item": "Set",
+        "image": "mask",
+        "properties":"Defense: 99-131 (varies)(Base Defense: 54-86)\nRequired Level: 66\nRequired Strength: 55\nDurability: 20\n10% Life Stolen Per Hit\n10% Mana Stolen Per Hit\nAll Resistances +15\n+45 Defense\n+30 To Mana\n+60 To Life"
     },
     {
-        "setName": "",
-        "name":"",
-        "part":"",
-        "type":"",
-        "kind": "",
-        "item": "",
-        "image": "",
-        "properties":""
+        "setName": "Tal Rasha's Wrappings",
+        "name":"Tal Rasha's Guardianship",
+        "part":"Chests",
+        "type":"Lacquered Plate",
+        "kind": "Armor",
+        "item": "Set",
+        "image": "gothic_plate",
+        "properties":"Defense: 833-941 (varies)(Base Defense: 433-541)\nRequired Level: 71\nRequired Strength: 84\nDurability: 55\n+400 Defense\nRequirements -60%\nMagic Damage Reduced By 15\nCold Resist +40%\nLightning Resist +40%\nFire Resist +40%\n88% Better Chance Of Getting Magic Items\n+10% Faster Cast Rate (2 Items)"
     },
     {
-        "setName": "",
-        "name":"",
-        "part":"",
-        "type":"",
-        "kind": "",
-        "item": "",
-        "image": "",
-        "properties":""
+        "setName": "Tal Rasha's Wrappings",
+        "name":"Tal Rasha's Fine-Spun Cloth",
+        "part":"Belts",
+        "type":"Mesh Belt",
+        "kind": "Armor",
+        "item": "Set",
+        "image": "belt_m",
+        "properties":"Defense: 35-40 (varies)\nDefense: 95-100 (varies) (Base Defense: 35-40)\nRequired Level: 53\nRequired Strength: 47\nDurability: 16\n16 boxes\nRequirements -20%\n37% Damage Taken Goes To Mana\n+30 To Mana\n+20 To Dexterity\n10-15% Better Chance Of Getting Magic Items (varies)\n+60 Defense (2 Items)\n+10% Faster Cast Rate (3 Items)"
     },
     {
-        "setName": "",
-        "name":"",
-        "part":"",
-        "type":"",
-        "kind": "",
-        "item": "",
-        "image": "",
-        "properties":""
+        "setName": "Tal Rasha's Wrappings",
+        "name":"Tal Rasha's Adjudication",
+        "part":"Other",
+        "type":"Amulet",
+        "kind": "Other",
+        "item": "Set",
+        "image": "amulet2",
+        "properties":"Required Level: 67\n+2 To Sorceress Skill Levels\nLightning Resist +33%\nAdds 3-32 Lightning Damage\n+42 To Mana\n+50 To Life\n+10% Faster Cast Rate (4 Items)"
     }
 ]

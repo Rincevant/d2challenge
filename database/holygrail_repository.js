@@ -38,5 +38,17 @@ module.exports = {
             console.log(error)    
         }        
         return result
+    },
+
+    async editHolyGrail(holygrailTemplate, idUser) {
+        let holy
+        try {
+            holy = await Holygrail.findOne( { where: { id_user: idUser }} )
+            holy.holygrail = JSON.stringify(holygrailTemplate)
+            holy.save()
+        } catch (error) {
+            console.log(error)    
+        }
+        return holy
     }
 }

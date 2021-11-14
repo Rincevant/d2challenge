@@ -5,35 +5,10 @@ const Set = require('./set_items')
 //requiring path and fs modules
 const path = require('path');
 const fs = require('fs');
-var total = 0
-
-// CHANGE HERE AND IN REPO ACCESS DB
-
-var dbname = "d2challenge"
-var username = "postgres"
-var password = "08082014"
-
-/*
-var dbname = "d79a8drjd5q1g6"
-var username = "yqvqwpuzkjkrek"
-var password = "ad26e538911aff6febc1c7068c64382666c956dd7872a3a954ebb03e245899b6"
-*/
-
-var sequelize = new Sequelize(dbname, username, password, {
-    host: 'localhost',
-    //host : 'ec2-63-34-223-144.eu-west-1.compute.amazonaws.com',
-    dialect: 'postgres',
-    port: 5432,
-    /*dialectOptions: {
-        ssl: {
-            require: true,
-            rejectUnauthorized: false
-        }
-    }*/
-});
+const db = require('./connexion')
 
 // Connect to databse
-sequelize.authenticate().then(() => {
+db.authenticate().then(() => {
     console.log('Connection established successfully!!!!');
     createDatabaseUnique()
     createDatabaseRuneword()
@@ -44,7 +19,9 @@ sequelize.authenticate().then(() => {
 
 function createDatabaseSet() {
     const directorySetNormal = path.join(__dirname, 'set/normal');
+    const directorySetLod = path.join(__dirname, 'set/lod');
     readAndWrite(directorySetNormal, 'set/normal', 'set')
+    readAndWrite(directorySetLod, 'set/lod', 'set')
 }
 
 
@@ -89,7 +66,6 @@ function readAndWrite(path, nameDirectory, kind) {
                     } else if (kind == 'set') {
                         var res = await addSetObjToDB(element)
                     }
-
                 });
             })
 
@@ -116,7 +92,6 @@ async function addUniqueToDB(objet) {
     } catch (error) {
         
     }
-
     return result
 }
 
@@ -134,7 +109,6 @@ async function addRunewordToDB(objet) {
     } catch (error) {
         
     }
-
     return result
 }
 
@@ -154,6 +128,5 @@ async function addSetObjToDB(objet) {
     } catch (error) {
         
     }
-
     return result
 }

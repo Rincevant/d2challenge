@@ -1,62 +1,62 @@
 [
     {
-        "setName": "",
-        "name":"",
-        "part":"",
-        "type":"",
-        "kind": "",
-        "item": "",
-        "image": "",
-        "properties":""
+        "setName": "Immortal King",
+        "name":"Immortal King's Will",
+        "part":"Helms",
+        "type":"Avenger Guard",
+        "kind": "Armor",
+        "item": "Set",
+        "image": "avenger_guard",
+        "properties":"Defense: 160-175 (varies) (Base Defense: 35-50)\nRequired Level: 47\nRequired Strength: 65\nDurability: 55\n(Barbarian Only)\n+4 To Light Radius\n+125 Defense\n37% Extra Gold From Monsters\n25-40% Better Chance Of Finding Magic Items (varies)\n+2 To Warcries Skills (Barbarian Only)\nSocketed (2)"
     },
     {
-        "setName": "",
-        "name":"",
-        "part":"",
-        "type":"",
-        "kind": "",
-        "item": "",
-        "image": "",
-        "properties":""
+        "setName": "Immortal King",
+        "name":"Immortal King's Stone Crusher",
+        "part":"Maces",
+        "type":"Ogre Maul",
+        "kind": "Weapon",
+        "item": "Set",
+        "image": "maul",
+        "properties":"Damage: 231 To 318 (274.5 Avg)\nRequired Level: 76\nRequired Strength: 225\nBase Weapon Speed: [10]\n+200% Enhanced Damage\n+200% Damage To Demons\n+250% Damage To Undead\n40% Increased Attack Speed\nIndestructible\n35-40% Chance Of Crushing Blow (varies)\nSocketed (2)\nAdds 211-397 Fire Damage (2 items)\nAdds 7-477 Lightning Damage (3 Items)\nAdds 127-364 Cold Damage, 6 sec. Duration (Normal) (4 Items)\n+204 Poison Damage Over 6 Seconds (5 Items)\nAdds 250-361 Magic Damage (Complete Set)"
     },
     {
-        "setName": "",
-        "name":"",
-        "part":"",
-        "type":"",
-        "kind": "",
-        "item": "",
-        "image": "",
-        "properties":""
+        "setName": "Immortal King",
+        "name":"Immortal King's Soul Cage",
+        "part":"Chests",
+        "type":"Sacred Armor",
+        "kind": "Armor",
+        "item": "Set",
+        "image": "victors_silk",
+        "properties":"Defense: 1001 (Base Defense: 487-600)\nDefense: 1301 (Base Defense: 487-600)\nRequired Level: 76\nRequired Strength: 232\nDurability: 60\n+400 Defense\n5% Chance To Cast Level 5 Enchant When Struck\nPoison Resist +50%\n+2 To Combat Skills (Barbarian Only)\n+25% Faster Hit Recovery (2 Items)\nCold Resist +40% (3 Items)\nFire Resist +40% (4 Items)\nLightning Resist +40% (5 Items)\n+50% Enhanced Defense (Complete Set)"
     },
     {
-        "setName": "",
-        "name":"",
-        "part":"",
-        "type":"",
-        "kind": "",
-        "item": "",
-        "image": "",
-        "properties":""
+        "setName": "Immortal King",
+        "name":"Immortal King's Detail",
+        "part":"Belts",
+        "type":"War Belt",
+        "kind": "Armor",
+        "item": "Set",
+        "image": "girdle_h",
+        "properties":"Defense: 89 (Base Defense: 41-52)\nDefense: 194 (Base Defense: 41-52)\nDefense: 247 (Base Defense 41-52)\nRequired Level: 29\nRequired Strength: 110\nDurability: 24\n16 boxes\n+36 Defense\nLightning Resist +31%\nFire Resist +28%\n+25 To Strength\n+105 Defense (2 items)\n+25% Faster Hit Recovery (3 Items)\n+100% Enhanced Defense (4 Items)\nDamage Reduced By 20% (5 Items)\n+2 To Masteries (Barbarian Only) (Complete Set)"
     },
     {
-        "setName": "",
-        "name":"",
-        "part":"",
-        "type":"",
-        "kind": "",
-        "item": "",
-        "image": "",
-        "properties":""
+        "setName": "Immortal King",
+        "name":"Immortal King's Forge",
+        "part":"Gloves",
+        "type":"War Gauntlets",
+        "kind": "Armor",
+        "item": "Set",
+        "image": "gaunlets_h",
+        "properties":"Defense: 108-118 (varies)(Base Defense: 43-53)\nDefense: 228-238 (varies)(Base Defense: 43-53)\nRequired Level: 30\nRequired Strength: 110\nDurability: 24\n+65 Defense\n12% Chance To Cast Level 4 Charged Bolt When Struck\n+20 To Dexterity\n+20 To Strength\n+25% Increased Attack Speed (2 items)\n+120 Defense (3 Items)\n10% Life Stolen Per Hit (4 Items)\n10% Mana Stolen Per Hit (5 Items)\nFreezes Target +2 (Complete Set)"
     },
     {
-        "setName": "",
-        "name":"",
-        "part":"",
-        "type":"",
-        "kind": "",
-        "item": "",
-        "image": "",
-        "properties":""
+        "setName": "Immortal King",
+        "name":"Immortal King's Pillar",
+        "part":"Boots",
+        "type":"War Boots",
+        "kind": "Armor",
+        "item": "Set",
+        "image": "plate_boots",
+        "properties":"Defense: 118-128 (varies) (Base Defense: 43-53)\nDefense: 278-288 (varies) (Base Defense: 43-53)\nRequired Level: 31\nRequired Strength: 125\nDurability: 24\nAssassin Kick Damage: 39-80\n+75 Defense\n40% Faster Run/Walk\n+110 To Attack Rating\n+44 To Life\n25% Better Chance of Getting Magic Items (2 items)\n+2 To Combat Skills (Barbarian Only) (3 Items)\n+160 Defense (4 Items)\nHalf Freeze Duration (5 Items)"
     }
 ]

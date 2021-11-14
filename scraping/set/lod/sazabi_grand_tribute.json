@@ -1,32 +1,32 @@
 [
     {
-        "setName": "",
-        "name":"",
-        "part":"",
-        "type":"",
-        "kind": "",
-        "item": "",
-        "image": "",
-        "properties":""
+        "setName": "Sazabi's Grand Tribute",
+        "name":"Sazabi's Mental Sheath",
+        "part":"Helms",
+        "type":"Basinet",
+        "kind": "Armor",
+        "item": "Set",
+        "image": "duskdeep",
+        "properties":"Defense: 175-184(varies) (Base Defense: 75-84)\nRequired Level: 43\nRequired Strength: 82\nDurability: 30\n+1 To All Skills\nLightning Resist +15-20% (varies)\nFire Resist +15-20% (varies)\n+100 Defense"
     },
     {
-        "setName": "",
-        "name":"",
-        "part":"",
-        "type":"",
-        "kind": "",
-        "item": "",
-        "image": "",
-        "properties":""
+        "setName": "Sazabi's Grand Tribute",
+        "name":"Sazabi's Cobalt Redeemer",
+        "part":"Swords",
+        "type":"Cryptic Sword",
+        "kind": "Weapon",
+        "item": "Set",
+        "image": "hellplague",
+        "properties":"Damage: 12 To 192 (102 Avg)\nRequired Level: 73\nRequired Strength: 99\nRequired Dexterity: 109\nBase Weapon Speed: [-10]\n+150% Enhanced Damage\n+318% Damage To Demons\nAdds 25-35 Cold Damage, 2 sec. Duration (Normal)\n+40% Increased Attack Speed\nIndestructible\n+15 To Dexterity\n+5 To Strength"
     },
     {
-        "setName": "",
-        "name":"",
-        "part":"",
-        "type":"",
-        "kind": "",
-        "item": "",
-        "image": "",
-        "properties":""
+        "setName": "Sazabi's Grand Tribute",
+        "name":"Sazabi's Ghost Liberator",
+        "part":"Chests",
+        "type":"Balrog Skin",
+        "kind": "Armor",
+        "item": "Set",
+        "image": "splint_mail",
+        "properties":"Defense: 810-917 (varies)(Base Defense: 410-517)\nRequired Level: 67\nRequired Strength: 165\nDurability: 30\n+400 Defense\n+30% Faster Hit Recovery\n+300 To Attack Rating Against Demons\n+25 To Strength\n+50-75 To Life (varies)"
     }
 ]

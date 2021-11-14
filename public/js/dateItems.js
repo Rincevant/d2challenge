@@ -10,6 +10,15 @@ if (dirty != null) {
 }
 
 function obtain(id, kind, part, value, name, item) {
+    // If template and token are present
+    var token = localStorage.getItem("token")
+    var holyGrail = localStorage.getItem("holygrail")
+    if (token != null && holyGrail != null) {        
+        setDateAndObtainItem(id, kind, part, value, name, item)
+    }
+}
+
+function setDateAndObtainItem(id, kind, part, value, name, item) {
     var d = new Date();
     let month = String(d.getMonth() + 1);
     let day = String(d.getDate());

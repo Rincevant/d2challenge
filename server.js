@@ -1,4 +1,5 @@
 const express=require("express");
+var cors = require('cors')
 var sequelize = require('./database/connexion')
 const path=require("path");
 const app=express();
@@ -8,6 +9,8 @@ var port = process.env.PORT || 8080;
 app.use(express.urlencoded({ extended: false }))
 // parse application/json
 app.use(express.json())
+
+app.use(cors())
 
 // Connect to databse
 sequelize.authenticate().then(() => {
@@ -21,6 +24,7 @@ var pages = require('./routes/pages')
 var authRegister = require('./routes/authRegister')
 var authLogin = require('./routes/authLogin')
 var holygrail = require('./routes/holygrail')
+var saveTemplate = require('./routes/saveTemplate')
 
 // Static Files
 app.use(express.static(__dirname + '/public'));
@@ -34,6 +38,7 @@ app.use("/", pages);
 app.use("/login", authLogin);
 app.use("/register", authRegister);
 app.use("/holygrail", holygrail);
+app.use("/saveTemplate", saveTemplate);
 
 
 
