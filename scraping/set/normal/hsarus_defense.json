@@ -1,6 +1,6 @@
 [
     {
-        "setName": "Hsarus's Defense",
+        "setName": "Hsaru's Defense",
         "name":"Hsarus' Iron Fist",
         "part":"Shields",
         "type":"Buckler",
@@ -10,7 +10,7 @@
         "properties":"Defense: 4-6 (varies)\nDefense: (6-251) - (8-253) (varies)(Base Defense: 4-6)\nRequired Level: 3\nRequired Strength: 12\nDurability: 12\nPaladin Smite Damage: 1 to 3\nChance to Block: Pal: 30%, Ama/Asn/Bar/: 25%\nDru/Nec/Sor: 20%\nDamage Reduced by 2\n+10 to Strength\n+ (2.5 Per Character Level) 2-247 Defense (Based On Character Level) (2 Items)"
     },
     {
-        "setName": "Hsarus's Defense",
+        "setName": "Hsaru's Defense",
         "name":"Hsarus' Iron Stay",
         "part":"Belts",
         "type":"Belt",
@@ -20,7 +20,7 @@
         "properties":"Defense: 5\nDefense: 7-252 (Base Defense: 5)\nRequired Level: 3\nRequired Strength: 25\nDurability: 16\n12 boxes\nCold Resist +20%\n+20 to Life\n+ (2.5 Per Character Level) 2-247 Defense (Based On Character Level) (2 Items)"
     },
     {
-        "setName": "Hsarus's Defense",
+        "setName": "Hsaru's Defense",
         "name":"Hsarus' Iron Heel",
         "part":"Boots",
         "type":"Chain Boots",

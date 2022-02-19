@@ -1172,10 +1172,7 @@ module.exports =
                     }
                 },
                 "Fists" : {
-                    "normal": {
-                        "Stoneraven": {
-                            "owned": false, "date": null
-                        },
+                    "normal": {                        
                         "Bartuc's Cut-Throat": {
                             "owned": false, "date": null
                         },
@@ -1288,30 +1285,30 @@ module.exports =
                 },
                 "Jewels": {
                     "level up": {
-                        "Cold": {
+                        "Cold Level Up": {
                             "owned": false, "date": null
                         },
-                        "Light": {
+                        "Light Level Up": {
                             "owned": false, "date": null
                         },
-                        "Fire": {
+                        "Fire Level Up": {
                             "owned": false, "date": null
                         },
-                        "Poison": {
+                        "Poison Level Up": {
                             "owned": false, "date": null
                         }
                     },
                     "die": {
-                        "Cold": {
+                        "Cold Die": {
                             "owned": false, "date": null
                         },
-                        "Light": {
+                        "Light Die": {
                             "owned": false, "date": null
                         },
-                        "Fire": {
+                        "Fire Die": {
                             "owned": false, "date": null
                         },
-                        "Poison": {
+                        "Poison Die": {
                             "owned": false, "date": null
                         }
                     }
@@ -1639,7 +1636,7 @@ module.exports =
                 "M'avina's Embrace": {
                     "owned": false, "date": null
                 },
-                "M'avina's false Sight": {
+                "M'avina's True Sight": {
                     "owned": false, "date": null
                 },
                 "M'avina's Tenet": {
@@ -1726,7 +1723,7 @@ module.exports =
                 "Tal Rasha's Horadric Crest": {
                     "owned": false, "date": null
                 },
-                "Tal Rasha's Fine Spun Cloth": {
+                "Tal Rasha's Fine-Spun Cloth": {
                     "owned": false, "date": null
                 }
             },

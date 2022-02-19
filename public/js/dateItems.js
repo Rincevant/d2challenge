@@ -73,6 +73,7 @@ function obtainUniqueItem(kind, part, value, name, date, item) {
 
 function obtainSetItem(item, value, name, date) {
     var templateJSON = JSON.parse(localStorage.getItem("holygrail"))
+    console.log(name, "Tal Rasha's Fine Spun Cloth")
     
     var obtainValue = templateJSON[item][value][name].owned
 

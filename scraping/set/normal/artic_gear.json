@@ -1,6 +1,6 @@
 [
     {
-        "setName": "Artic Gear",
+        "setName": "Arctic Gear",
         "name":"Arctic Furs",
         "part":"Armor",
         "type":"Quilted Armor",
@@ -10,7 +10,7 @@
         "properties":"Defense: 45 - 51 (varies)(Base Defense 8-11)\nDefense: (48-342) - (54-348) (varies)(Base Defense 8-11)\nRequired Level: 2\nRequired Strength: 12\nDurability: 2false\n+275-325% Enhanced Defense (varies)\nAll Resistances +1false\n+ (3 Per Character Level) 3-297 Defense (Based On Character Level) (2 Set Items)\nCold Resist +15% (3 Set Items)"
     },
     {
-        "setName": "Artic Gear",
+        "setName": "Arctic Gear",
         "name":"Arctic Binding",
         "part":"Belts",
         "type":"Light Belt",
@@ -20,7 +20,7 @@
         "properties":"Defense: 33 (Base Defense: 3)\nRequired Level: 2\nDurability: 14\nCold Resist +4false%\n+3false Defense\n+4false% Better Chance Of Getting Magic Items (2 Set Items)\nCold Resist +1false% (3 Set Items)"
     },
     {
-        "setName": "Artic Gear",
+        "setName": "Arctic Gear",
         "name":"Arctic Mitts",
         "part":"Gloves",
         "type":"Light Gauntlets",
@@ -30,7 +30,7 @@
         "properties":"Defense: 9-11 (varies)\nRequired Level: 2\nRequired Strength: 45\nDurability: 18\n+2false To Life\n1false% Increased Attack Speed\n+5false To Attack Rating (2 Set Items)\n+1false To Dexterity (3 Set Items)"
     },
     {
-        "setName": "Artic Gear",
+        "setName": "Arctic Gear",
         "name":"Arctic Horn",
         "part":"Bows",
         "type":"Short War Bow",

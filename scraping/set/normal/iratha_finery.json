@@ -1,6 +1,6 @@
 [
     {
-        "setName": "Irathas's Finery",
+        "setName": "Iratha's Finery",
         "name":"Iratha's Coil",
         "part":"Helms",
         "type":"Crown",
@@ -10,7 +10,7 @@
         "properties":"Defense: 25-45 (varies)\nDefense: (27-223) - (47-243) (varies)(Base Defense: 25-45)\nRequired Level: 15\nRequired Strength: 55\nDurability: 50\nLightning Resist +30%\nFire Resist +30%\n+ (2 Per Character Level) 2-198 Defense (Based On Character Level) (2 Items)"
     },
     {
-        "setName": "Irathas's Finery",
+        "setName": "Iratha's Finery",
         "name":"Iratha's Collar",
         "part":"Amulet",
         "type":"Amulet",
@@ -20,7 +20,7 @@
         "properties":"Required Level: 15\nPoison Length Reduced by 75%\nPoison Resist +30%\nAll Resistances +15 (2 Items)"
     },
     {
-        "setName": "Irathas's Finery",
+        "setName": "Iratha's Finery",
         "name":"Iratha's Cord",
         "part":"Belts",
         "type":"Heavy Belt",
@@ -30,7 +30,7 @@
         "properties":"Defense: 31 (Base Defense: 6)\nRequired Level: 15\nRequired Strength: 45\nDurability: 18\n12 boxes\n+25 Defense\n+5 To Minimum Damage\n+10 To Dexterity (2 Items)"
     },
     {
-        "setName": "Irathas's Finery",
+        "setName": "Iratha's Finery",
         "name":"Iratha's Cuff",
         "part":"Gloves",
         "type":"Light Gauntlets",
