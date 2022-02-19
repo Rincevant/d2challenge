@@ -7,12 +7,12 @@ var dbname = "d2challenge"
 var username = "postgres"
 var password = "08082014"
 /*
-var dbname = "d79a8drjd5q1g6"
-var username = "yqvqwpuzkjkrek"
-var password = "ad26e538911aff6febc1c7068c64382666c956dd7872a3a954ebb03e245899b6"
+var dbname = "d4n6rkgle70r4p"
+var username = "huuchfqlyxiutq"
+var password = "7987216a94e5146f32ad45263ad0c85325c446d7ce7ab222ebfbea738c09e918"
 */
 module.exports = new Sequelize(dbname, username, password, {
-    //host : 'ec2-63-34-223-144.eu-west-1.compute.amazonaws.com',
+    //host : 'ec2-54-216-90-155.eu-west-1.compute.amazonaws.com',
     host : 'localhost',
     dialect: 'postgres',
     port: 5432,
