@@ -10,12 +10,19 @@ const db = require('./connexion')
 // Connect to databse
 db.authenticate().then(() => {
     console.log('Connection established successfully!!!!');
+    eraseDataTable()
     createDatabaseUnique()
     createDatabaseRuneword()
     createDatabaseSet()
 }).catch(err => {
     console.error('Unable to connect to the database:', err);
 })
+
+function eraseDataTable() {
+    UniqueItem.destroy({ where : {}, truncate : true });
+    Runeword.destroy({ where : {}, truncate : true });
+    Set.destroy({ where : {}, truncate : true });
+}
 
 function createDatabaseSet() {
     const directorySetNormal = path.join(__dirname, 'set/normal');
@@ -84,7 +91,9 @@ async function addUniqueToDB(objet) {
         type : objet.type,
         properties : objet.properties,
         item : objet.item,
-        image : objet.image
+        image : objet.image,
+        nameFR : objet.nameFR,
+        propertiesFR : objet.propertiesFR
     }
     //console.log(newObjet)
     try {

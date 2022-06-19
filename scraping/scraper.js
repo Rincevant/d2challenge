@@ -79,19 +79,19 @@ scrapper()
 function scrapper() {
     
     
-    scraper.get('http://classic.battle.net/diablo2exp/items/normal/ustaves.shtml').then(function(tableData) {    
+    scraper.get('https://diablo2build.fr/objets/les-casques-uniques/').then(function(tableData) {    
 
-        console.log(tableData)
+       
         var objects = tableData[11]
     
         var listObjects = []
     
-        objects.forEach(element => {
+        tableData.forEach(element => {
             // Create JSON
             
             var objet = {} 
             
-            objet.kind = "Weapon"
+           /* objet.kind = "Weapon"
     
             objet.part = "Staves"
         
@@ -103,17 +103,27 @@ function scrapper() {
         
             objet.properties = element['1']
     
-            objet.item = 'Unique'    
+            objet.item = 'Unique'    */
 
             //objet.item = 'Rune Words'
             //objet.originalRuneWords = element['1.11 Rune Words']
             //objet.allowedItems = element['Allowed Items']
             //objet.runeOrder = element['Rune Order']
             //objet.completedStats = element['Completed Stats']
-        
+
+                   
+
+            element.forEach(json => {
+                if (!json['0'].includes("Niveau") && json['0'] != "") {
+                    objet.nameFR = json['0']
+                } else if (json['0'].includes("Niveau")) {
+                    objet.propertiesFR = json['0']
+                }
+            });
             listObjects.push(objet)
         });          
     
+        console.log(listObjects)
         writeFrile(listObjects)
         
     });   
@@ -123,7 +133,7 @@ function scrapper() {
 function writeFrile(listObjects) {
     // stringify JSON Object
     var jsonContent = JSON.stringify(listObjects);
-    fs.writeFile('ustaves_normal.json', jsonContent, 'utf8', function (err) {
+    fs.writeFile('test.json', jsonContent, 'utf8', function (err) {
         if (err) {
             console.log("An error occured while writing JSON Object to File.");
             return console.log(err);

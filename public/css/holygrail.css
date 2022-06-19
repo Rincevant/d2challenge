@@ -89,6 +89,14 @@
     color: #f0e7d8;
 }
 
+.obj_value {
+    text-align: center;
+    font-family: Formal;
+    font-size: 0.7em;
+    font-weight: 400;
+    color: #696969;
+}
+
 .obj_date{
     text-align: center;
     font-family: Formal;

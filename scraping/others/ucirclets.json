@@ -7,7 +7,9 @@
         "type": "Tiara",
         "properties": "Defense: 90-170 (varies)(Base Defense: 40-50)\nRequired Level: 77\nDurability: 25\n+50-120 Defense (varies)\n+20% Faster Hit Recovery\nCannot Be Frozen\nAll Resistances +50-70 (varies)\n(Ladder Only)\n(Only Spawns In Patch 1.10 or later)",
         "item": "Unique",
-        "image" : "tiara"
+        "image" : "tiara",
+        "nameFR": "Gardien de Kira",
+        "propertiesFR": "Niveau requis : 77\nDéfense : 90-170Durabilité : 25+50-120 de défense+20% à la récupération après un coupNe peut être immobilisé+50-70 à toutes les résistancesLadder seulement"
     },
     {
         "part" : "Circlet",

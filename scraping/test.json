@@ -1,0 +1,102 @@
+[
+    {
+        "nameFR": "Capuchon de biggin",
+        "propertiesFR": "Niveau requis : 3\nDéfense : 17-19Durabilité : 1230% de dégâts supplémentaires+30 en niveau d’attaque+15 au Mana+15 en vie+14 en défense"
+    },
+    {
+        "nameFR": "Calotte de la gloire",
+        "propertiesFR": "Niveau requis :14\nDéfense : 25-28Force requise : 26Durabilité : 24+10 en défenseAttaquant encaisse des dégâts de 7Chaque coup aveugle l’adversaire+15 en résistance à la foudre+100 en défense contre les missiles"
+    },
+    {
+        "nameFR": "Tarnhelm",
+        "propertiesFR": "Niveau requis : 15\nDéfense : 8-11Durabilité : 18Force requise : 15+1 à toutes les compétences+25-50% de chance de trouver un objet magique+75% d’or récupéré sur les monstres"
+    },
+    {
+        "nameFR": "Duskdeep",
+        "propertiesFR": "Niveau requis : 17\nDéfense : 45-60Force requise : 41Durabilité : 30+30-50 % en défense+10-20 en défenseDégâts réduits de 7+15 à toutes les résistances+8 aux dégâts max.-2 au cercle de lumière"
+    },
+    {
+        "nameFR": "Le visage de l’horreur",
+        "propertiesFR": "Niveau requis : 20\nDéfense : 34-52Durabilité : 20Force requise : 23150% de dégâts sur les morts-vivantsLe monstre touché s’enfuit (50% de chances de réussir le coup)+10 à toutes les résistances+20 en force+25 en défense"
+    },
+    {
+        "nameFR": "Os de ver",
+        "propertiesFR": "Niveau requis : 21\nDéfense : 33-36Force requise : 25Durabilité : 40+1 aux compétences du Nécromancien+80 de dégâts de poison sur 8 secondes5% de vie volée à chaque coup+25 à la résistance au poison+10 au mana"
+    },
+    {
+        "nameFR": "Howltusk",
+        "propertiesFR": "Niveau requis : 25\nDéfense : 64Force requise : 63Durabilité : 4035% des dégâts vont au mana+80% de défenseDégâts magiques réduits de 2Attaquant encaisse des dégâts de 3RiposterLe monstre touché s’enfuit 25%"
+    },
+    {
+        "nameFR": "Couronnes des morts-vivants",
+        "propertiesFR": "Niveau requis : 29\nDéfense : 99-113Force requise : 55Durabilité : 50+30-60% de défense+50% de dégâts contre les morts-vivants+50-100 au niveau d’attaque contre les morts-vivantsDurée d’immobilisation réduire de moitié5% de vie volée par coup+50 à la résistance au poison+40 en défense+3 à Maîtrise des Squelettes (Nécromancien uniquement)"
+    },
+    {
+        "nameFR": "Couronne du serf",
+        "propertiesFR": "Niveau requis : 28\nDéfense : 108Force requise : 20Durabilité : 12+100% de défense+1 à toutes les compétencesMarche/course plus rapide de 15%Régénération de la vie +6-12+20 en énergie+20en vitalité"
+    },
+    {
+        "nameFR": "Bloc-roc",
+        "propertiesFR": "Niveau requis : 31\nDéfense : 163-201Force requise : 43Durabilité : 18+160-220% de défenseDégâts réduit de 10%Récupération plus rapide de 30%+20-40 à la résistance au froid+20-50 à la résistance au feu+20-40 à la résistance à la foudre+15 en vitalité"
+    },
+    {
+        "nameFR": "Chasseur de crâne",
+        "propertiesFR": "Niveau requis : 35\nDéfense : 219-248Force requise : 59Durabilité : 24+200-240% de défense+10% à la vitesse d’attaque5% de vie volée par coup5% de mana volé par coup+30-50% de chance d’obtenir des objets magiquesRécupération plus rapide après un coup +10%"
+    },
+    {
+        "nameFR": "Casque des nuits",
+        "propertiesFR": "Niveau requis : 38\nDéfense : 77-273 à 86-282Force requise : 82Durabilité : 30+(2 par niveau ) 2-198 en défense (en fonction du niveau du perso)6% de chance de lancer un sort Vision Diminuée de niveau 3 quand touchéManteau des Ombres de niveau 5 (30 charges)Ne peut pas être immobilisé+20-40 à la résistance au feu5% de Mana volé par coup-4 au cercle de lumière"
+    },
+    {
+        "nameFR": "Corneface",
+        "propertiesFR": "Niveau requis : 41\nDéfense : 243-278Force requise : 55Durabilité : 20+180-220% de défenseRalenti la cible de 20%Attaquant encaisse des dégâts de 25Empêche le monstre de se soigner+20 en absorption de la foudre+15 à la résistance à la foudre"
+    },
+    {
+        "nameFR": "Œil vampirique",
+        "propertiesFR": "Niveau requis : 41\nDéfense : 252Force requise : 58Durabilité : 40+100% de défense+6-22 de dégâts de froid (durée du froid : 4 secondes)L’endurance diminue moins vite de 15%6-8% de vie volée par coup6-8% de Mana volé par coupDégâts réduits de 15-20%Dégâts magiques réduits de 10-15"
+    },
+    {
+        "nameFR": "Ailes des walkyries",
+        "propertiesFR": "Niveau requis : 44\nDéfense : 247-297Force requise : 115Durabilité : 40+150-200% de défense+1-2 aux compétences de l’AmazoneVitesse de marche/course +20%Récupération plus rapide de 20%+2-4 de Mana après chaque mort"
+    },
+    {
+        "nameFR": "Couronne des voleurs",
+        "propertiesFR": "Niveau requis : 49\nDéfense : 296-342Force requise : 103Durabilité : 50+160-200% de défense9-12% de vie volée par coup+33 à la résistance au feu+35 au Mana+50 en vie+25 en dextérité80-100% d’or en plus sur les monstres"
+    },
+    {
+        "nameFR": "Cimier arlequin",
+        "propertiesFR": "Niveau requis : 62\nDéfense : 98-141Force requise : 50Durabilité : 12+2 à toutes les compétences+(1,5 par niveau ) 1-148 en vie (en fonction du niveau du perso)+(1,5 par niveau ) 1-148 au Mana (en fonction du niveau du perso)Dégâts réduits de 10%+50% de chance d’obtenir des objets magiques+2 à tous les attributs"
+    },
+    {
+        "nameFR": "Vif-acier",
+        "propertiesFR": "Niveau requis : 62\nDéfense : 300-345Force requise : 109Durabilité : 24+100-130% en défense+10-18 en régénération de la vie4-8% de Mana volé par coup+5-11 en absorption du feu"
+    },
+    {
+        "nameFR": "Œil du griffon",
+        "propertiesFR": "Niveau requis : 62\nDéfense : 150-260Durabilité : 20+100-200 de défense+1 à toutes les compétences+25% à la vitesse de sort-15 à 20% à la résistance à la foudre de l’ennemi+10-15% aux dégâts de foudreLadder seulement"
+    },
+    {
+        "nameFR": "Crâne géant",
+        "propertiesFR": "Niveau requis : 65\nDéfense : 350-477Force requise : 106Durabilité : 40+250-320 en défense10% de chance de faire un coup cinglantRiposter+25-35 en force2 châsses"
+    },
+    {
+        "nameFR": "Voile de la nuit",
+        "propertiesFR": "Niveau requis : 67\nDéfense : 218,5-352Force requise : 96Durabilité : 40+90-120% en défense+2 à toutes les compétences+8-15% aux dégâts des compétences de froid+10-20 en dextérité+5-9 en absorption du froidDiminue de moitié la durée d’immobilisation-50% aux conditions requises"
+    },
+    {
+        "nameFR": "Voile d’acier",
+        "propertiesFR": "Niveau requis : 73\nDéfense : 396Force requise : 192Durabilité : 60+60% de défense+140 en défense+50 à toutes les résistances+15 en force+15 en vitalité-4 au cercle de lumière"
+    },
+    {
+        "nameFR": "Gardien de Kira",
+        "propertiesFR": "Niveau requis : 77\nDéfense : 90-170Durabilité : 25+50-120 de défense+20% à la récupération après un coupNe peut être immobilisé+50-70 à toutes les résistancesLadder seulement"
+    },
+    {
+        "nameFR": "Couronne des ages",
+        "propertiesFR": "Niveau requis : 82\nDéfense : 349-399Force requise : 174+50% en défense+100-150 en défense+1 à toutes les compétencesDégâts réduits de 10-15%+20-30 à toutes les résistances+30% à la récupération après un coup2 châssesIndestructible"
+    },
+    {
+        "nameFR": "Visage d’andariel",
+        "propertiesFR": "Niveau requis : 83\nDéfense : 310-387Force requise : 102Durabilité : 20+100-150% en défense+2 à toutes les compétences+20% en vitesse d’attaque8-10% de vie volée par coup+25-30 en force-30% en résistance au feu+10% au maximum de résistance au poison+70% à la résistance au poison15% de chance de lancer un sort Choc Empoisonné de niveau 15 quand touché20 charges du sort Venin de niveau 3Ladder seulement"
+    }
+]
