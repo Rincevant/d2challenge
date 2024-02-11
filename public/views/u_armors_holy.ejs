@@ -25,11 +25,11 @@
             <div id=<%= objet.name.toLowerCase().replace(/\s/g, "_") %> class=<% if (objet.owned === true) { %>objetOwned<% }else { %> objet <% } %> onclick='obtain("<%= objet.id %>", "<%= objet.kind %>", "<%= objet.part %>", "<%= objet.value %>", "<%= objet.name %>", "<%= objet.item %>")'>                   
                 <div class="tooltip">
                     <img src="/images/<%= objet.kind %>/<%= objet.image %>.png" class="obj_image">
-                    <span class="obj_name"><%= objet.nameFR %></span>
+                    <span class="obj_name"><%= objet.name %></span>
                     <span class="obj_value"><%= objet.value.charAt(0).toUpperCase() %><%= objet.value.slice(1) %> Unique</span>
                     <span class="obj_type"><%= objet.type %></span>
                     <span class="obj_date"><% if (objet.dateOwned != null) { %> <%- objet.dateOwned %> <% } %></span>
-                    <span class="tooltiptext"><%- objet.propertiesFR %></span>
+                    <span class="tooltiptext"><%- objet.properties %></span>
                 </div>
             </div>            
             
