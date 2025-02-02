@@ -14,16 +14,10 @@ const Unique = db.define('unique_items', {
     name : {
         type: Sequelize.STRING
     },
-    nameFR : {
-        type: Sequelize.STRING
-    },
     type : {
         type: Sequelize.STRING
     },
     properties: {
-        type: Sequelize.TEXT
-    },
-    propertiesFR: {
         type: Sequelize.TEXT
     },
     item: {

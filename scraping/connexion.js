@@ -5,7 +5,7 @@ const Sequelize = require('sequelize');
 
 var dbname = "d2challenge"
 var username = "postgres"
-var password = "08082014"
+var password = "postgres"
 /*
 var dbname = "d4n6rkgle70r4p"
 var username = "huuchfqlyxiutq"

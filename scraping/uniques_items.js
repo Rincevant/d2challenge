@@ -2,6 +2,11 @@ const Sequelize = require('sequelize');
 const db = require('./connexion')
 
 const Unique = db.define('unique_items', {
+    id: {
+        type: Sequelize.INTEGER,
+        primaryKey: true,
+        autoIncrement: true
+    },
     kind: {
         type: Sequelize.STRING,
         allowNull: false      
@@ -18,10 +23,6 @@ const Unique = db.define('unique_items', {
         type: Sequelize.STRING,
         allowNull: false   
     },
-    nameFR : {
-        type: Sequelize.STRING,
-        allowNull: true   
-    },
     type : {
         type: Sequelize.STRING,
         allowNull: false   
@@ -29,10 +30,6 @@ const Unique = db.define('unique_items', {
     properties: {
         type: Sequelize.TEXT,
         allowNull: false   
-    },
-    propertiesFR: {
-        type: Sequelize.TEXT,
-        allowNull: true   
     },
     item: {
         type: Sequelize.STRING,

@@ -8,7 +8,7 @@ const fs = require('fs');
 const db = require('./connexion')
 
 // Connect to databse
-db.authenticate().then(() => {
+db.authenticate().then(async () => {
     console.log('Connection established successfully!!!!');
     eraseDataTable()
     createDatabaseUnique()
@@ -18,10 +18,10 @@ db.authenticate().then(() => {
     console.error('Unable to connect to the database:', err);
 })
 
-function eraseDataTable() {
-    UniqueItem.destroy({ where : {}, truncate : true });
-    Runeword.destroy({ where : {}, truncate : true });
-    Set.destroy({ where : {}, truncate : true });
+async function eraseDataTable() {
+    await UniqueItem.sync({ force: true });
+    await Runeword.sync({ force: true });
+    await Set.sync({ force: true });
 }
 
 function createDatabaseSet() {
@@ -91,17 +91,16 @@ async function addUniqueToDB(objet) {
         type : objet.type,
         properties : objet.properties,
         item : objet.item,
-        image : objet.image,
-        nameFR : objet.nameFR,
-        propertiesFR : objet.propertiesFR
+        image : objet.image
     }
     //console.log(newObjet)
     try {
-        result = await UniqueItem.create(newObjet)        
+        let result = await UniqueItem.create(newObjet)
+        return result 
     } catch (error) {
-        
+        console.log(error)
     }
-    return result
+    
 }
 
 async function addRunewordToDB(objet) {
@@ -114,11 +113,12 @@ async function addRunewordToDB(objet) {
         image : objet.image       
     }
     try {
-        result = await Runeword.create(newObj)        
+        let result = await Runeword.create(newObj)        
+        return result
     } catch (error) {
-        
+        console.log(error)
     }
-    return result
+    
 }
 
 async function addSetObjToDB(objet) {
@@ -133,9 +133,10 @@ async function addSetObjToDB(objet) {
         properties : objet.properties        
     }
     try {
-        result = await Set.create(newObj)        
+        let result = await Set.create(newObj)  
+        return result      
     } catch (error) {
-        
+        console.log(error)
     }
-    return result
+    
 }
