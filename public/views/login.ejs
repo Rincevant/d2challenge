@@ -15,27 +15,19 @@
 
     <h2>Login</h2>
 
+    <% if (message != null) { %> <%= message.text %> <% } %>
+
     <form action="/login" method="POST">
         <input type="text" name="loginid" id="loginid" placeholder="Username or email" required>
         <input type="password" name="password" id="password" placeholder="Password" required>
         
-        <button type="submit" class="login_submit"></button>
+        <button type="submit" class="login_submit"></button>        
 
-        <div class="<% if (message != null && message.kind === "error") { %>errorMessage <% }else { %> validMessage <% message } %> <% if (message != null ) { %>message<% } %>">
-            <% if (message != null) { %> <%= message.text %> <% } %>
+        <div class="<% if (message && message.kind === "error") { %>errorMessage <% }else { %> validMessage <% message } %> <% if (message) { %>message<% } %>">
+            <% if (message) { %> <%= message.text %> <% } %>
         </div>
     </form>
 
     <%- include('partials/footer') %>
-
-    <script>
-        <% if ( token  != null && holygrail != null) { %>
-            var data = <%- JSON.stringify(holygrail) %>;
-            console.log(data)
-            localStorage.setItem("token" , "<%- token %>")
-            localStorage.setItem("holygrail" , data)
-            localStorage.setItem("isDirty", false)
-        <% } %>
-    </script>
 </body>
 </html>

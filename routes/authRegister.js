@@ -7,8 +7,7 @@ const services = require('../services/services')
 
 var response = { text : "", kind : ""}
 
-router.get('/', (req, res) => {
-    console.log('Request for register page recieved');
+router.get('/', async (req, res) => {
     res.render('register', {message : null});
 });
   

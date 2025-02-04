@@ -32,6 +32,20 @@ module.exports = {
       next()
     })
   },
+
+  async isUserConnected(req, res, next) {
+    if (!req.session.user) {
+      return res.redirect("/login");
+    }
+
+    try {
+        const decoded = jwt.verify(req.session.user.token, process.env.JWT_SECRET || "blablasecret");
+        //req.user = decoded;
+        next();
+    } catch (err) {
+        res.redirect("/login");
+    }
+  }, 
   
   async authentificateAdmin(req, res, next) {
     const authHeader = req.headers.authorization

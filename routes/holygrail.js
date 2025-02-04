@@ -5,9 +5,15 @@ const Runewords = require('../database/runewords_repository')
 const SetItems = require('../database/set_items_repository')
 
 // Holy Grail Total recap
-router.get('/total', async (req, res) => {
+router.get('/', async (req, res) => {
   console.log('Request for holygrail total');
-    res.render('holytotal');
+  const objects = [
+    { id: 1, name: "Pomme" },
+    { id: 2, name: "Banane" },
+    { id: 3, name: "Orange" },
+    { id: 4, name: "Poire" }
+  ];
+    res.render('holygrail', { objects });
 });
 
 // Holy Grail Uniques Armors

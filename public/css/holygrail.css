@@ -181,3 +181,8 @@ h2 {
 #btnSave:hover {
     background-image: url('../images/saveon.jpg');
 }
+
+#search_item {
+    width: 30%;
+    margin: auto;
+}

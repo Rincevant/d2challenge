@@ -5,12 +5,13 @@ const Token = require('../database/token_repository')
 const Holygrail = require('../database/holygrail_repository')
 const bcrypt = require('bcryptjs')
 const jwt = require('jsonwebtoken')
+const services = require('../services/services')  
 
 var response = { text : "", kind : ""}
 var token = null
 var holygrail = null
 
-router.get('/', (req, res) => {
+router.get('/', async (req, res) => {
     console.log('Request for login page recieved');
     res.render('login', {message : null, token : null, holygrail : null});
 });  
@@ -38,8 +39,11 @@ router.post('/', async (req, res) => {
     holygrail = await Holygrail.getTemplateByIdUser(user[0].id)
 
     response.kind = 'valid'
-    response.text = "Login sucessfull"
-    res.status(200).header('auth_token', token).render('login', {message : response, token : token, holygrail : holygrail.holygrail})
+    response.text = "Login sucessfull"        
+
+    req.session.user = { username: user[0].username, token}
+    req.session.message = response;
+    res.redirect('/');
 });  
 
 module.exports = router

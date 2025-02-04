@@ -1,14 +1,13 @@
 const express = require('express');
 const router = express.Router();
+const services = require('../services/services') 
 
+router.get('/', async (req, res) => {
+  res.render('index');
+});
 
-router.get('/', (req, res) => {
-  console.log('Request for home recieved');
-  var template = require('../database/Models/template_own')
-
-  var data = { name : "Julien\'s", age : 32 }
-  
-  res.render('index' , {template : template } );
+router.get('/profile', services.isUserConnected,  async (req, res) => {
+  res.render('profile');
 });
 
 module.exports = router;

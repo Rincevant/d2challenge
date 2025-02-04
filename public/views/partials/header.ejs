@@ -1,28 +1,31 @@
-<header>
-    <div id="login_menu">
-       <a href="/login"><span>login</span></a>
-       <a href="/register"><span>register</span></a>
-    </div>
+<header>    
+    <% if (user) { %>
+        <div id="login_menu">
+            <span>Welcome stranger : <b><%= user.username %></b></span>
+            <a href="/logout"><span>logout</span></a>
+        </div>
+    <% } else { %>
+        <div id="login_menu">
+            <a href="/login"><span>login</span></a>
+            <a href="/register"><span>register</span></a>
+        </div>
+    <% } %>
 
     <div id="logo">
         <a href="/"><img src="/images/logod2challenge.png" alt="fireCamp" class="logo"></a>
     </div>
     <div id="top_menu">
 
-        <div class="btnNav">
-            <a href="/"><img src="/images/profileoff.jpg" alt="login" class="connectBtn">
-            <img src="/images/profileon.jpg" alt="login" class="img-top connectBtn"></a>
-        </div>
+        <% if (user) { %>
+            <div class="btnNav">
+                <a href="/profile"><img src="/images/profileoff.jpg" alt="login" class="connectBtn">
+                <img src="/images/profileon.jpg" alt="login" class="img-top connectBtn"></a>
+            </div>
+        <% } %>
 
         <div class="btnNav">
-            <a href="/holygrail/total"><img src="/images/holyGrailoff.jpg" alt="login" class="connectBtn">
+            <a href="/holygrail"><img src="/images/holyGrailoff.jpg" alt="login" class="connectBtn">
             <img src="/images/holyGrailon.jpg" alt="login" class="img-top connectBtn"></a>
         </div>
-
-        <div class="btnNav">
-            <a href="/login"><img src="/images/clansoff.jpg" alt="login" class="connectBtn">
-            <img src="/images/clanson.jpg" alt="login" class="img-top connectBtn"></a>
-        </div>
-
     </div>        
 </header>

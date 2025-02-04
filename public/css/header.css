@@ -67,7 +67,8 @@ h1 {color: white; font-size: 4em;}
     justify-content: right;
     font-family: Kodia;
     color: #f0e7d8;
-    width: 75%;
+    width: 80%;    
+    margin: auto;
     margin-top: 50px;
     font-size: 1em;
 }
