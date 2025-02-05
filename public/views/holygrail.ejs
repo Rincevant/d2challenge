@@ -15,30 +15,28 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Cinzel&display=swap" rel="stylesheet">    
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>  
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script> 
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script> 
     <title>Document</title>
 </head>
 <body>
     <%- include('partials/header') %>    
 
-    <%- include('partials/menuholy') %>    
+    <%- include('partials/menuholy') %>
+    
+    <h2>Search</h2>
 
     <div id="search_item">
-        <input type="text" id="searchInput" onkeyup="filterObjects()" placeholder="Search items by name">
-        <select id="objectDropdown">
-            <% objects.forEach(function(obj) { %>
-                <option value="<%= obj.id %>"><%= obj.name %></option>
-            <% }); %>
-        </select>
+        <input type="text" id="searchInput" onkeyup="searchItems(this.value)" placeholder="Search items by name">           
+    </div>
+
+    <div id="unique_content">     
     </div>
     
-    <%- include('partials/footer') %> 
+    <%- include('partials/footer') %>
 
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
-    <script>
-        $(document).ready(function(){
-        $('select').formSelect();
-        });
-    </script>
+    <script src="/js/search.js"></script>
+
+    <script src="/js/tooltipItems.js"></script>
 </body>
 </html>
