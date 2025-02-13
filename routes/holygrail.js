@@ -1,8 +1,11 @@
 const express = require('express')
 const router = express.Router()
+const services = require('../services/services') 
 const UniqueItems = require('../database/unique_items._repository');
 const Runewords = require('../database/runewords_repository')
-const SetItems = require('../database/set_items_repository')
+const SetItems = require('../database/set_items_repository');
+const Holygrail = require('../database/holygrail_repository');
+const User = require('../database/users_repository');
 
 // Holy Grail Total recap
 router.get('/', async (req, res) => {
@@ -21,7 +24,18 @@ router.get('/u_armors', async (req, res) => {
 router.get('/u_weapons', async (req, res) => {
   console.log('Request for holygrail uniques');
   var objets = await UniqueItems.getAllUniqueWeapons()
-  res.render('u_weapons_holy', {objets:objets});
+  var holygrail = null;
+  
+  // Récuperer les data du grail du joueur
+  if(req.session.user != null && services.userIsConnected(req.session.user.token)) {
+    // Recuperer le user
+    let username = req.session.user.username;
+    let user = await User.getUserByName(username)
+    let holygrailDTO = await Holygrail.getTemplateByIdUser(user.dataValues.id)
+    holygrail = holygrailDTO.holygrail
+  }
+
+  res.render('u_weapons_holy', {objets:objets, holygrail: JSON.stringify(holygrail)});
 });
 
 // Holy Grail Uniques Others
@@ -53,7 +67,7 @@ router.post('/search', async (req, res) => {
   try {
       // Récupérer la valeur envoyée dans le body et la mettre en minuscule
       const searchValue = req.body.value?.toLowerCase();
-
+      
       // Récupérer toutes les données en parallèle pour améliorer la performance
       const [armors, runewords, setItems, weapons] = await Promise.all([
           UniqueItems.getAllUniqueArmors(),
@@ -79,6 +93,32 @@ router.post('/search', async (req, res) => {
   }
 });
 
+// Route PUT pour mettre à jour un objet par son ID
+router.put('/update/:id', services.authentificateToken, async (req, res) => {
+  const idItem = parseInt(req.params.id);
 
+  // Recuperer le user
+  let username = req.session.user.username;
+  let user = await User.getUserByName(username)
+
+  if(user != undefined) {
+    // Recuperer holygrail du user
+    let holygrailDTO = await Holygrail.getTemplateByIdUser(user.dataValues.id)
+    let holygrail = JSON.parse(holygrailDTO.holygrail)
+
+    // Modifier la valeur
+    holygrail[req.body.item][idItem].owned = !holygrail[req.body.item][idItem].owned
+    
+    if(holygrail[req.body.item][idItem].owned) {
+      holygrail[req.body.item][idItem].date = services.getDate()
+    } else {
+      holygrail[req.body.item][idItem].date = null
+    } 
+
+    await Holygrail.editHolyGrail(holygrail, user.dataValues.id)
+  }
+
+  res.json({ message: 'Item updated successfully' });
+});
 
 module.exports = router

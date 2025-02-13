@@ -13,9 +13,8 @@ module.exports = {
     return validPass && validUserName
   },
 
-  async authentificateToken(req, res, next) {    
-    const authHeader = req.headers.authorization
-    const token = authHeader && authHeader.split(' ')[1]
+  async authentificateToken(req, res, next) {
+    const token = req.session.user.token
     
     if (token == null) return res.sendStatus(403)
 
@@ -33,19 +32,16 @@ module.exports = {
     })
   },
 
-  async isUserConnected(req, res, next) {
-    if (!req.session.user) {
-      return res.redirect("/login");
-    }
+  async userIsConnected(token) {
+    if (token == null) return false;
 
-    try {
-        const decoded = jwt.verify(req.session.user.token, process.env.JWT_SECRET || "blablasecret");
-        //req.user = decoded;
-        next();
-    } catch (err) {
-        res.redirect("/login");
-    }
-  }, 
+    jwt.verify(token, 'blablasecret', (err, user) => {
+      if (err) {
+        return false;
+      }
+      return true;
+    })
+  },
   
   async authentificateAdmin(req, res, next) {
     const authHeader = req.headers.authorization
@@ -63,6 +59,15 @@ module.exports = {
       if ( isAdminUser.length == 0 ) return res.sendStatus(403)
       next()
     })
+  },
+
+  getDate() {
+    var d = new Date();
+    let month = String(d.getMonth() + 1);
+    let day = String(d.getDate());
+    const year = String(d.getFullYear());
+
+    return month+"/"+day+"/"+year
   }
   
 }

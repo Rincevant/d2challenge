@@ -1,57 +1,71 @@
-const Sequelize = require('sequelize');
+const db = require('./connexion')
 const UniqueItem = require('./uniques_items.js')
 const Runeword = require('./runewords.js')
 const Set = require('./set_items')
-//requiring path and fs modules
 const path = require('path');
 const fs = require('fs');
-const db = require('./connexion')
 
-// Connect to databse
-db.authenticate().then(async () => {
-    console.log('Connection established successfully!!!!');
-    eraseDataTable()
-    createDatabaseUnique()
-    createDatabaseRuneword()
-    createDatabaseSet()
-}).catch(err => {
-    console.error('Unable to connect to the database:', err);
-})
+async function main() {
+    try {
+        await db.authenticate();
+        console.log('Connection established successfully!!!!');
+
+        const args = process.argv.slice(2);
+
+        await eraseDataTable(); // Ensure this completes before proceeding
+        
+        await createDatabaseUnique();
+        await createDatabaseRuneword();
+        await createDatabaseSet();
+    } catch (err) {
+        console.error('Unable to connect to the database:', err);
+    }
+}
+
+// Call the main function
+main();
 
 async function eraseDataTable() {
+    console.log('----------------- ERASE DATABASE ------------------');
+    // Drop tables explicitly before syncing
+    await db.query('DROP TABLE IF EXISTS "UniqueItems" CASCADE');
+    await db.query('DROP TABLE IF EXISTS "Runewords" CASCADE');
+    await db.query('DROP TABLE IF EXISTS "Sets" CASCADE');
+
     await UniqueItem.sync({ force: true });
     await Runeword.sync({ force: true });
     await Set.sync({ force: true });
+    console.log('----------------- ERASE DATABASE END ------------------');
 }
 
-function createDatabaseSet() {
-    const directorySetNormal = path.join(__dirname, 'set/normal');
-    const directorySetLod = path.join(__dirname, 'set/lod');
-    readAndWrite(directorySetNormal, 'set/normal', 'set')
-    readAndWrite(directorySetLod, 'set/lod', 'set')
-}
-
-
-function createDatabaseRuneword() {
-    const directoryRunewords = path.join(__dirname, 'runewords');
-    readAndWrite(directoryRunewords, 'runewords', 'runeword')
-    
-}
-
-function createDatabaseUnique() {
+async function createDatabaseUnique() {
+    console.log('----------------- INSERT UNIQUE ITEMS START ------------------');
     const directoryPathArmor = path.join(__dirname, 'armors');    
     const directoryPathWeapon = path.join(__dirname, 'weapons');
     const directoryPathOthers = path.join(__dirname, 'others');
     const directoryPathClasses = path.join(__dirname, 'classes');
 
-    readAndWrite(directoryPathArmor, 'armors', 'unique')
-    readAndWrite(directoryPathWeapon, 'weapons', 'unique')
-    readAndWrite(directoryPathOthers, 'others','unique')
-    readAndWrite(directoryPathClasses, 'classes','unique')
-    
+    await readAndWrite(directoryPathArmor, 'armors', 'unique');
+    await readAndWrite(directoryPathWeapon, 'weapons', 'unique');
+    await readAndWrite(directoryPathOthers, 'others','unique');
+    await readAndWrite(directoryPathClasses, 'classes','unique');    
+    console.log('----------------- INSERT UNIQUE ITEMS END ------------------');
 }
 
-function readAndWrite(path, nameDirectory, kind) {
+async function createDatabaseSet() {
+    const directorySetNormal = path.join(__dirname, 'set/normal');
+    const directorySetLod = path.join(__dirname, 'set/lod');
+    await readAndWrite(directorySetNormal, 'set/normal', 'set');
+    await readAndWrite(directorySetLod, 'set/lod', 'set');
+}
+
+
+async function createDatabaseRuneword() {
+    const directoryRunewords = path.join(__dirname, 'runewords');
+    await readAndWrite(directoryRunewords, 'runewords', 'runeword');    
+}
+
+async function readAndWrite(path, nameDirectory, kind) {
     fs.readdir(path, function (err, files) {
         //handling error
         if (err) {
@@ -67,11 +81,11 @@ function readAndWrite(path, nameDirectory, kind) {
                 var elements = JSON.parse(data)
                 elements.forEach(async element => {
                     if (kind == 'unique') {
-                        var res = await addUniqueToDB(element)
+                        var res = await addUniqueToDB(element);
                     } else if (kind == 'runeword') {
-                        var res = await addRunewordToDB(element)
+                        var res = await addRunewordToDB(element);
                     } else if (kind == 'set') {
-                        var res = await addSetObjToDB(element)
+                        var res = await addSetObjToDB(element);
                     }
                 });
             })
@@ -79,8 +93,6 @@ function readAndWrite(path, nameDirectory, kind) {
         });
     });
 }
-
-
 
 async function addUniqueToDB(objet) {
     var newObjet = {
@@ -93,14 +105,12 @@ async function addUniqueToDB(objet) {
         item : objet.item,
         image : objet.image
     }
-    //console.log(newObjet)
     try {
         let result = await UniqueItem.create(newObjet)
         return result 
     } catch (error) {
         console.log(error)
-    }
-    
+    }    
 }
 
 async function addRunewordToDB(objet) {
@@ -117,8 +127,7 @@ async function addRunewordToDB(objet) {
         return result
     } catch (error) {
         console.log(error)
-    }
-    
+    }    
 }
 
 async function addSetObjToDB(objet) {
@@ -137,6 +146,5 @@ async function addSetObjToDB(objet) {
         return result      
     } catch (error) {
         console.log(error)
-    }
-    
+    }    
 }

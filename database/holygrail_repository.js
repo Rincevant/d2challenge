@@ -14,7 +14,7 @@ module.exports = {
     },    
 
     async addHolyGrailToDatabase(idUser) {
-        var template = require('./Models/template_own')
+        var template = require('./Models/template_grail')
         
         var holygrail = {
             id_user : idUser,

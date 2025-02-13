@@ -38,7 +38,7 @@ function updateUI(result) {
 
     result.forEach(objet => {
         let objetHtml = `
-            <div id="${objet.name.toLowerCase().replace(/\s/g, "_")}" class='objetSearch'>                   
+            <div id="item_${objet.id}" class='objetSearch'>                   
                 <div class="tooltip">
                     <img src="/images/${objet.kind}/${objet.image}.png" class="obj_image">
                     <span class="obj_name">${objet.name}</span>

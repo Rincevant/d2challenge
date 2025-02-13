@@ -32,7 +32,7 @@ router.post('/', async (req, res) => {
     if (!validPassword) return res.status(400).render('login', {message : response, token : token, holygrail : holygrail})    
 
     //Create token and sent it back
-    token = jwt.sign( {username : user[0].username, avatar : user[0].avatar}, 'blablasecret', {expiresIn: '1h'})
+    token = jwt.sign( {username : user[0].username, userId : user[0].id}, 'blablasecret', {expiresIn: '1h'})
     await Token.addTokenToUser(user[0].id, token)
 
     // Get the user holygrail
@@ -44,6 +44,6 @@ router.post('/', async (req, res) => {
     req.session.user = { username: user[0].username, token}
     req.session.message = response;
     res.redirect('/');
-});  
+});
 
 module.exports = router

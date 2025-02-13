@@ -6,7 +6,7 @@ router.get('/', async (req, res) => {
   res.render('index');
 });
 
-router.get('/profile', services.isUserConnected,  async (req, res) => {
+router.get('/profile', services.authentificateToken,  async (req, res) => {
   res.render('profile');
 });
 
