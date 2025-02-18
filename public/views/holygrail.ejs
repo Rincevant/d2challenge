@@ -8,8 +8,8 @@
     <link rel="stylesheet" type="text/css" href="/css/global.css">
     <link rel="stylesheet" type="text/css" href="/css/footer.css">
     <link rel="stylesheet" type="text/css" href="/css/header.css">
-    <link rel="stylesheet" type="text/css" href="/css/holygrail.css"> 
-    <link rel="stylesheet" type="text/css" href="/css/menuholy.css"> 
+    <link rel="stylesheet" type="text/css" href="/css/menuholy.css">
+    <link rel="stylesheet" type="text/css" href="/css/search.css">
     <!-- Compiled and minified CSS -->
     <!-- Compiled and minified JavaScript -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -27,7 +27,8 @@
     <h2>Search</h2>
 
     <div id="search_item">
-        <input type="text" id="searchInput" onkeyup="searchItems(this.value)" placeholder="Search items by name">           
+        <input type="text" id="searchInput" onkeyup="searchItems(this.value)" placeholder="Search items by name">
+        <div id="errorMessage"></div>           
     </div>
 
     <div id="unique_content">     
@@ -37,6 +38,7 @@
 
     <script src="/js/search.js"></script>
 
-    <script src="/js/tooltipItems.js"></script>
+    <script src="/js/tooltipSearchItems.js"></script>
+
 </body>
 </html>

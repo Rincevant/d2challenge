@@ -80,12 +80,23 @@ router.post('/search', async (req, res) => {
       let objets = [...armors, ...runewords, ...setItems, ...weapons];
 
       // Appliquer le filtre si une recherche est spécifiée
+      let result = []
       if (searchValue) {
-          objets = objets.filter(obj => obj.name.toLowerCase().includes(searchValue));
+          for (let index = 0; index < objets.length; index++) {
+             if(objets[index].item === "Unique" || objets[index].item === "Set") {
+
+                if(objets[index].name.toLowerCase().includes(searchValue.toLowerCase())) result.push(objets[index])
+
+             } else if (objets[index].item === "Rune Words") {
+
+                //if(objets[index].originalRuneWords.includes(searchValue)) result.push(objets[index])
+             }
+            
+          }
       }
 
       // Retourner le résultat en JSON
-      res.json({ objets: objets });
+      res.json({ objets: result });
 
   } catch (error) {
       console.error("Erreur lors de la recherche :", error);
