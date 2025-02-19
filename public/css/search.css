@@ -131,6 +131,16 @@ p {
     margin-bottom: 10px;
 }
 
+.obj_name_set {
+    font-family: Kodia;
+    text-align: center;
+    font-size: 1em;
+    font-weight: bold;
+    color : #90ff00;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
 .obj_type {
     text-align: center;
     font-family: Formal;

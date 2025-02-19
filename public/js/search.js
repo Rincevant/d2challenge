@@ -18,6 +18,8 @@ async function searchItems(search) {
             }
         });
     } else {
+        let contentUnique = $("#unique_content"); 
+        contentUnique.empty();
         let contentDiv = $("#errorMessage"); 
         contentDiv.empty(); // Supprime les anciens résultats
         contentDiv.append("<p class='errorMessage'>Input minimum 3 characters for search.</p>");
@@ -56,7 +58,7 @@ function updateUI(result) {
             <div id="item_${objet.id}_${objet.item}" class='objetSearch Set'>                   
                 <div class="tooltip">
                     <img src="/images/${objet.kind}/${objet.image}.png" class="obj_image">
-                    <span class="obj_name obj_name_set">${objet.name}</span>
+                    <span class="obj_name_set">${objet.name}</span>
                     <span class="obj_type">${objet.type}</span>
                     <span class="tooltiptext settooltip">${objet.properties}</span>
                 </div>

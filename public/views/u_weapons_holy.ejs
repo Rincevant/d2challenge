@@ -40,8 +40,15 @@
 
     <%- include('partials/footer') %>  
 
+    <script src="/js/ejs.js"></script>
+
     <script>
-        window.holy = <%- JSON.stringify(holygrail) %>;
+        try {
+            window.holy = ejs.render('<%- JSON.parse(holygrail) %>');
+        } catch (e) {
+            console.error('Error parsing holygrail data:', e);
+            window.holy = {};
+        }
     </script>
 
     <script src="/js/tooltipItems.js"></script>
@@ -49,8 +56,6 @@
     <script src="/js/dateItems.js"></script> 
 
     <script src="/js/loadWeapons.js"></script>
-
-    <script src="/js/saveTemplate.js"></script>    
       
 </body>
 </html>

@@ -17,7 +17,18 @@ router.get('/', async (req, res) => {
 router.get('/u_armors', async (req, res) => {
   console.log('Request for holygrail uniques armors');
   var objets = await UniqueItems.getAllUniqueArmors()
-  res.render('u_armors_holy', {objets:objets});
+  var holygrail = null;
+
+  // Récuperer les data du grail du joueur
+  if(req.session.user != null && services.userIsConnected(req.session.user.token)) {
+    // Recuperer le user
+    let username = req.session.user.username;
+    let user = await User.getUserByName(username)
+    let holygrailDTO = await Holygrail.getTemplateByIdUser(user.dataValues.id)
+    holygrail = holygrailDTO.holygrail
+  }
+
+  res.render('u_armors_holy', {objets:objets, holygrail: JSON.stringify(holygrail)});
 });
 
 // Holy Grail Uniques Weapons
@@ -42,7 +53,18 @@ router.get('/u_weapons', async (req, res) => {
 router.get('/u_others', async (req, res) => {
   console.log('Request for holygrail uniques');
   var objets = await UniqueItems.getAllUniqueOthers()
-  res.render('u_others_holy', {objets:objets});
+  var holygrail = null;
+
+  // Récuperer les data du grail du joueur
+  if(req.session.user != null && services.userIsConnected(req.session.user.token)) {
+    // Recuperer le user
+    let username = req.session.user.username;
+    let user = await User.getUserByName(username)
+    let holygrailDTO = await Holygrail.getTemplateByIdUser(user.dataValues.id)
+    holygrail = holygrailDTO.holygrail
+  }
+
+  res.render('u_others_holy', {objets:objets, holygrail: JSON.stringify(holygrail)});
 });
 
 // Holy Grail Runewords

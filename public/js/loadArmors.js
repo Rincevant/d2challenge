@@ -1,21 +1,25 @@
 // Si template present chargement des donnees
-if (template != null) { 
-    var parseTemplate = JSON.parse(template)    
-    loadArmors(parseTemplate)    
+if (window.holy != "null") {
+    loadArmors(window.holy)    
 }
 
 function loadArmors(parseTemplate) {
-    Object.keys(parseTemplate["Unique"]["Armor"]).forEach(function(part) {        
-        Object.keys(parseTemplate["Unique"]["Armor"][part]).forEach(function(value) {
-            Object.keys(parseTemplate["Unique"]["Armor"][part][value]).forEach(function(name) {
-                if (parseTemplate["Unique"]["Armor"][part][value][name].owned == true) {
-                    var date = parseTemplate["Unique"]["Armor"][part][value][name].date
-                    var objet = document.getElementById(name.toLowerCase().replace(/\s/g, "_"))
-                    objet.getElementsByClassName('tooltip')[0].getElementsByClassName('obj_date')[0].innerHTML = date
+    let holygrail = JSON.parse(parseTemplate)    
+
+    let uniqueitems = holygrail.Unique
+
+    // Loop through each item in the Unique object
+    for (let id in uniqueitems) {
+        if (uniqueitems.hasOwnProperty(id)) {
+            let item = uniqueitems[id]; // Access the item by ID
+            if(item.owned) {                
+                var objet = document.getElementById("item_" + id)
+                if(objet != null) {
+                    objet.getElementsByClassName('tooltip')[0].getElementsByClassName('obj_date')[0].innerHTML = item.date
                     objet.classList.remove('objet')
                     objet.classList.add('objetOwned')
-                }
-            });
-        });        
-    });
+                }                
+            }
+        }
+    }
 }

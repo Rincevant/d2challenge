@@ -14,7 +14,11 @@ module.exports = {
   },
 
   async authentificateToken(req, res, next) {
-    const token = req.session.user.token
+    const user = req.session.user
+
+    if (user == null) return res.sendStatus(403)
+
+    const token = user.token
     
     if (token == null) return res.sendStatus(403)
 

@@ -34,7 +34,7 @@
     flex-direction: column;    
     width: 200px;
     height: 200px;
-    padding: 10px;
+    padding: 20px;
     background-color: rgb(21, 21, 27);
     border-radius: 10px;
     border: 1px solid transparent;
@@ -64,7 +64,7 @@
     flex-direction: column;    
     width: 200px;
     height: 200px;
-    padding: 10px;
+    padding: 20px;
     background-color: rgba(47, 47, 61, 0.822);
     border-radius: 10px;
     border : 1px solid rgb(179, 161, 107);
