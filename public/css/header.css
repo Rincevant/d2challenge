@@ -72,3 +72,60 @@ h1 {color: white; font-size: 4em;}
     margin-top: 50px;
     font-size: 1em;
 }
+
+@media only screen and (max-width: 600px) {
+    #login_menu {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        text-align: center;
+        width: 100%; 
+        margin: auto;
+        margin-top: 30px;
+    }
+
+    a {
+        margin-top: 5px;
+        margin-bottom: 5px;
+    }
+
+    .logo {    
+        margin-top: 150px;
+    }
+
+    .connectBtn {
+        width: auto;
+    }
+
+    .btnNav {
+        width: auto;
+    }
+
+    .button {
+        width: 120%;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+
+    #top_menu {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;        
+    }
+
+    #login {
+        font-size: 1.5em;
+    }
+
+    #register {
+        font-size: 1.5em;
+    }
+
+    #connected {
+        font-size: 1.5em;
+    }
+
+    #logout {
+        font-size: 1.5em;
+    }
+}

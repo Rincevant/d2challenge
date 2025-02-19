@@ -40,3 +40,16 @@ li:hover {
     justify-content: center;
     margin: auto;
 }
+
+@media only screen and (max-width: 600px) {
+    li { 
+        /*font-size: 1.2em;*/
+    }
+
+    ul {
+        flex-wrap: wrap;
+        justify-content: center;
+        padding-left: 0;
+    }
+
+}
