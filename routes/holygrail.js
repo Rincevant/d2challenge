@@ -71,7 +71,18 @@ router.get('/u_others', async (req, res) => {
 router.get('/runewords', async (req, res) => {
   console.log('Request for holygrail page runewords');
   var objets = await Runewords.getAllRunewords()
-  res.render('holyrunewords', {objets:objets});
+  var holygrail = null;
+
+  // Récuperer les data du grail du joueur
+  if(req.session.user != null && services.userIsConnected(req.session.user.token)) {
+    // Recuperer le user
+    let username = req.session.user.username;
+    let user = await User.getUserByName(username)
+    let holygrailDTO = await Holygrail.getTemplateByIdUser(user.dataValues.id)
+    holygrail = holygrailDTO.holygrail
+  }
+
+  res.render('holyrunewords', {objets:objets, holygrail: JSON.stringify(holygrail)});
 });
 
 // Holy Grail Set
@@ -79,7 +90,19 @@ router.get('/set', async (req, res) => {
   console.log('Request for holygrail page set');
   var objets = await SetItems.getAllSet()
   var setName = require("../database/Models/setsList")
-  res.render('holyset', {objets:objets, setName:setName});
+
+  var holygrail = null;
+
+  // Récuperer les data du grail du joueur
+  if(req.session.user != null && services.userIsConnected(req.session.user.token)) {
+    // Recuperer le user
+    let username = req.session.user.username;
+    let user = await User.getUserByName(username)
+    let holygrailDTO = await Holygrail.getTemplateByIdUser(user.dataValues.id)
+    holygrail = holygrailDTO.holygrail
+  }
+
+  res.render('holyset', {objets:objets, setName:setName, holygrail: JSON.stringify(holygrail)});
 });
 
 // Search items
@@ -138,6 +161,8 @@ router.put('/update/:id', services.authentificateToken, async (req, res) => {
     // Recuperer holygrail du user
     let holygrailDTO = await Holygrail.getTemplateByIdUser(user.dataValues.id)
     let holygrail = JSON.parse(holygrailDTO.holygrail)
+
+    if(req.body.item == "Rune Words") req.body.item = "Runeword"
 
     // Modifier la valeur
     holygrail[req.body.item][idItem].owned = !holygrail[req.body.item][idItem].owned

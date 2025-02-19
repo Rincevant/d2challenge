@@ -22,7 +22,7 @@
     <div id="unique_content">
         <% objets.forEach(function(objet) { %>
             
-            <div id=<%= objet.originalRuneWords.toLowerCase().replace(/\s/g, "_") %> class=<% if (objet.owned === true) { %>objetOwned<% }else { %> objet <% } %> onclick='obtain("<%= objet.id %>", "<%= objet.kind %>", "<%= objet.part %>", "<%= objet.value %>", "<%= objet.originalRuneWords %>", "<%= objet.item %>")'>                   
+            <div id=<%= "item_" + objet.id %> class=<% if (objet.owned === true) { %>objetOwned<% }else { %> objet <% } %> onclick='obtain("<%= objet.id %>", "<%= objet.kind %>", "<%= objet.part %>", "<%= objet.value %>", "<%= objet.originalRuneWords %>", "<%= objet.item %>")'>                   
                 <div class="tooltip">
                     <img src="/images/RuneWords/<%= objet.image %>.png" class="obj_image">
                     <span class="obj_name"><%= objet.originalRuneWords %></span>
@@ -35,17 +35,23 @@
         <% }); %>        
     </div>
 
-    <div id="btnSave" onclick="saveHolyGrail()">
-    </div>
-
     <%- include('partials/footer') %>  
+
+    <script src="/js/ejs.js"></script>
+
+    <script>
+        try {
+            window.holy = ejs.render('<%- JSON.parse(holygrail) %>');
+        } catch (e) {
+            console.error('Error parsing holygrail data:', e);
+            window.holy = {};
+        }
+    </script>
     
     <script src="/js/tooltipItems.js"></script>
 
     <script src="/js/dateItems.js"></script>  
     
     <script src="/js/loadRunewords.js"></script>
-
-    <script src="/js/saveTemplate.js"></script>
 </body>
 </html>
