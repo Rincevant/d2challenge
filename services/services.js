@@ -27,7 +27,7 @@ module.exports = {
 
     if (result.length == 0) return res.sendStatus(403)
 
-    jwt.verify(token, 'blablasecret', (err, user) => {
+    jwt.verify(token, 'x87cF&M2z1', (err, user) => {
       if (err) {
         return res.sendStatus(403)
       }
@@ -39,7 +39,7 @@ module.exports = {
   async userIsConnected(token) {
     if (token == null) return false;
 
-    jwt.verify(token, 'blablasecret', (err, user) => {
+    jwt.verify(token, 'x87cF&M2z1', (err, user) => {
       if (err) {
         return false;
       }
@@ -54,7 +54,7 @@ module.exports = {
     //Searching if token exist
     var result = await Token.findToken(token)
     if (result == null || result.length == 0) return res.sendStatus(403)
-    jwt.verify(token, 'blablasecret', async (err, user) => {
+    jwt.verify(token, 'x87cF&M2z1', async (err, user) => {
       if (err) {
         return res.sendStatus(403)
       }

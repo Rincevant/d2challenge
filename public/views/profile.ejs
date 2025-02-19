@@ -38,48 +38,57 @@
         
             <tr>
                 <th><div>Unique Armors</div></th>
-                <td>123</td>
-                <td>4</td>
-                <td>119</td>
-                <td>3.25</td>
+                <td><%= total.UniqueArmors.looted %></td>
+                <td><%= total.UniqueArmors.remaining %></td>
+                <td><%= total.UniqueArmors.totalitems %></td>
+                <td><%= total.UniqueArmors.completed %>%</td>
             </tr>
             
             <tr>
                 <th><div>Unique Weapons</div></th>
-                <td>197</td>
-                <td>0</td>
-                <td>197</td>
-                <td>0.00</td>
+                <td><%= total.UniqueWeapons.looted %></td>
+                <td><%= total.UniqueWeapons.remaining %></td>
+                <td><%= total.UniqueWeapons.totalitems %></td>
+                <td><%= total.UniqueWeapons.completed %>%</td>
             </tr>
             
             <tr>
                 <th><div>Unique Other</div></th>
-                <td>59</td>
-                <td>0</td>
-                <td>59</td>
-                <td>0.00</td>
+                <td><%= total.UniqueOther.looted %></td>
+                <td><%= total.UniqueOther.remaining %></td>
+                <td><%= total.UniqueOther.totalitems %></td>
+                <td><%= total.UniqueOther.completed %>%</td>
             </tr>
             
             <tr>
                 <th><div>Sets</div></th>
-                <td>127</td>
-                <td>8</td>
-                <td>119</td>
-                <td>6.30</td>
+                <td><%= total.Sets.looted %></td>
+                <td><%= total.Sets.remaining %></td>
+                <td><%= total.Sets.totalitems %></td>
+                <td><%= total.Sets.completed %>%</td>
+            </tr>
+
+            <tr>
+                <th><div>Runewords</div></th>
+                <td><%= total.Runewords.looted %></td>
+                <td><%= total.Runewords.remaining %></td>
+                <td><%= total.Runewords.totalitems %></td>
+                <td><%= total.Runewords.completed %>%</td>
             </tr>
             
             <tr>
                 <th><div>Total</div></th>
-                <td>506</td>
-                <td>12</td>
-                <td>494</td>
-                <td>2.37</td>
+                <td><%= total.totalresult.looted %></td>
+                <td><%= total.totalresult.remaining %></td>
+                <td><%= total.totalresult.totalitems %></td>
+                <td><%= total.totalresult.completed %>%</td>
             </tr>
         
         </tbody>
 
     </table>
-    
+
     <%- include('partials/footer') %>   
+
 </body>
 </html>
