@@ -68,7 +68,7 @@ option {
     display: flex;
     justify-content: center;
     margin: auto;
-    margin-top: 20px;
+    margin-top: 0px;
     width: 40%;
 }
 
@@ -115,5 +115,9 @@ option {
     form {
         width: 90%;
         margin-bottom: 50px;
+    }
+
+    #register {
+        margin-top: 20px;
     }
 }
