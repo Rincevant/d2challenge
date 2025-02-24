@@ -227,4 +227,21 @@ input {
     table.responsive-table {
         width: 90%;
     }
+
+    .objetOwned {
+        padding: 40px;
+    }
+
+    .objet {
+        padding: 40px;
+    }
+
+    .tooltiptext {
+        display: none;
+    }
+
+    span {
+        margin-bottom: 4px !important;
+        margin-top: 0px !important;
+    }
 }

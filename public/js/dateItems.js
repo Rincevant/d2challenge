@@ -3,7 +3,7 @@ var template = localStorage.getItem("holygrail")
 function obtain(id, kind, part, value, name, item) {
     if (id != null) {
         $.ajax({
-            url: 'http://localhost:8080/holygrail/update/' + id,
+            url: '/holygrail/update/' + id,
             dataType: 'json',            
             type: 'PUT',
             contentType: 'application/json',

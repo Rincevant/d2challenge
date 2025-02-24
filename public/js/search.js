@@ -2,7 +2,7 @@ async function searchItems(search) {
     if (search != null && search.length >= 3) {
         let searchJson = JSON.stringify({ value: search });
         $.ajax({
-            url: 'http://localhost:8080/holygrail/search',
+            url: '/holygrail/search',
             dataType: 'json',
             type: 'POST',
             contentType: 'application/json',

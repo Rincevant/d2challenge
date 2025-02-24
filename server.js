@@ -4,7 +4,7 @@ var sequelize = require('./database/connexion')
 const session = require("express-session");
 const path=require("path");
 const app=express();
-var port = process.env.PORT || 8080;
+var port = process.env.PORT || 3000;
 
 // Configuration de la session
 app.use(session({

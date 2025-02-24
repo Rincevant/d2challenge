@@ -12,11 +12,11 @@ async function main() {
 
         const args = process.argv.slice(2);
 
-        await eraseDataTable(); // Ensure this completes before proceeding
+        //await eraseDataTable(); // Ensure this completes before proceeding
         
-        await createDatabaseUnique();
-        await createDatabaseRuneword();
-        await createDatabaseSet();
+        //await createDatabaseUnique();
+        //await createDatabaseRuneword();
+        //await createDatabaseSet();
     } catch (err) {
         console.error('Unable to connect to the database:', err);
     }
